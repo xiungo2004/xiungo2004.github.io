@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dạo này Xíu hay lên cơn khùng "
+title: " Dạo này Xíu hay lên cơn khùng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/392773656294687.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-12 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Dạo này Xíu hay lên cơn khùng. Có bữa tự nhiên muốn cọc, muốn chửi, muốn gây sự để cãi nhau với ai đó. Xíu nói với bạn bè là nay cọc, nhưng không ai có thể xoa dịu cái sự cọc tính, khó ở của Xíu lúc ấy cả. Xíu cũng chả dám đi gây sự với bạn, sợ máu khùng của Xíu lên rồi chửi nó, vậy thì tội nó quá, với cũng sợ chúng nó chửi nữa.
+
+Thế là Xíu quyết định mình sẽ đi kiếm người yêu. Yêu cầu của Xíu đơn giản lắm, chỉ cần chịu được cái sự khùng điên của Xíu là ok, dễ mà đúng không?
+
+Xíu đi kể với đám bạn như dị. Từ đó về sau, tụi nó tích cực lắm, tích cực đi bán Xíu. Bán bất chấp luôn, à, thiếu nước mang Xíu đi cho người ta luôn á. Chúng nó quen ai đang độc thân là đòi gả Xíu đi.
+
+Hôm bữa, trên Tiệm tỏ tình, tụi nó mang Xíu ra đấu giá. Mà đấu giá là sao, là quá trình mua bán bằng cách đưa ra món hàng cần đấu giá, sau đó ra giá, giá nào cao hơn mới bán. Nhưng mấy cô chủ ở Tiệm không vậy, chỉ cần có người dô mua là y như rằng Xíu là hàng ế lâu năm, cần bán ngay, bán gấp, bán luôn vậy đó. Người ta đòi trả góp cũng chịu. Cái nết gì lạ lùng dị hông biết. Mang ra đấu giá mà Xíu không có miếng giá nào luôn. Tức cái tụi này ghê.
+
+_Xíu_
+
+#ChuyencuaXiu
+#Tiemtotinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/392773656294687.jpg">

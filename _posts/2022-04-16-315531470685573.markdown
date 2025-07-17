@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đi ăn một mình "
+title: " Đi ăn một mình "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/315531470685573.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-04-16 12:00:08 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Đi ăn một mình
+
+Tớ ghét đi ăn một mình lắm. Nó cô đơn, và tớ thì không thích điều đó chút nào cả. Trước giờ tớ đều đi ăn cùng bạn, hôm nào mà không có ai đi ăn chung là nhịn, hoặc kiếm gì đó ăn đại ở phòng.
+
+Có hôm đi học về trễ, bụng thì đói, tớ ghé vô quán ven đường gần ktx, định bụng sẽ mua đồ ăn về phòng. Cô hỏi “Con ăn ở đây hay mang về?”. Không hiểu sao lúc đó tớ nghĩ tới cảnh mua về thì phải rửa tô, rửa chén, lười, thế là tớ quyết định ăn ở đó luôn. Nhưng lúc ngồi xuống bàn tớ lại thấy hối hận. Nhìn xung quanh ai cũng có bạn có bè, có mình tớ ngồi cô đơn. Tủi ghê vậy đó! Ăn cũng không thấy ngon nữa. Lúc đó tớ chỉ biết vừa ăn vừa cắm mặt vô điện thoại để phân tán sự chú ý, để bớt đi cảm giác cô đơn, trống trải. Sau lần đó, tớ không dám đi ăn một mình và cũng tự hứa sẽ không bao giờ đi ăn một mình nữa. Không thể hành hạ tâm trạng của mình như vậy được.
+
+Mỗi lần đi cà phê chạy deadline với bạn, thấy ai đó bước vô quán một mình, tớ đều ngưỡng mộ. Tớ tự hỏi “Sao họ có thể đi một mình vậy nhỉ?”, “Họ không cô đơn hả ta?”. “Họ nghĩ gì khi đi một mình như vậy nhỉ”. Và suốt cả buổi, tớ sẽ chú ý tới họ nhiều hơn. Tớ muốn biết họ đợi bạn hay thực sự chỉ đi có một mình, và họ sẽ ngồi đó được bao lâu. Không hiểu cái sở thích gì kỳ ghê.
+
+Hôm nay, bạn tớ mặc đồ xinh đẹp để đi ăn, đi chơi nhưng lại không có ai đi cùng. Bạn rủ hết người này đến người kia thì họ đều bận. Không cam tâm, bạn quyết định đi ăn một mình. Bạn nói với tớ một câu thế này “Trưởng thành là khi không ai đi ăn chung thì đi một mình”. Nghe cũng hợp lý phết. Nhưng mà nếu như vậy, chắc tớ sẽ mãi không trưởng thành được mất. Bởi tớ sẽ chẳng đi ăn một mình hay cafe một mình được. Sự cô đơn sẽ ăn mòn tâm hồn của tớ mất.
+
+Ảnh: Tách
+
+#Xíu
+#Chuyenlinhtinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/315531470685573.jpg">

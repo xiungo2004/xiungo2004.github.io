@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Viết gì cho ngày mai? "
+title: " Viết gì cho ngày mai? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/421179430153381.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-04 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Viết gì cho ngày mai?<br>
+Về chuyện tình đôi ta<br>
+Người đến rồi người đi<br>
+Hoa chớm nở chớm tàn<br>
+Như tình mình vỡ tan<br>
+
+Viết gì cho ngày mai?<br>
+Tương lai rẽ đôi ngã<br>
+Câu ước hẹn năm xưa<br>
+Nay chỉ còn dĩ vãng<br>
+Cất trong tim ký ức<br>
+Về một thời thanh xuân<br>
+
+Viết gì cho ngày mai?<br>
+Bồ công anh trong gió<br>
+Cứ ngỡ là mong manh<br>
+Nhưng hóa ra mãnh liệt<br>
+Tạm biệt những điều cũ<br>
+Chuyện tình mình chẳng may<br>
+
+_Xíu_
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/421179430153381.jpg">

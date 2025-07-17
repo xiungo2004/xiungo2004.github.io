@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình có một chuyện tình lò vi sóng
+ "
+title: " Mình có một chuyện tình lò vi sóng
+ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/886189570319029.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2024-11-05 19:41:25 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2024-11-05 19:41:25 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình có một chuyện tình lò vi sóng
+
+Mấy hồi bạn bè chọc chuyện tình của mình như cái lò vi sóng, cứ hâm đi hâm lại hoài, không thì sẽ nói: ừa nó có 3 mối tình nhưng mà với cùng 1 người. Mới đầu cũng cáu chứ, vì chẳng ai muốn bị nói như vậy cả, có muốn nhắc lại khoảng thời gian chật vật ngày chia tay đâu chứ.
+
+Mà bị nói riết cũng quen, thấy cũng hợp lý, đâu cãi được, tại mình vậy mà.
+
+Hồi đó tụi mình chia tay nhao 2 lần, mỗi lần chia tay là cả năm mới quay lại lận. Vậy nên mấy hồi đi xem bói, ai nói mối tình mình k có kết quả, tin hết ráo. Mà tin tin vậy thôi, chớ không nghe. Mình tổn thương bởi tình yêu nhưng cũng được tình yêu chữa lành.
+
+Mình cũng không phải là đứa mê bói toán gì nhưng được cái thích đi xem, thích nghe người ta phân tích cuộc đời mình rồi tương lai sẽ như thế nào, đi về đâu. Và lúc nào cũng tâm niệm chuyện đi xem bói: gì nói tốt, nói đẹp thì tin, gì xấu xấu thì bỏ qua.
+
+Nhưng được cái lần nào đi coi bói hay tarot mọi người đều nói rằng mình và anh sẽ không có cái kết tốt đẹp, như vậy chỉ tổ làm khổ nhau thôi. Vũ trụ bảo vậy, mà cũng có lần mẹ mình bảo thôi đừng yêu nữa, vì 2 đứa chia tay quay lại nhiều quá.
+
+Có mấy lần mình còn đùa với bạn: tao có một tình yêu bị cả thế giới phản đối.
+
+Đến thời điểm hiện tại, tụi mình vẫn yêu nhau, vẫn ở bên nhau hạnh phúc. Còn tương lai thì không biết như nào. Bữa sếp nhìn thấy hình nền couple trên điện thoại, sếp bảo đưa xem thử mặt mũi thế nào. Được cái sếp khen nha, 2 đứa này nhìn cái nét hao hao giống nhau, giống kiểu sẽ có một cái kết đẹp cho chuyện tình này.
+
+Dui liền.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/886189570319029.jpg">

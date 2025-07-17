@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Cuộc sống là một bộ sách vô số chữ, mỗi người có cách đọc của riêng mình "
+title: " Cuộc sống là một bộ sách vô số chữ, mỗi người có cách đọc của riêng mình "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/169770985261623.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-08-26 13:25:48 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+"Cuộc sống là một bộ sách vô số chữ, mỗi người có cách đọc của riêng mình"
+
+Thời gian qua, mình dành khá nhiều thời gian cho việc đọc sách. Và mình chỉ đọc lại những cuốn sách cũ, những cuốn sách mình đã từng đọc cách đây 2 3 năm. Ban đầu, mình chỉ muốn đọc để giết thời gian vì nội dung của những cuốn sách đó mình đều nhớ. Nhưng điều mình không ngờ tới là vẫn câu chuyện đó, nhân vật đó, những sự kiện quen thuộc đó, những con chữ đó nhưng cảm xúc, suy nghĩ của mình thì lại khác với trước kia.
+
+Nếu như 2 năm trước, điều đọng lại trong mình về cuốn sách “Nếu chỉ còn một ngày để sống” là câu chuyện tình yêu tuổi mới lớn của Olly và Maddy, là câu chuyện về sự dũng cảm dám sống cho ngày hôm nay của Maddy thì giờ đây, thứ đọng lại trong mình là sức mạnh của tình yêu thương. Tình yêu của người mẹ quá lớn, vì sợ mất đi đứa con của mình mà bảo bọc Maddy quá mức, và vì yêu mẹ mà Maddy đã chấp nhận tha thứ cho những hành động sai trái của mẹ mình. Vì tình yêu của Olly dành cho Maddy hay của Maddy dành cho Olly đã khiến cô chấp nhận đánh cược mạng sống của mình chỉ để được bên cạnh anh, cùng anh ngắm nhìn thế giới.
+
+Mình đã tự hỏi tại sao cùng một cuốn sách, cùng một người đọc lại khác về cảm xúc như vậy? Có thể do thời gian, do những trải nghiệm đã giúp mình có cái nhìn khác đi về một điều gì đó. Một con người, một cuốn sách ở hai thời điểm khác nhau đã có cái nhìn nhận khác nhau. Vậy một cuốn sách, hai con người, họ sẽ có cái nhìn giống hay khác nhau? Theo mình thì khác. Bởi mỗi người chúng ta lớn lên ở những hoàn cảnh khác nhau, ta có những trải nghiệm khác nhau, lối suy nghĩ khác nhau nên khía cạnh nhìn nhận một vấn đề nào đó cũng sẽ có điểm khác biệt. Và ta không thể phán xét ai đúng ai sai.
+
+Có những vấn đề ta không nên tranh luận đúng sai, nhất là những điều thuộc về cuộc sống cá nhân của một ai đó. Mình đã từng đọc một câu thế này “Cuộc sống là một bộ sách vô số chữ, mỗi người có cách đọc của riêng mình. Cuộc sống là một câu hỏi có nhiều lời giải, mỗi người có đáp án của riêng mình. Cuộc sống, là một tách trà, mỗi người có cách thưởng thức của riêng mình. Những lúc không vui, hãy tự nhủ với bản thân: Rằng tất thảy của tất thảy, chính là để cuộc sống, thoải mái hơn, vui vẻ hơn, hạnh phúc hơn.”
+
+Mỗi người chúng ta, hãy chỉ sống cuộc đời của riêng mình, đừng can thiệp, cũng đừng phán xét cuộc đời của ai cả. Mỗi người đều có một cuộc đời riêng biệt cũng như có cách nhìn riêng biệt về một cuốn sách mà ta chẳng thể can thiệp.
+
+#NguyệtHạ
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/169770985261623.jpg">

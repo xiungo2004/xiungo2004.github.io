@@ -1,0 +1,74 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm nay tôi lại yêu "
+title: " Hôm nay tôi lại yêu "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/457669056504418.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-22 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-22 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+<p>
+Hôm nay tôi lại yêu <br>
+Nhưng chẳng dám ở cạnh<br>
+Trái tim này mong manh<br>
+Sợ đủ thứ trên đời<br>
+</p>
+
+
+<p>
+  Tin nhắn không hồi đáp<br>
+  Câu biện bạch vô tâm<br>
+  Rồi những trận cãi vã<br>
+  Câu chia tay trót lỡ<br>
+  Tôi và người cách xa<br>
+</p>
+
+<p>
+  Nuôi nấng bao kỷ niệm<br>
+  Rồi học cách quên đi<br>
+  Yêu nhau thì dễ đó<br>
+  Quên đi khó hơn nhiều<br>
+</p>
+
+<p>
+  Trái tim bằng máu thịt<br>
+  Vẫn rung động vì người<br>
+  Nhưng lí trí kiệt quệ<br>
+  Bảo mệt rồi, đừng yêu!<br>
+</p>
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/457669056504418.jpg">
+
+

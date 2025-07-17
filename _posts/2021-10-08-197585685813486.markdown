@@ -1,0 +1,68 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " ĐÊM "
+title: " ĐÊM "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/197585685813486.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-08 12:30:58 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+ĐÊM
+
+Mọi người có thích thời gian về đêm không? Nếu có thể, hãy chia sẻ với mình lý do nha. Còn mình thì...mình không biết mình thích hay không nữa.
+
+Mình thích đêm, vì
+Đêm là sự bắt đầu, bắt đầu cho những cảm xúc chẳng thể gọi tên
+Đêm là khoảng thời gian mình nhìn lại hành trình trong một ngày, nhìn lại những điều đã làm được
+Đêm xuống, mình có nhiều thời gian và không gian để viết lên những trải nghiệm, những cảm nhận trong một ngày
+Đêm cũng là lúc mình được trở về với con người thật của mình, không cần che giấu cảm xúc, không cần phải quan tâm đén bất kỳ ai
+Đêm là khoảng thời gian tốt nhất để rơi nước mắt. Vì trong đêm, sẽ không ai nhìn thấy những giọt nước mắt của mình, không thấy được sự buồn bã hiện lên trên nét mặt. Không thấy thì họ sẽ không biết mình yếu đuối.
+
+Nhưng mình cũng ghét nó, bởi lẽ
+Đêm là dấu hiệu của sự kết thúc, kết thúc một ngày, kết thúc công việc, kết thúc cuộc chơi, kết thúc cuộc nói chuyện,... Nói chung đêm là tượng trưng của sự kết thúc và mình không thích điều này.
+Đêm xuống là lúc mình cảm thấy cô đơn hơn bao giờ hết, không còn những tiếng nói cười rôm rả xung quanh, chỉ còn lại bản thân và khoảng không tĩnh mịch
+Đêm là lúc mình phải đối diện với chính bản thân mình, đối diện với cảm xúc, với tiếng lòng của bản thân
+Đêm là lúc mình có thời gian để trách cứ bản thân vì chưa làm tốt một điều gì đó hoặc về sai lầm của bản thân
+Đêm là lúc mình nhớ về quá khứ, nhớ lại những kỉ niệm đã qua, nhớ đến những con người đã bước ra khỏi cuộc đời mình
+
+Dù ghét hay thích thì đêm vẫn cứ đến, vẫn cứ đi như một vòng tuần hoàn. Đó là hiện tượng thuộc về tự nhiên. Cũng giống như trong cuộc sống của bạn, có người sẽ đến và có người sẽ đi, dù ta không muốn cũng không thể níu kéo hay trốn tránh được. Đến cuối cùng, điều duy nhất ta có thể làm là chấp nhận nó như một phần không thể thiếu trong cuộc sống
+
+Ảnh: Pinterest
+
+#NguyetHa
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/197585685813486.jpg">

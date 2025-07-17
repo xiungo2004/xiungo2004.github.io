@@ -1,0 +1,60 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Sống xa mẹ chẳng dễ dàng #1 "
+title: " Sống xa mẹ chẳng dễ dàng #1 "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/229088312663223.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-26 12:30:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Sống xa mẹ chẳng dễ dàng #1
+
+Hôm nay mẹ về quê. Mẹ bảo con ở nhà cơm nước cho ba đi làm, bé 4 đi học. Tự dưng con thấy hoang mang quá mẹ ơi. Con vốn dĩ cũng nằm trong danh sách được lo cơm nước, nay lại phải là người lo cơm nước. Con chưa thể và cũng không muốn thích nghi với sự thay đổi này, mẹ ơi.
+
+Nghe tin mẹ về quê, tự dưng con lo lắng cho những ngày sắp tới. Không có mẹ, con biết phải làm sao? Mẹ bảo con sáng phải đi chợ, rồi nấu ăn cho ba đi làm. Nhưng mẹ ơi, làm sao con có thể dậy sớm để chen chân ngoài chợ mua thịt cá. Con đâu biết đi chợ, con sợ bị người ta lừa. Con đâu biết chế biến các món ăn nào khác ngoài rau đâu mẹ. Ước gì con có thể cho nhà mình ăn ngày ba bữa rau, như vậy sẽ dễ dàng cho con hơn. Nhưng nếu ăn như vậy, anh hai chắc bỏ cơm luôn quá. Tự dưng giờ con phải suy nghĩ sáng mai ăn gì, trưa mai ăn gì, rồi chiều mai lại ăn gì? Ôi, mỗi ăn thôi mà sao khó quá. Trước khi đi, mẹ đưa tiền để con ở nhà đi chợ. Lần đầu tiên mẹ đưa tiền mà con chẳng muốn lấy.
+
+Sống xa mẹ thật không dễ dàng. Mẹ vừa mới đi thôi mà con đã thấy khó khăn muôn trùng ở phía trước rồi. Bạn con bảo “Ở SG cũng xa mẹ, vẫn sống được đấy thôi”. Nhưng đó là SG, có mình con, ăn gì cũng được, thích thì ăn, lười thì nhịn. Nhưng ở nhà thì con phải cơm nước cho cả nhà nữa, không thể tùy tiện được.
+
+Tối nay ăn cơm không có mẹ, chẳng ngon tí nào. Con cứ thấy nhà trống vắng kiểu gì á. Chắc là thiếu tiếng la của mẹ. Con cũng chẳng dám chọc bé 4, con sợ nó lại khóc như khi mẹ lên xe. Con phải mất 1 ly trà sữa, 1 bịch bánh tráng nó mới nín khóc đó.
+
+Mẹ chỉ vừa lên xe thôi mà con là trông ngóng ngày mẹ về rồi.
+
+Ảnh: Pinterest
+
+#Xíu
+#Chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/229088312663223.jpg">

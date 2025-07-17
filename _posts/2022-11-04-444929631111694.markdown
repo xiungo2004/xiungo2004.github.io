@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Công việc văn phòng "
+title: " Công việc văn phòng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/444929631111694.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-04 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+# image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+# image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Công việc văn phòng
+
+Tớ đi làm văn phòng rồi, công việc bắt đầu từ lúc 7h40 đến 17h30. 8 tiếng ngồi văn phòng máy lạnh, gõ máy tính, sướng nhỉ. Nhưng thật lòng, tớ không thích chút nào, bó mình ngồi trong một cái ghế, một góc bàn, nhìn chằm chằm vào máy tính, tay liên tục gõ phím. Tớ dường như trở thành một ai đó khác.  
+
+3 tháng trước tớ vẫn còn tuyên bố với cả thế giới, à không chỉ với những người bạn thân thiết rằng tớ sẽ không bao giờ làm công việc văn phòng tẻ nhạt ấy. Tớ thà làm ít tiền, nhưng được cái tự do, thích làm gì thì làm, thích ngồi đâu thì ngồi, không bị bó buộc trong một không gian và thời gian nhất định, miễn sao công việc vẫn hoàn thành đúng deadline là được. Thế mà giờ đây, tớ lại xách đít đi làm văn phòng mà chẳng đắn đo cơ đấy. Nghiệp quật thiệt chớ. 
+
+Tớ buộc phải đi làm, đi làm để đầu óc bận rộn, để tớ khỏi suy nghĩ linh tinh, những chuyện vớ vẩn. Tớ cần bản thân thật bận rộn, ban ngày đi làm, tối về học tiếng Trung, đọc vài trang sách, nói chuyện với bạn bè tí, vậy là hết ngày. Áp lực chạy KPI chốn làm khiến tớ chẳng còn đầu óc nghĩ đến những chuyện khác. Tớ biết, tớ đang trốn tránh nhiều vấn đề của bản thân. Tớ cũng hiểu vấn đề vẫn ở đấy, sẽ không vì tớ bận rộn mà mất đi. Nhưng như thế cũng được, tớ cần để bản thân bận rộn ngay lúc này.
+
+Trộm vía, chốn văn phòng của tớ cũng vui lắm. Toàn nữ thôi, mấy chị nhiệt tình giúp đỡ, trò chuyện vui lắm. Nên dù không thích, tớ nghĩ mình vẫn có thể trụ lại nơi đó một thời gian, vì môi trường, vì con người nơi đấy. Giờ mà môi trường đấy biến động, có khi tớ cũng biến mất khỏi chỗ làm ấy chứ. Chừng nào đến lúc, tớ sẽ rời đi, tìm về chốn thực sự thuộc về bản thân tớ.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src = "https://xiungo2004.github.io/img/444929631111694.jpg">

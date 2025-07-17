@@ -1,0 +1,47 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm nay tớ ghé vào tiệm cắt tóc. Tiệm khá đông,...  "
+title: " Hôm nay tớ ghé vào tiệm cắt tóc. Tiệm khá đông,...  "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/496334165971240.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-15 19:49:33 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-15 19:49:33 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Hôm nay tớ ghé vào tiệm cắt tóc. Tiệm khá đông, trong lúc ngồi đợi, tớ lấy điện thoại tìm mấy mẫu tóc trên mạng để xíu cắt. 
+
+Tới hồi ngồi vào ghế, anh cắt tóc hỏi:
+“Em muốn cắt kiểu gì?”
+Tớ nhìn anh vài giây rồi lắc đầu kêu không biết. Anh cười bảo “Chỉ biết đi cắt thôi chớ cắt kiểu gì hả.”
+Tớ cười trừ bảo “Thôi anh coi cắt kiểu gì được thì cắt vậy”. Thế là anh bảo cắt như này như này được không. Tớ gật đầu đại, chớ có hình dung được đâu. 
+
+Hên sao cắt xong nhìn cái đầu vẫn ổn chớ hông mất cái tết.
+
+Xíu
+
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/496334165971240.jpg">

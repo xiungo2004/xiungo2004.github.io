@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bỏ tiền mua sự xấu xí "
+title: " Bỏ tiền mua sự xấu xí "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/332732655632121.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-13 00:17:41 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bỏ tiền mua sự xấu xí
+
+E cắt tóc rồi. Không xinh. Em vẫn thích tóc dài, nó khiến em trở nên dịu dàng, nữ tính hơn.
+
+Ai cũng bảo tóc dài hợp với em hơn, em biết điều đó, nhưng em vẫn quyết định cắt. Đơn giản vì nó khiến e thoải mái.
+
+Ừ thì tóc dài đẹp đó, nhưng nó hư rồi, phải cắt thôi.
+
+Có những điều đẹp đẽ tới mấy, hợp với bản thân tới mấy nhưng chẳng thể dài lâu thì phải học cách buông bỏ.
+
+Ít ra tóc ngắn vẫn còn có thể dài lại được, chỉ cần e kiên nhẫn và đợi chờ.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/332732655632121.jpg">

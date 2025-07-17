@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mấy bữa trước, em ra đề test cho bạn CTV "
+title: " Mấy bữa trước, em ra đề test cho bạn CTV "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/395548246017228.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-16 14:46:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mấy bữa trước, em ra đề test cho bạn CTV. Đề chỉ có 1 chữ. TÌNH. Nói thật, khi ra đề này, ngay cả bản thân em cũng chưa hiểu hết chữ Tình. Nó rộng quá nhỉ. Nhưng nay chỉ cho phép em nói về tình yêu thôi nhé. Mà thật ra, tình yêu với em cũng rộng lắm. Mỗi người, mỗi giai đoạn, mỗi trải nghiệm khác nhau sẽ có cách cảm nhận riêng. Tình yêu chẳng có định nghĩa.
+
+Ngày còn bé, em biết đến một tình yêu lãng mạn, bay bổng qua các bộ phim. Ở con đường trải đầy lá phong, từng chiếc lá, từng chiếc lá được gió thổi bay lơ đễnh, chen vào giữa ánh nhìn dành cho nhau của cặp đôi nam nữ chính. Thế là họ yêu. Hay là cái nắm tay vội vã, kéo nhau chạy giữa cơn mưa đầu mùa. Cả hai cũng ướt đẫm, nở nụ cười e thẹn nhưng chứa đầy tình dành cho nhau. Thế là họ yêu. Cũng có thể là sự bất cẩn của nữ chính, ngã nhào vào lòng nam chính, những chiếc lá rơi hoặc bong bóng nước bủa vây, khung cảnh tuyệt đẹp, họ vội trao nhau ánh mắt say đắm. Và thế là họ yêu. Tình yêu thật đẹp, một sự khởi đầu đẹp, kết thúc bằng một bức tranh nên thơ, hai người nắm tay nhau, nhìn về phía chân trời xa rộng, hoàng hôn cứ thế chìm dần. Và họ, có một kết thúc đẹp. Lúc ấy em đã nghĩ, chỉ cần yêu nhau, kiểu chi cũng sẽ ở bên nhau hạnh phúc. Chỉ cần một ánh mắt, nhận định cả đời.
+
+Em ngây ngô mang theo niềm ảo tưởng về một tình yêu đẹp lớn lên. Và khi bước 1 bước, 2 bước, 3 bước vào tình yêu. Em chợt nhận ra, tình yêu còn là sự cố chấp. Cố chấp lao đầu vào một tình yêu biết rõ chẳng thuộc về mình. Yêu điên dại, yêu bằng tất cả những gì bản thân có. Cố chấp lao theo một bóng người, chỉ mong một ngày người quay đầu lại nhìn. Yêu mà chẳng cần quan tâm người ấy ra sao, như thế nào. Chỉ cần nhận định là người, vậy là bất chấp tất cả mà theo, mà đợi chờ. Yêu còn là sự mãn nguyện khi có được người mình thầm thương trộm nhớ. Cảm giác như mình đã có cả thế giới trong tay, có được hạnh phúc vĩnh cửu về sau.
+
+Và khi qua rồi cái tuổi 18, đôi mươi trong mắt chỉ có tình yêu, trải qua đổ vỡ đầu đời của bản thân, chợt nhận ra, tình yêu còn là sự nuối tiếc. Nuối tiếc vì sự ích kỷ và lòng tự tôn, kiêu ngạo của bản thân, em đánh mất tình yêu vốn thuộc về mình. Người mình thương, thương mình rời đi, để lại những thói quen đáng chết. Nó khiến tâm hồn em trống rỗng đến cùng cực. Nhưng em lại chẳng thể dang tay ra níu lấy người. Vì sao ư? Vì em kiêu ngạo, vì em tự cao, vì em không cho phép bản thân mình yếu đuối, vì em không muốn mình trở nên đớn hèn khi cố chấp níu giữ một người muốn rời đi. Và rồi, em ôm nuối tiếc, ôm hết những vụn vỡ nơi trái tim, em tự chữa lành nó.
+
+Tình yêu có lẽ còn là sự chịu đựng. Người chịu đựng sự điên khùng, sáng nắng chiều mưa của em. Cô gái ấy chịu đựng sự đánh đập, hành hạ trong tình yêu, chỉ vì nghĩ rằng, tình yêu sẽ làm thay đổi một con người. Thật ngu ngốc làm sao. Còn cha mẹ mình thì sao nhỉ, họ có chịu đựng nhau không? Và nếu có, thì chịu đựng vì cái gì? Vì con cái? Vì tình yêu? Hay vì cái gọi là tình nghĩa giữa con người với nhau. Em hay nghe người lớn nói: Hết cái tình thì vẫn còn cái nghĩa. Vậy là họ bám víu vào cái nghĩa ấy mà bên nhau đến suốt đời, cùng nuôi dạy con cái, gia đình vui vẻ, hòa thuận. Vậy mà em thấy giờ đây, khi hết tình rồi, con người ta sao tàn nhẫn với nhau quá. À, đâu chỉ khi hết tình, khi vẫn mang danh tình yêu, người ta vẫn hành hạ nhau đấy thôi. Hành hạ bởi những cơn ghen tuông mù quáng, bởi sự ích kỷ mà tra tấn tâm hồn nhau. Hành hạ bằng những trận đòn roi, một người ra tay đánh, người kia lại âm thầm chịu đựng. Tình yêu, sao mà khác với tình yêu lúc nhỏ trong em quá.
+
+Trải qua tổn thương, nhìn bạn bè, người thân vì tình yêu mà rơi lệ. Liệu em có còn dám yêu không? Dám, em vẫn sẽ yêu. Bởi với em, sống là không có tình yêu, thật tẻ nhạt và buồn chán. Vẫn có những tình yêu đẹp tồn tại mà. Vì yêu mà họ thay đổi. Vì yêu mà họ gác lại cái tôi cá nhân chỉ mong ở bên cạnh người mình thương. Tình yêu vẫn là những nụ cười vô tư khi cùng nhau ngồi nơi góc phố, kể nhau nghe ngày hôm nay vui buồn ra sao. Vậy nên em vẫn sẽ yêu, chỉ là không còn liều lĩnh, không còn cần một tình yêu mãnh liệt nữa. Cái em cần, là một tình yêu dịu nhẹ, ta cứ vậy mà bình an bên nhau đến mãi về sau.
+
+_Xíu_
+
+#ChuyencuaXiu
+#Xíu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/395548246017228.jpg">

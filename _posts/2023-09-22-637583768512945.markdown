@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình đã và đang trải nghiệm tình yêu "
+title: " Mình đã và đang trải nghiệm tình yêu "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/637583768512945.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2023-09-22 19:30:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mình đã và đang trải nghiệm tình yêu nhưng vẫn không sao lí giải được. Tình yêu ngộ lắm. Mỗi người luôn có một cách yêu khác nhau. Và họ đi tìm, tìm người có cách yêu giống mình, hòa hợp làm một.
+
+Có người xem tình yêu là gia vị của cuộc sống, có thì thú vị, không có cũng chẳng sao.
+Có người cố chấp trong tình yêu, coi tình yêu là chấp niệm, là cả bầu trời.
+Có người vì yêu mà phá bỏ mọi nguyên tắc của bản thân. Để rồi thốt lên “Sao có thể như thế. Tự dưng yêu vào xong ngu người”.
+
+Nhưng lại có người, vì yêu mà rời bỏ. Mình từng nghĩ họ thiếu kiên nhẫn quá, mới dăm ba tháng đã vội kết luận không có kết quả rồi rời đi. Ấy thế mà có người nói với mình: Như vậy cũng tốt, khi người ta cảm thấy cuộc tình không có kết quả thì đi thôi, không để bản thân lún sâu, cũng không hành hạ đối phương, không lãng phí thời gian của cả 2.
+
+Nghĩ lại cũng đúng. Tình yêu mà, dù là yêu theo cách nào cũng nên yêu bản thân mình trước. Suy cho cùng, yêu đương cũng là để bản thân vui vẻ, hạnh phúc và có một nơi để dựa vào trong những ngày trái gió trở trời.
+
+
+Xíu
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/637583768512945.jpg">

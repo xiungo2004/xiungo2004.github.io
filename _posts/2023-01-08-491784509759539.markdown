@@ -1,0 +1,49 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bạn hỏi tôi Sài Gòn có gì đặc biệt không? "
+title: " Bạn hỏi tôi Sài Gòn có gì đặc biệt không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/491784509759539.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-08 19:17:02 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-08 19:17:02 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Bạn hỏi tôi Sài Gòn có gì đặc biệt không?
+
+Hình như là không, hoặc có mà tôi chẳng nhận ra. Chẳng biết từ bao giờ, tôi quen với nhịp sống nơi đây, thương nơi đây, chưa từng nghĩ đến chuyện rời xa.
+
+Trước khi, bạn rủ tôi ra Đà Nẵng sống. Tôi từ chối dù đó là nơi tôi thích. Chắc bởi Sài Gòn và tôi có một sợi dây ràng buộc, nơi đây có người tôi thương.
+
+Nhưng giờ, người đi, tôi vẫn chẳng cách nào rời xa thành phố này được. Có lẽ như một thói quen, mọi sự vui buồn bao năm qua, là Sài Gòn chứng kiến. Sài Gòn làm tôi đau, nhưng cũng khiến tôi thấy yên bình.
+
+Có những ngày chạy giữa lòng thành phố, chợt thấy trống trãi, thấy mình nhỏ bé vô cùng. Nơi đây không có một mái nhà nào cho tôi cả, không có ai đợi tôi trở về sau một ngày làm việc vất vả. 
+
+Có lúc, tôi sợ Sài Gòn, tôi trốn về quê nhà. Nhưng ở dăm bữa nửa tháng, tôi lại nhớ Sài Gòn vô cùng.
+
+Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/491784509759539.jpg">

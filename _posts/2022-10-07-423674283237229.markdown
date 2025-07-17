@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Cái giá của trưởng thành, có đắt quá không? "
+title: " Cái giá của trưởng thành, có đắt quá không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/423674283237229.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-07 13:00:13 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Cái giá của trưởng thành, có đắt quá không?
+
+Hôm ấy, chợt nhận ra, bản thân đã có thể đi một mình đến những nơi mình thích, đi cà phê một mình, đi ăn một mình mà không cảm thấy cô đơn. Điều mà trước kia mình chưa bao giờ dám thử và cũng không muốn thử. Mình luôn thích chốn đông người, náo nhiệt. Đăng ký ở ktx, cũng phải chọn phòng 8 mới chịu, đông vui. Mình ghét và sợ cô đơn lắm. Sợ không có ai chơi, sợ không có ai nói chuyện, không có ai đi ăn cùng. Nhưng giờ đây, mình lại quen với việc đi một mình, không thích, nhưng cũng không ghét như ngày xưa. Đôi khi, mình còn thích ở một mình, sợ phải đi với một nhóm người nào đấy nữa cơ. Lạ quá nhỉ?
+
+Hôm ấy, nhận ra, bản thân đã thôi không còn nghĩ quá nhiều đến chuyện linh tinh bên ngoài, chuyện chơi gì, ăn gì, chuyện bạn bè ra sao, như thế nào. Thay vào đó, mình nghĩ nhiều đến việc làm sao để học nhiều hơn, làm sao để kiếm được công việc tốt hơn. Nó làm mình stress, thật sự. Áp lực đồng trang lứa đè nặng, có những lúc mình không thở nổi. Cận kề ngày ra trường khiến mình hoang mang không biết đi đâu, về đâu, đâu mới là con đường thật sự cho chính bản thân mình. Mình nhận ra, cái mình thích, chưa chắc đã phù hợp với bản thân. Tiền đã trở thành gánh lo của mình và có lẽ cũng của rất nhiều bạn xung quanh, làm sao để kiếm nhiều tiền, làm sao để tiết kiệm được tiền, làm sao để chu toàn mọi thứ. Ngày trước mình chẳng bao giờ nghĩ đến vấn đề này cả. Mình cứ sống theo kiểu đi bước nào tính bước đó. Vô tư bước đi mà nghĩ rồi sẽ có cách, rồi sẽ đến đích, cứ đi là được. Nhưng giờ đây trước mặt mình là sương mù bao phủ, mình không thể nhắm mắt, nghe theo con tim mà đi như ngày trước được nữa.
+
+Hôm ấy, bạn bè rủ, nhưng mình không đi cùng. Không phải là có việc bận, chỉ là không thích. Bởi mình biết, đi với nhóm ấy, về mình sẽ không vui, sẽ tiêu cực. Mình học cách buông bỏ những mối quan hệ độc hại, cũng đồng nghĩa với việc, vòng bạn bè của mình sẽ ít đi. Nhưng mình vui vì điều đó, mình thấy nó tốt. Cũng hôm ấy, mình học cách buông bỏ chấp niệm trong lòng, về tình yêu, về một người. Mình thanh thản hơn khi đối mặt với anh, mình nghĩ, mọi chuyện cứ để tự nhiên, nếu mình và anh còn duyên, thì sẽ còn quay về bên nhau.
+
+Mình không còn dám gọi điện về cho ba mẹ than vãn về cuộc sống nơi Sài Thành như ngày trước. Chỉ biết luôn miệng nói, “con vẫn tốt”, “con vẫn ổn”, “con vẫn còn tiền”. Để rồi khi “cuộc gọi kết thúc”, hai hàng nước mắt lăn dài, từ từ chìm vào giấc ngủ, quên cả tẩy trang, skin care.
+
+Ừ thì mình đang ngày càng tốt hơn. Nhưng mình không vui. Ngày trước có bạn nói với mình thế này “Niềm vui của mày nhỏ bé vậy thôi á hả?”. Xưa kia niềm vui của mình nhỏ bé lắm, ăn được món mình thích, đi học ngồi tụm 5 tụm 7, ra đường thấy đứa con nít kia dễ thương có hai má bánh bao hay có cặp đôi nào đó đang phát cơm chó giữa đường với hành động dễ thương, vậy thôi cũng cười, cũng vui. Còn giờ đây, niềm vui của mình là gì nhỉ? Mình không biết nữa. Liệu giờ đây khi nhìn thấy những điều nhỏ bé như xưa, mình có còn cười giòn tan như vậy được không nhỉ? Hình như, trưởng thành cướp đi một phần vô tư trong mình, cướp đi niềm vui nho nhỏ, trả lại mình những lo toan, những áp lực của cuộc sống.
+
+Cái giá này, có đắt quá không?
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/423674283237229.jpg">

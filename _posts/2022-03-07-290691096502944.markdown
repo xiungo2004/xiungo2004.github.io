@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Nhật ký niềng răng "
+title: " Nhật ký niềng răng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/290691096502944.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-03-07 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Nhật ký niềng răng
+
+Sau những ngày tháng suy nghĩ và chờ đợi, mình quyết định niềng răng. Do hàm hẹp, nên hôm qua mình đã tách kẽ để nong hàm. Mình đọc trên mấy group niềng răng nói tách kẽ rất đau. Mình sợ. Lúc bác sĩ nói phải tách kẽ, mình toát cả mồ hôi. Bác sĩ cũng nói trước “Tách kẽ về tối nay con sẽ đau”. Nhưng rồi vì muốn đẹp, mình vẫn cắn răng quyết tâm làm. Trộm vía, tách kẽ xong mình không đau lắm, chỉ là hơi cộm khi nói chuyện và không thể nhai bất cứ thứ gì được. Lúc nhai sẽ rất đau. Thế là mình chỉ dám ăn những thứ mềm mềm, dễ nuốt, ăn gì cũng phải cắt nhỏ ra. Không hiểu sao mình vẫn rất vui, vẫn cười đùa vui vẻ. Bạn cùng phòng (cũng từng tách kẽ, niềng răng) nói “Mày tách kẽ mà vẫn vui vẻ được hay vậy, sức chịu đựng mày lớn thiệt”. Mình cười, nghĩ “Chỉ là không ăn được những món mình thích thôi mà, có gì đâu”.
+
+Nhưng lúc chiều khi gọi cho ba, mình dở thói than thở:
+- Ba ơi con không ăn được gì hết. Nhai là đau. Con ăn gì cũng phải cắt nhỏ ra, bỏ miệng ngậm tí rồi nuốt. Con đói mà không ăn được.
+- Mua cháo về ăn
+- Con không muốn ăn cháo. Hay….con không niềng nữa.
+
+Ba im lặng. Tự dưng nước mắt mình chực trào ra. Mình vội tạm biệt ba rồi tắt máy, vì không muốn ba thấy mình khóc. Mình tưởng mình mạnh mẽ lắm, nhưng hóa ra không phải. Mình vẫn là đứa trẻ sợ đau. Vẫn là đứa trẻ yếu đuối, vẫn sẽ khóc, sẽ ấm ức khi không ăn được những món bản thân thích.
+
+Mình hay nói với tụi bạn “Niềng răng là điều dũng cảm nhất mà tao có thể làm". Có lẽ vậy thật
+
+#Xíu
+#Nhậtkýniềngrăng
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/290691096502944.jpg">

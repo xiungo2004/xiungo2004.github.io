@@ -1,0 +1,113 @@
+---
+
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+
+lng_pair: " Một người sẽ yêu một người vì điều gì?
+
+ "
+
+title: " Một người sẽ yêu một người vì điều gì?
+
+ "
+
+# post specific
+
+# if not specified, .name will be used from _data/owner/[language].yml
+
+#author: Xíu
+
+# multiple category is not supported
+
+category: Facebook
+
+# multiple tag entries are possible
+
+tags: [Facebook]
+
+# thumbnail image for post
+
+img: "https://xiungo2004.github.io/img/675286951409293.jpg"
+
+# disable comments on this page
+
+#comments_disable: false
+
+# publish date
+
+date: 2023-12-01 21:14:35 +0900
+
+# seo
+
+# if not specified, date will be used.
+
+#meta_modify_date: 2023-12-01 21:14:35 +0900
+
+# check the meta_common_description in _data/owner/[language].yml
+
+#meta_description: ""
+
+# optional
+
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+
+#image_viewer_on: true
+
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+
+#image_lazy_loader_on: true
+
+# exclude from on site search
+
+#on_site_search_exclude: true
+
+# exclude from search engines
+
+#search_engine_exclude: true
+
+# to disable this page, simply set published: false or delete this file
+
+#published: false
+
+---
+
+Một người sẽ yêu một người vì điều gì?
+
+
+
+Mình từng hỏi bé Nhà, “Người đó có gì mà yêu đến vậy”. Nhà kể nhiều lắm, cơ duyên đưa đẩy là vì nụ cười, sau đó là vì người biết nhặt xương cá bởi Nhà không nhè được, người đó chở Nhà đi hết tiệm này đến tiệm khác chỉ để mua kẹo vị dâu, người đó biết Nhà lười lên kế hoạch nên mỗi lần đi chơi đều chọn sẵn địa điểm và ti tỉ những thứ nhỏ nhặt khác.
+
+
+
+Có người, yêu một người vì sự tử tế. Tử tế trong cách ứng xử, đi đứng. Họ luôn quan sát mọi thứ xung quanh, lịch sự với con gái, tử tế trong từng cử chỉ khiến người ta xiêu lòng. Họ tử tế nên biết giới hạn, chừng mực nằm ở đâu, không để những người con gái khác hiểu lầm là ga lăng. Mình với Nhà hay bảo với nhau, “sau này có con trai, sẽ dạy nó tử tế với mọi đứa con gái nhưng chỉ được ga lăng với một người duy nhất thôi.”
+
+
+
+Có người yêu một người vì người đó giỏi. Giỏi trong học tập, công việc. Ở bên người, họ học được nhiều điều, tiến bộ và sống lạc quan hơn trước những khó khăn.
+
+Có người yêu một người vì mỗi khi buồn, người đều ở cạnh. Đơn giản là ở cạnh thôi, làm bờ vai vững chắc, đôi khi lau đi giọt nước mắt trên khóe mi. Vậy là đủ.
+
+
+
+Có người yêu một người vì sự tinh tế của họ, vì tính cách vui vẻ, thậm chí là vì tham vọng của người đó.
+
+
+
+Và cũng có người, yêu một người, chỉ vì khi nhìn thấy họ, người bỗng thấy bình yên đến lạ kỳ. Nhìn thấy họ, người bỗng nở nụ cười thật tươi. Người yêu họ chỉ vì họ là chính họ mà thôi.
+
+
+
+Lạ nhỉ, có rất nhiều lý do để yêu một người nhưng hết yêu thì chỉ có một, chỉ là hết yêu mà thôi.
+
+
+
+Còn bạn, bạn sẽ yêu một người vì điều gì?
+
+
+
+Xíu
+
+ 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/675286951409293.jpg">

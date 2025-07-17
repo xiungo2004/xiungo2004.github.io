@@ -1,0 +1,64 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đặc quyền của người chị "
+title: " Đặc quyền của người chị "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/240720151500039.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-12-15 12:30:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Đặc quyền của người chị
+
+Ngày bé tôi mong có em lắm. Tôi nghĩ, khi có em rồi mình sẽ yêu thương nó, chiều chuộng nó. Nó muốn gì tôi cũng cho. Những việc tôi không thích tôi sẽ không bắt nó làm, những việc nó không thích tôi càng không bắt nó làm. Tôi sẽ cho nó những món ăn ngon, mua cho nó những thứ nó thích. Tôi sẽ bảo vệ nó trước sự la mắng của ba mẹ. Tôi sẽ bảo kê nó trước bạn bè, để nó không bị bắt nạt. Nói chung, tôi sẽ nâng nó như nâng trứng, hứng như hứng hoa. Nghe có vẻ như tôi sẽ trở thành một người chị tốt nhỉ? Nhưng đó chỉ là suy nghĩ ngày bé và ngày đó thì tôi chưa có em.
+
+Có em rồi, mọi thứ đều bị đảo lộn. Tôi - đứa “con gái rượu” của ba đã bị soán ngôi bởi một đứa con gái khác. Hồi bé 4 còn chập chững tập đi, chẳng có ngày nào tôi được đi chơi yên ổn cả. Lúc nào cũng phải vừa chơi vừa trông nó. Thật khổ mà!. Đã thế có vài lần nó té, lỗi của nó mà tôi lại bị mẹ cho mấy trận đòn roi. Từ đó, suy nghĩ yêu thương, chiều chuộng em đã biến mất khỏi đầu óc tôi.
+
+Những ngày nghỉ dịch ở nhà như thế này khiến tôi có đôi chút lười. Và khoảng thời gian này, tác dụng của một đứa em được phát huy một cách triệt để. Tôi chỉ việc ngồi trong phòng và “4 ơi”:
+“4 ơi, bê máy tính vô cho chị”
+“4 ơi, rót giùm miếng nước”
+“4 ơi, lấy đồ ra phơi giùm đi”
+“4 ơi, tới giờ rồi nấu cơm”
+“4 ơi,....”
+4 hay hỏi mẹ “Sao chị ba cứ sai con hoài vậy?”. Tôi kiêu ngạo đáp lại “Tại tao là chị, ngon mi là chị đi, muốn gì cũng được”. Đúng vậy, đó là đặc quyền của người làm chị.
+
+Từ ngày có em, tôi như có thêm một người để cãi lộn. Ngày nào không chọc nó, cảm giác như tôi ăn không ngon, ngủ không yên vậy. Mà con giun xéo quá cũng quằn, tôi chọc nó riết, nó tức, nó nói lại tôi, đánh lại tui. Lúc này đây, chạy đi méc mẹ là giải pháp tốt nhất. Chị ba chọc, đánh là giỡn. Em cãi lại, đánh lại là hư. Cứ như vậy, người bị la bao giờ cũng là nó, hoặc cả hai chị em. Tất nhiên cũng có đôi lúc nó méc mẹ: “Mẹ, chị ba suốt ngày chọc con”. Tôi hất cằm với nó “Thích, ai bảo tao là chị”. Đúng vậy, đó là đặc quyền của người làm chị.
+
+Bình thường hay cãi nhau, hay sai bảo, nên vắng nó cái là thấy thiếu cái gì đó. Từ ngày nó đi học lại, ngày nào tôi cũng dụ nó “nghỉ học đi ở nhà chơi với chị ba”. Vậy mà nó không chịu. Rầu hết sức.
+
+#Xíu
+#Chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/240720151500039.jpg">

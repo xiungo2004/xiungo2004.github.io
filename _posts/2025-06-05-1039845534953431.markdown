@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+title: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1039845534953431.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-06-05 21:05:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-06-05 21:05:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Ở những nơi bạn không hay biết, có rất nhiều chuyện đang xảy ra.
+
+Ở nơi bạn chẳng thấy, có người lặng lẽ hi sinh vì bạn.
+
+Ở nơi bạn chẳng nghe, có người vẫn kiên quyết bảo vệ bạn giữa bao lời đàm tiếu.
+
+Ở nơi bạn không cảm nhận được, có người vẫn âm thầm dõi theo từng bước chân bạn đi.
+
+Hóa ra…
+
+Nắng không tới đầu, mưa chẳng ướt chân
+
+là bởi đã có người âm thầm che ô cho bạn.
+
+Vì bạn mà nâng đỡ nửa đời rực rỡ.
+
+#Xíu 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1039845534953431.jpg">

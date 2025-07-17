@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tròn 3 tháng kể từ ngày chia tay, cũng là 3 tháng cuộc sống mình đầy rẫy sự bất ổn "
+title: " Tròn 3 tháng kể từ ngày chia tay, cũng là 3 tháng cuộc sống mình đầy rẫy sự bất ổn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/382595780645808.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-27 13:00:08 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tròn 3 tháng kể từ ngày chia tay, cũng là 3 tháng cuộc sống mình đầy rẫy sự bất ổn. Chợt nhận ra, bản thân là kẻ thất bại. Thất bại khi không giữ được tình yêu sau chừng ấy năm, thất bại khi làm tổn thương người thật lòng yêu thương mình. Thất bại khi chẳng thể giữ nổi một mối quan hệ bạn bè. Công việc thì không ổn định. Ngay cả tinh thần, cảm xúc của bản thân cũng thường xuyên bị ảnh hưởng, bị tiêu cực.
+
+Mình loay hoay tìm một lối thoát cho chính bản thân mình. Mình chìm trong những chuyến đi chơi liên tục cùng bạn bè, chỉ mong bản thân không cô đơn, mong giữ được nụ cười, dù chỉ là giả tạo. Nhưng sau mỗi chuyến đi chơi, sự trống rỗng trong tâm hồn lại tràn về. Điều đó chỉ khiến mình thêm khó chịu.
+
+Rồi mình lại thử ở yên trong phòng, lắng lòng mình lại, đối diện với những lỗi lầm trong quá khứ. Nhưng nó không khiến mình tốt hơn, nó khiến mình sợ hãi. Sợ tình yêu, sợ bản thân sẽ lại làm tổn thương một ai đó yêu mình thật lòng. Sợ bắt đầu một mối quan hệ bạn bè thân thiết, sợ một ngày nào đó họ rời đi, hoặc gọi nhau với cái danh xưng “bạn cũ”.
+
+Liệu có phải mình đã quá vội vàng không nhỉ?
+
+Dạo trước, có bạn rủ mình khởi nghiệp với dự án Tiệm tỏ tình. Mình đồng ý ngay. Không phải vì mong chờ thu nhập mà Tiệm sẽ mang lại. Cái mình coi trọng hơn hết là những câu chuyện mà mình sẽ được lắng nghe ở Tiệm. Mình muốn tìm lại chút gì đó cho bản thân. Là tình yêu, tình bạn hay tình thân. Mình muốn trở thành người trung gian kết nối những người thương về bên nhau, và cũng là kết nối những mảnh vỡ trong lòng mình.
+
+Tiệm tỏ tình, mong nơi ấy, mình sẽ tìm lại được tình yêu, tình yêu với chính bản thân mình, với những người xung quanh.
+
+#Xíu
+#ChuyencuaXiu
+#Tiệmtỏtình
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/382595780645808.jpg">

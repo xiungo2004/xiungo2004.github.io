@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Cuộc sống hiện tại"
+title: " Cuộc sống hiện tại "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/451938017077522.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-14 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-14 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Cuộc sống hiện tại, không phải cuộc sống tớ mong muốn, nhưng là cuộc sống tớ chọn.
+
+Dạo này, mỗi khi nhắc đến chuyện tớ đi làm văn phòng 8 tiếng, bạn bè tớ ai cũng cười, tớ còn cười nữa là. Vì sao ư? Vì tớ từng tuyên bố, tớ sẽ không làm văn phòng. Cuộc sống tớ mong muốn phải là một cuộc sống bay nhảy, tớ phải làm tự do, không bó buộc thời gian để được đi đây đi đó. Cái chân tớ á, chẳng thể ở yên một chỗ đâu. Tớ thích đi nhiều nơi, thích trải nghiệm những điều mới lạ. Tớ nghĩ tuổi trẻ của tớ phải rực rỡ lắm, phải nhiều màu sắc lắm cơ.
+
+Thế nhưng, giờ tớ chọn làm văn phòng, chỉ mong cuộc sống ổn định đôi chút. Có buồn hông? Sao không cho được, nó trái với ý nguyện ban đầu của tớ cơ mà.
+Chợt nhận ra, thời còn non dại, tớ ngây thơ cho là mình có thể làm được những điều mình thích, sống được đời thú vị của riêng tớ.
+
+Nhưng tớ chẳng oán trách đâu. Dù là công việc văn phòng, nhưng tớ được làm đúng với sở thích, năng lực của bản thân, tớ được mọi người ở chốn làm công nhận.
+Tớ cũng không vì làm văn phòng mà từ bỏ việc đi của mình. Tớ xin công ty cho làm online dăm ba bữa để đi chơi, hứa sẽ hoàn thành hết việc được giao.
+
+Thế đó, tớ không làm freelancer, nhưng tớ có cách khác để bay nhảy.
+
+#xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/451938017077522.jpg">
+
+

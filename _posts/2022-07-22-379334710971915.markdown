@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chúng ta đều là những đứa trẻ xấu tính "
+title: " Chúng ta đều là những đứa trẻ xấu tính "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/379334710971915.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-22 13:00:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Chúng ta đều là những đứa trẻ xấu tính
+
+Nay bạn bị hư điện thoại. Mang ra tiệm sửa mà chẳng được. Người ta bảo phải để lại một hôm, bạn linh tính điều gì đó không may, nên chẳng để lại tiệm. Về nhà tự mày mò, vốn là đứa mù công nghệ, bạn chữa chiếc điện thoại của mình từ ốm sơ sơ thành què luôn, bệnh không dậy nổi.
+
+Thế là bạn cọc, cọc vì sự ngu ngốc của bản thân. Bạn cọc với người yêu, gây sự rồi kiếm chuyện cãi nhau. Bạn cọc nên đuổi một người bạn khác đang nói chuyện đi, vì sợ bản thân sẽ chẳng kìm chế được mà gây sự. Bạn cọc nên không chịu ăn tối, dù biết mình đang rất đói, bụng đang khó chịu. Bạn tự thấy bản thân mình thật xấu tính.
+
+Bạn xấu tính thật, dù có thế nào cũng không được để bản thân mình đói chớ. Dù có chuyện gì cũng không được để bản thân chịu khổ.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Hôm nay, bạn đi phỏng vấn, một quãng đường rất xa, trời mưa, bị tông xe rớt cả biển số xe. Đến nơi, bạn gọi điện cho nhân vật không được, nhắn không trả lời dù bạn đã nhắc nhở về lịch hẹn trước đó. Mãi sau nhân vật mới rep và nói không đến được vì bị ốm, nhờ bạn khác lên đại diện nhóm trả lời thay. Vốn hẹn 5 người, nay chỉ có 1 người đến. Bạn thấy hụt hẫng và uất ức vô cùng.
+
+Xe hư rồi, bạn không đủ tiền sửa xe. Bạn phải gọi về xin mẹ, đã hơn 2 năm rồi bạn không xin tiền từ gia đình. Nay đã là năm cuối, đi làm, đi thực tập nhưng lại không có cách nào trang trải cuộc sống ở nơi đất khách. Mẹ gọi, bạn bật khóc giữa đường, mếu máo “Thôi, con không ở SG này một mình nữa đâu”. Cứ thế, đứa trẻ 21 tuổi đầu bật khóc nức nở vì ngỡ Sài Gòn này không thương mình. Sao mà xấu tính quá chừng. Sài Gòn vẫn thương bạn lắm, nơi đây vẫn có những người cho bạn mượn bờ vai mà dựa vào.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Hôm ấy bạn lần đầu đi lấy tin. Nói sao ta, choáng ngợp, bạn cảm thấy mình làm gì cũng chậm hơn người ta, không có được sự nhanh nhạy mà một người phóng viên nên có. Lần đầu tiên, viết xong 400 chữ, đầu óc bạn trống rỗng như vừa viết ra mấy trang giấy vậy đó. Lĩnh vực bạn vẫn luôn nghĩ mình giỏi, viết lách, nay lại cảm thấy kém quá chừng.
+
+Cũng hôm ấy, bạn nhận được lời mời phỏng vấn tại một chương trình radio dành cho sinh viên. Dù đã nhận được câu hỏi từ trước, có sự chuẩn bị, nhưng bạn vẫn làm không tốt. Bạn từng học MC, hay đọc sách, thích viết lách, vốn từ vững cứ nghĩ là kha khá, nay lại không biết phải nói gì khi ngồi trong phòng thu. Giọng nói của bạn vẫn không hay, bạn quên dặn mình phải nói chậm lại. Hình như, bạn khiến một người chị thất vọng về mình. Bạn sao kém cỏi quá chừng.
+
+Hôm ấy, bạn mắc mưa 2 lần để di chuyển địa điểm gặp nhân vật. Cả ngày bạn chẳng có lấy bữa cơm nào vào bụng, chỉ vỏn vẹn 2 ly cà phê. Trên đường về, bạn run bần bật, không biết vì lạnh hay vì đói. Về tới phòng, bạn mua tô bún rất ngon, nhưng lại chỉ ăn được một nửa, bụng khó chịu quá chừng. Mẹ gọi, bạn không dám kể về ngày hôm nay của mình, bạn thấy nó thật tệ hại, bạn sợ mẹ sẽ lo lắng. Bạn cười nói “Nay đi làm vui lắm mẹ”. Để rồi khi điện thoại tắt, bạn lên giường, ôm lấy chiếc bụng đói, ôm lấy những cảm xúc tệ hại và chìm vào giấc ngủ. Sao mà bạn xấu tính với bản thân quá chừng.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Chúng ta đều là những đứa trẻ xấu tính, đôi khi ưa làm mình làm mẩy với cuộc đời. Nếu sau này ngoài đường, bạn gặp một ai đó hai mấy tuổi đầu mà nước mắt rơi lã chã, đừng vội cười họ nhé, chỉ là đứa trẻ xấu tính trong họ đang trỗi dậy thôi mà.
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/379334710971915.jpg">

@@ -1,0 +1,62 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " 𝐺𝑖𝑎̂́𝑐 𝑛𝑔𝑢̉ 𝑐𝑢̉𝑎 𝑏𝑎 𝑚𝑒̣ 𝑏𝑎̣𝑛 𝑑𝑎̣𝑜 𝑛𝑎̀𝑦 𝑡ℎ𝑒̂́ 𝑛𝑎̀𝑜? "
+title: " 𝐺𝑖𝑎̂́𝑐 𝑛𝑔𝑢̉ 𝑐𝑢̉𝑎 𝑏𝑎 𝑚𝑒̣ 𝑏𝑎̣𝑛 𝑑𝑎̣𝑜 𝑛𝑎̀𝑦 𝑡ℎ𝑒̂́ 𝑛𝑎̀𝑜? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/261640032741384.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-01-18 12:30:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+𝐺𝑖𝑎̂́𝑐 𝑛𝑔𝑢̉ 𝑐𝑢̉𝑎 𝑏𝑎 𝑚𝑒̣ 𝑏𝑎̣𝑛 𝑑𝑎̣𝑜 𝑛𝑎̀𝑦 𝑡ℎ𝑒̂́ 𝑛𝑎̀𝑜?
+
+Giấc ngủ của ba mẹ bạn dạo này thế nào? Có ngon giấc như xưa không hay giật mình tỉnh giấc lúc nửa đêm vì những lo toan trong cuộc sống và những cơn đau nhức do công việc chân tay mang lại?
+
+Ngày xưa, ba mẹ mình chỉ cần đặt lưng xuống giường là có thể chìm sâu vào giấc ngủ. Ba mẹ thường ngủ một mạch tới sáng, có tỉnh dậy lúc nửa đêm thì cũng vẫn có thể dễ dàng ngủ tiếp.
+
+Nhưng dạo gần đây, ở nhà nhiều, mình phát hiện, giấc ngủ của ba mẹ đã không còn bình yên. Ba mình hay tỉnh dậy lúc 2 3h và thức tới khi những tia nắng ban mai xua tan được bóng tối của đêm đen. Có những đêm ba cứ trằn trọc mãi chẳng ngủ được. Có những đêm ba thức tới sáng mà mình không biết lý do. Mình không hiểu được ba đang lo lắng, hay suy nghĩ điều gì mà mãi chẳng vào giấc ngủ được.
+
+Mẹ mình cũng không khá hơn. Mẹ thường xuyên phải tỉnh giấc vì đau nhức cơ thể. Có những hôm mẹ phải dậy xoa bóp tay, chân bằng rượu thuốc. Công việc nuôi anh em mình khôn lớn đã tàn phá cơ thể mẹ.
+
+Có thể do càng lớn tuổi, chất lượng giấc ngủ ba mẹ càng kém đi. Ba mẹ có nhiều nỗi lo hơn, có nhiều điều phải suy nghĩ hơn. Giờ đây, một giấc ngủ trọn vẹn với ba mẹ có lẽ là một điều gì đó xa xỉ.
+
+Còn ba mẹ bạn thì sao?
+
+Ảnh: Pinterest
+
+#Xíu
+#chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/261640032741384.jpg">

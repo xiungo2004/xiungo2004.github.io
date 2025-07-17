@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình thích uống coca cola "
+title: " Mình thích uống coca cola "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/209633837942004.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-26 12:30:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mình thích uống coca cola. Mặc dù mình biết thứ nước uống ấy không tốt lành gì, đặc biệt là với một đứa con gái. Coca sẽ khiến mình mập lên và gây hại cho da. Nhưng những lúc tâm trạng không tốt, mình thường buông thả bản thân, cho phép mình được uống thứ có hại ấy. Nó có hại cho sức khỏe, nhưng có lợi cho tinh thần của mình. Mỗi lần uống coca mình đều có cảm giác mãn nguyện, vui vẻ và có chút gì đó thỏa mãn. Cứ như cuộc sống này chỉ cần được nhâm nhi một lon coca là đủ. Dẫu biết rằng, sau cốc nước ấy, mình phải tập thể dục hàng giờ để tiêu hao đi lượng calo mình đã nạp vào người.
+
+Cuộc sống này, dẫu biết có nhiều thứ món ăn, nước uống hay những thói quen không tốt, nhưng đôi khi con người ta vẫn chọn du di cho chính bản thân mình. Với mình điều ấy không có gì sai cả. Bởi cuộc sống này đã đủ nghiêm khắc lắm rồi, chúng ta không nên quá hà khắc với bản thân thêm nữa, sẽ rất tội. Nếu một ngày công việc không thuận lợi, những mối quan hệ bạn bè, tình yêu không suôn sẻ mà ngay cả uống một cốc nước ngọt cũng không được phép thì thật tệ hại. Xấu một tí cũng không sao, mập một tí cũng không sao, vui là được.
+
+Có nhiều người chấp nhận cực khổ, chấp nhận mệt mỏi chỉ để đổi lấy một giây phút vui vẻ trong cuộc sống này.
+
+Ảnh: Pinterest
+
+#NguyetHa
+#chuyenlinhtinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/209633837942004.jpg">

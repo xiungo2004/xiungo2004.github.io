@@ -1,0 +1,69 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bạn muốn yêu một người như thế nào? "
+title: " Bạn muốn yêu một người như thế nào? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/414735094131148.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-26 13:00:06 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bạn muốn yêu một người như thế nào?
+
+Bạn có tiêu chuẩn gì hay có gu gì cho người yêu tương lai của mình hông? Hoặc người bạn đang yêu bây giờ có đúng gu ngày trước bạn đặt ra hông? Mình không suy nghĩ quá nhiều việc mình phải yêu người như thế nào, ngoại hình ra sao, tính cách vui vẻ hay lạnh lùng.
+
+Mình chỉ muốn yêu người mà mình cam tâm tình nguyện kể họ nghe mọi thứ trong cuộc sống của mình dù buồn hay vui. Là cam tâm tình nguyện kể, kể trong vô thức chứ chẳng phải suy nghĩ “à mình có nên kể cái này không nhỉ? Anh ấy có thấy phiền không? Kể chuyện này thì anh ấy sẽ nhìn nhận như thế nào? Kể rồi anh ấy có hiểu gì sai ý mình không?” Nếu yêu mà phải suy nghĩ nhiều vậy mình chả yêu đâu, đau đầu lắm.
+
+Mình muốn yêu một người chịu ngồi xuống lắng nghe những câu chuyện nhảm nhí của mình, những câu chuyện không đầu không đuôi. Họ không đánh giá, không bình phẩm gì về mình, chỉ đơn giản lắng nghe và ủng hộ những việc mình làm.
+
+Mình muốn yêu một người sẽ nhắc nhở mình ăn cơm đúng giờ, đi ngủ đúng giấc. Sẽ vì mình mà xuống bếp dù người ấy nấu ăn chẳng giỏi.
+
+Mình muốn yêu một người mà khi ở bên họ, mình quên đi chiếc điện thoại, quên đi mạng xã hội, quên hết tất cả mệt nhọc, tất cả áp lực mà công việc, cuộc sống mang lại, chỉ đơn giản bên người, trò chuyện đôi ba câu, cười thật vô tư, không lo, không nghĩ.
+
+Mình muốn yêu người sẽ góp ý mỗi khi mình làm điều gì đó không phải, góp ý nhẹ nhàng thôi, đừng la mắng, trái tim này yếu đuối lắm, chẳng chịu nổi đâu.
+
+Mình muốn yêu người luôn ôm chặt mình vào lòng mỗi khi thế giới ngoài kia bắt nạt mình, không thương mình và nói “Ngoan, anh thương”.
+
+Mình muốn yêu một người mà ở bên họ mình như một đứa trẻ, thích làm nũng, thích được nuông chiều và yêu thương.
+
+Và quan trọng hơn cả, mình muốn yêu người yêu mình, dù có chuyện gì xảy ra cũng sẽ không bỏ rơi mình.
+
+Còn bạn, bạn muốn yêu người như thế nào?
+
+Xíu
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/414735094131148.jpg">

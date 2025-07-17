@@ -1,0 +1,62 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mùa thi "
+title: " Mùa thi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1037647108506607.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-06-02 22:20:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-06-02 22:20:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mùa thi
+
+Nắng vàng đổ xuống những tán cây xanh, phượng bắt đầu đua nhau khoe sắc, tiếng ve kêu râm rang khắp chốn cũng là lúc kỳ thi đang đến rất gần. Năm nào cũng vậy, hết lứa này đến lứa khác, nào là háo hức chọn ngành, chọn trường, rồi thì những câu chuyện căng thẳng với những giờ ôn thi. Một mùa thi gói gọn ước mơ, hoài bão của thí sinh và cả kỳ vọng của gia đình, về một tương lai ổn định, tươi sáng hơn.
+
+Bản thân mình cũng từng như vậy, mong chờ và cũng lo sợ kỳ thi quan trọng sau 12 năm đèn sách. Từng là thí sinh, sợ giám thị một thước, nay lại trở thành giám thị. Mỗi lần đi coi thi, mình lại thấy mắc cười vì nhớ lại bản thân ngày trước, vô hình cũng sẽ nhẹ nhàng hơn với các em.
+
+Với mình, kỳ thi đại học dường như chẳng dành cho mỗi thí sinh, mà còn dành cho cả gia đình, ba mẹ. Trong phòng thi con em căng não giải đề, ba mẹ đứng ngoài đợi mong, chẳng dám đi đâu, chỉ vội kiếm vài bóng mát chỉ mong nắng bớt gắt, gió nhẹ đung đưa xoa dịu phần nào cái nóng ở Sài Gòn. Ba mẹ không thi nhưng thấp thỏm đợi con với câu hỏi quen thuộc: đề có khó không? con mình có làm được không?
+
+Ngày đó kết thúc kỳ thi, ra gặp ba mẹ, thấy dáng vẻ có đôi phần mệt mỏi, mình còn thắc mắc đợi thôi mà, sao lại trông mệt hơn cả người thi đến vậy. Nhưng không, người đợi chờ mới là người mỏi mệt.
+
+Mùa thi, không khó để bắt gặp hoa phượng nở, tiếng ve kêu, lớp lớp học sinh vội vã và cả những bậc phụ huynh với gương mặt ngập tràn sự lo âu, hi vọng và mong chờ.
+
+Mùa thi, nơi kết thúc cũng là nơi bắt đầu
+
+Kết thúc thời học sinh tươi đẹp
+
+Bắt đầu cho một hành trình mới, hành trình của ước mơ, của hoài bão.
+
+Chỉ mong bạn, ở tuổi 18, có một kết thúc đẹp và một khởi đầu mới suôn sẻ, thuận buồm xuôi gió.
+
+Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1037647108506607.jpg">

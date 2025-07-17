@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Có người bảo tôi hiểu chuyện trong tình yêu "
+title: " Có người bảo tôi hiểu chuyện trong tình yêu "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/346919857546734.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-06-03 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Có người bảo tôi hiểu chuyện trong tình yêu. Người ta không thích không cưỡng cầu. Người ta rời đi cũng chẳng níu kéo, chẳng hỏi nguyên do.
+
+Có người bảo tôi vốn chưa hiểu tình yêu là gì. Khi chia tay tôi chẳng buồn rầu hay đau khổ, chỉ im lặng, mỉm cười chúc người hạnh phúc.
+
+Có người bảo tôi vô tâm khi dường như chẳng biết, chẳng hiểu gì về người ấy. Người ấy học ngành gì tôi không nhớ, định hướng tương lai ra sao, thích cái gì, trong đầu suy nghĩ điều gì, tôi chẳng biết gì cả.
+
+Còn tôi tự hỏi bản thân mình “Tôi yêu người đó sao?”. Mọi thứ ngày càng trở nên mơ hồ. Tôi yêu người sao?
+
+Nếu đã yêu sao tôi chẳng biết gì về người. Nếu đã yêu sao tôi chẳng thể hiểu được trong lòng người suy nghĩ điều chi. Nếu đã yêu sao tôi lại đồng ý lời chia tay một cách dễ dàng và chỉ nhẹ nhàng thốt lên câu “Hết duyên thì đi”. Và nếu đã yêu, sao tôi có thể cam tâm để người rời đi.
+
+Nhưng nếu không phải yêu thì nó là gì? Là gì khi tôi dành gần 6 năm thanh xuân để dõi theo một bóng người? Là gì khi tôi từng xem người ấy là gia đình? Là gì khi từng bị bỏ rơi nhưng vẫn cố chấp bước về phía họ một lần nữa để rồi kết cục vẫn là chia xa? Là gì khi sau chia tay, tôi bỗng trở thành con người khác, tới nỗi bạn thân phải thốt lên câu “Sao dạo này m thay đổi nhiều quá vậy?”. Là gì khi lại một lần nữa người ấy rời đi, tôi chẳng trách họ, vẫn dành cho họ tình thương và sự trân quý?
+
+Chợt nhận ra giờ đây yêu hay không yêu đã không còn quan trọng với tôi nữa rồi. Người tới, tôi đón nhận. Người rời đi, tôi mỉm cười chúc phúc.
+
+#Xíu
+#ChuyencuaXiu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/346919857546734.jpg">

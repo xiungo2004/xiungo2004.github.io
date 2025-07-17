@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Khi bạn nhận được thông điệp từ vũ trụ "
+title: " Khi bạn nhận được thông điệp từ vũ trụ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/394114442827275.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-14 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Khi bạn nhận được thông điệp từ vũ trụ
+
+Tiệm tỏ tình của tui có 3 cô chủ nhỏ, mỗi cô một tính, cô thì hay cọc, cô thì dịu nhẹ, cô thì khùng điên, hông ai giống ai. Mỗi cô một tính nết, một cách viết.
+
+Bé Nhà của Tiệm tui hay cọc lắm. Người gì đâu á, lâu lâu lên máu cọc cái chửi khách, cái nết thiệt chớ. Nói chửi dị thôi chớ nó chỉ than vãn với nhóm là sao khách kể ngắn, kể cục súc quá trời. Khách bắt viết 1000 chữ mà kể đâu độ 100 chữ. Khách trêu người yêu dỗi rồi bắt nó viết thư dỗ. Cũng hợp lý lắm. Ai bảo nó cọc, nên gặp toàn khách cũng cục súc như nó. Ai bảo có mình nó có người yêu, có kinh nghiệm, nên chỉ có thể là nó viết thư dỗ người yêu thôi.
+
+Còn bé Gao Tiệm tui á hả. Con bé đó có mối tình buồn. Văn nó buồn lắm, nghe sâu lắng. Kiểu như văn thất tình á, não nề, mà hông dứt ra được, vì nó hay. Có lần nó gửi văn lên cho tui với Nhà đọc, văn bé mùi mẫn, bay bổng, lãng mạn, tui với Nhà, con người dưới đất, xin phép bó tay, chịu chết, hổng viết được. Vậy đó, nên là nó toàn gặp những vị khách thất tình, có những mối tình dang dở.
+
+Còn tui, con bé Xíu, người chỉ quan tâm đến tâm hồn mình. Con bé hay gửi con chữ cho chính bản thân mình, viết những cảm nhận của mình rồi lại khuyên bảo chính mình. Vậy nên, từ hồi lập Tiệm đến giờ, cứ thư gửi mình hầu như sẽ vào tay bé. Không phải bé chủ đích chọn đâu, bé chọn khách, rồi mới đọc yêu cầu, xu sao á, toàn khách gửi chính mình không à. Duyên dễ sợ.
+
+Tiệm tui nó ngộ lắm, nó có chút gì đó tâm linh, chút gì đó nghe theo thông điệp của vũ trụ.
+
+_Xíu_
+
+#ChuỵencuaXiu
+#xíu
+#Tiemtotinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/394114442827275.jpg">

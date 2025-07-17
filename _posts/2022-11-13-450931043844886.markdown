@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Lũ bạn hay bảo gả bán cô cho anh. "
+title: " Lũ bạn hay bảo gả bán cô cho anh. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/450931043844886.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-13 12:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Lũ bạn hay bảo gả bán cô cho anh.
+
+Hôm ấy, bạn lại chọc cô và anh, bảo gả cô sang đấy. Cô quay sang nhìn vào anh và hỏi “Kìa, anh chịu không?”. Cô hỏi với giọng đùa giỡn, nhưng chỉ cô biết, trong đấy cũng có phần thật. Chỉ là, cô cho bản thân và anh đường lui.
+
+Anh vốn là người nhanh mồm nhanh miệng, thế mà lúc ấy anh ngập ngừng. Có lẽ vài giây, hoặc dài hơn và anh đã từ chối cô bằng câu bông đùa như lúc cô hỏi anh vậy đó. Sự từ chối của anh không khiến cô khó chịu, câu đùa của anh làm cô bật cười.
+
+Nhưng rồi cô lại nghĩ, trong vài giây ngập ngừng ngắn ngủi ấy, anh nghĩ gì nhỉ? Anh nghĩ cô đùa và đáp lại bằng câu bông đùa. Hay anh nghĩ cô thật và phải nghĩ ra câu đùa để từ chối cô.
+
+Đôi lần, cô muốn nói cho anh biết. Nhưng lại tự hỏi, tình cảm này, là anh không nhìn thấy hay vốn dĩ giả vờ không nhìn thấy. Vì nếu giả vờ, thì khi nói, cô cũng sẽ chẳng nhận được chi.
+
+#xíu 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/450931043844886.jpg">

@@ -1,0 +1,70 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - … "
+title: " - … "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/339640564941330.png"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-23 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- …
+- ?
+- lại overnight à?
+- không
+- sao chưa ngủ?
+- có việc. còn anh?
+- không ngủ được. làm đi rồi ngủ
+- um
+Từ bao giờ cuộc trò chuyện giữa em và anh lại trở nên tẻ nhạt như vậy nhỉ. Từ ngày mình chia tay? Từ ngày em thôi hy vọng vào việc anh sẽ quay về bên em. Từ ngày em nói “em không muốn dây dưa nữa, mệt rồi”. Hay từ ngày e biết chấp nhận sự thật người thương em đã rời khỏi em. Đọc đoạn tin nhắn, nước mắt em lại rơi. Rơi vì tiếc thương cho một cuộc tình vốn nghĩ sẽ trọn vẹn. Rơi vì người em thương, người thương em đã không còn đủ kiên nhẫn để ở bên em nữa rồi. Rơi vì giờ đây chúng ta thật sự đã xa rồi.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Hôm nay gọi về cho mẹ, kể đôi ba câu về bạn X có người yêu. Mẹ cười rồi hỏi “Còn con sao rồi”
+- Sao là sao mẹ?
+- Với nó sao rồi?
+- Thì dị đó chớ sao.
+- Thôi luôn rồi à?
+- Thôi chớ chi nữa không thôi, mẹ cũng bảo thôi mà.
+- Ừ thôi đi.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Ngày em quen anh, mọi người nói em nhiều lắm, hông cho quen. Mọi người bảo Anh làm bạn thì ok, làm người yêu, sợ em thiệt thòi, sợ em khổ. Em chả tin ai cả, chỉ tin vào mình, tin vào anh. Lúc đầu thì đúng vậy thật, nước mắt nhiều hơn nụ cười, nhưng may là sau này đã khác, a khiến em cười nhiều hơn, đối tốt với e hơn, luôn chiều chuộng, thương yêu em. May thật, em đã tin đúng người, anh nhỉ!
+
+Nhưng rồi ta vẫn rời xa, mọi người lại một lần nữa nói Em chẳng rời xa được anh đâu, kiểu gì cũng quay lại thôi. Em chỉ biết im lặng và cười trừ. Đã có lúc, e mong mọi người nói đúng. Nhưng tiếc thật,...
+
+Em cứ ngỡ đã tìm được bến đỗ của mình, đến cuối cùng mới biết hóa ra chỉ là trạm dừng chân.
+
+#Xíu
+#Tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/339640564941330.png">

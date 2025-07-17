@@ -1,0 +1,18 @@
+---
+lng_pair: "Hồi ức là một thứ rất kỳ diệu"
+title: "Hồi ức là một thứ rất kỳ diệu"
+category: Facebook
+tags: [Facebook]
+img: "https://xiungo2004.github.io/img/619251057012883.jpg"
+date: 2023-08-18 19:42 +0900
+---
+
+
+"Hồi ức là một thứ rất kỳ diệu, nó sống trong quá khứ, còn đọng lại ở hiện tại nhưng lại ảnh hưởng đến tương lai".
+
+
+
+
+
+<!-- outline-end -->
+<img src="https://xiungo2004.github.io/img/619251057012883.jpg">

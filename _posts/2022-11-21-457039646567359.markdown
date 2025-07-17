@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mỗi khi thấy bạn bè xung quanh chuẩn bị quà kỷ niệm yêu nhau, em chẳng tránh khỏi chạnh lòng "
+title: " Mỗi khi thấy bạn bè xung quanh chuẩn bị quà kỷ niệm yêu nhau, em chẳng tránh khỏi chạnh lòng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/457039646567359.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-21 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-21 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mỗi khi thấy bạn bè xung quanh chuẩn bị quà kỷ niệm yêu nhau, em chẳng tránh khỏi chạnh lòng. Mình chẳng có lấy một lời bắt đầu yêu, anh nhỉ? Mình nhắn tin ngày qua ngày, đi chơi dăm ba bữa, tự nhiên nắm tay, tự nhiên ôm, thế là ngầm hiểu yêu nhau. Không có một ngày kỷ niệm, không có một lời tỏ tình, ấy thế mà em vẫn bên anh bao năm cơ đấy.
+
+Mỗi lần bạn bè hỏi ngày ta yêu nhau, em cười bảo không nhớ. Chớ hông lẽ bảo ngay cả lời tỏ tình cũng không, thì nghe buồn cười lắm. Có đứa bảo em ngộ, “ngày yêu cũng không nhớ, yêu đương kiểu chi á”. Em mạnh miệng, bảo “Nhớ làm chi, đau đầu”. Nói là thế, nhưng cũng có chút buồn anh à.
+
+Ngày quen thì không nhớ, thế mà ngày chia tay em lại nhớ dai lắm cơ. Em nhớ rất rõ, ngày, giờ, nhận được tin nhắn vào lúc nào, tâm trạng ra sao, nó như bức tranh, khảm vào trí nhớ. Và em dùng nó đặt pass điện thoại. Chẳng để làm gì cả, chỉ để nhắn nhở chính bản thân mình, em và anh, đã kết thúc.
+
+Hôm ấy, anh hỏi sao pass của em lại là ngày này. Em không trả lời, chỉ nói đố anh. Liệu anh đã nhận ra chưa, hay mãi tới ngày hôm nay, bài viết này, anh mới nhận ra điều đó.
+
+Sắp tới sinh nhật anh rồi, em nghĩ hay mình sẽ không bên anh ngày đó. Để anh hiểu được cảm giác không có người mình thương trong ngày đặc biệt ấy. Vì bao năm trời quen nhau, đã có sinh nhật nào, em được trải qua cùng anh đâu. Ngộ nhỉ. Nhưng nghĩ lại, không nỡ, nên thôi vậy.
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/457039646567359.jpg">
+
+

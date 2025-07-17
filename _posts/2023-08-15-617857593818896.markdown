@@ -1,0 +1,31 @@
+---
+lng_pair: "Có cô gái nhỏ"
+title: "Có cô gái nhỏ"
+category: Facebook
+tags: [Facebook]
+img: "https://xiungo2004.github.io/img/617857593818896.jpg"
+date: 2023-08-15 22:00 +0900
+---
+
+Có cô gái nhỏ
+
+vì buồn tủi vu vơ
+
+nghĩ hạnh phúc bỏ quên mình
+
+mà cô nào hay biết
+
+hạnh phúc đang tắc đường
+
+ở nơi nào đó xa xôi
+
+hạnh phúc rồi sẽ đến
+
+vào một ngày nắng lên
+
+
+_Xíu_
+
+
+<!-- outline-end -->
+<img src="https://xiungo2004.github.io/img/617857593818896.jpg">

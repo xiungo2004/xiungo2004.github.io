@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Về nhà "
+title: " Về nhà "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/279454984293222.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-02-17 12:45:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Về nhà
+
+Trở về nhà sau 3 ngày xuống Sài Gòn. Mọi người thắc mắc sao mình mới đi mà đã đòi về. Đơn giản vì mình thích, mình nhớ nhà. Mình đi 3 ngày, bé 4 ở nhà khóc 3 ngày. Hôm mình gọi về, thấy mắt mẹ cũng ươn ướt, thế là mình chốt kèo về nhà.
+
+Có người hỏi "Vậy hồi trước mày sống ở Sài Gòn sao?". Ừ thì ngày trước vẫn sống bình thường. Đi học xa nhà từ năm 16 tuổi, mình đã quen với cuộc sống như thế, gia đình mình cũng đã quen. Nhưng dịch bệnh làm đảo lộn mọi thứ. Hơn 9 tháng chỉ ở nhà, ra vào nhìn thấy nhau. Gia đình mình đã quen với điều đó. Giờ chỉ cần xa là nhớ, là không kìm được nước mắt.
+
+Có người bảo "Rồi sẽ lại quen thôi!". Ừ thì rồi mình và gia đình sẽ lại quen với cuộc sống xa nhau như trước kia. Nhưng giờ mình còn trẻ, chưa vướng bận gì nhiều, nên mình chọn về nhà thường xuyên hơn. Người ta bảo tuổi trẻ là phải đi, phải bay nhảy. Nhưng mình lại sợ, khi qua cái thời tuổi trẻ bồng bột, mình lại bị cuốn vào guồng quay của cuộc sống, của nỗi lo cơm áo gạo tiền, nỗi lo cho gia đình nhỏ của riêng mình. Vậy thì thời gian đâu mình dành cho gia đình lớn đây. Vậy nên mình chọn về nhà khi còn có thể. Trong một phút nhớ nhà, lại phát hiện ra 2 3 ngày tới không có việc gì quan trọng, thế là xách balo lên và "đi về nhà".
+
+Còn bạn thì sao? Bạn đang ở nhà cùng hay đang bay nhảy ở phương trời nào đó? Nếu đang sải cánh bay thì hãy nhớ có người đợi bạn ở nơi gọi là nhà.
+
+#Xíu
+#chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/279454984293222.jpg">

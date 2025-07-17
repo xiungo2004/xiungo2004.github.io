@@ -1,0 +1,41 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Có nên nhắc về người cũ không? "
+title: " - Có nên nhắc về người cũ không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/640054338265888.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-09-26 20:12:57 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-09-26 20:12:57 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+- Có nên nhắc về người cũ không?
+- Nếu có thể nhắc với lời lẽ tốt đẹp như một sự hoài niệm thì hãy nhắc. Còn không thì đừng.
+- Tại sao?
+- Chẳng phải chúng ta đã từng yêu, từng trao cho nhau tình cảm chân thành nhất, từng xem nhau như cả bầu trời, như người bạn đồng hành đến suốt cuộc đời. Mối tình khép lại trở thành nỗi tiếc nuối cả đời đã đủ đau khổ rồi, sao còn dành lời lẽ tàn nhẫn cho nhau làm gì?
+Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/640054338265888.jpg">

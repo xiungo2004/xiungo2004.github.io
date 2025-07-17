@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " MỤC ĐÍCH BAN ĐẦU LÀ GÌ? "
+title: " MỤC ĐÍCH BAN ĐẦU LÀ GÌ? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/191974876374567.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-09-29 13:01:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+MỤC ĐÍCH BAN ĐẦU LÀ GÌ?
+
+Tôi: "Em có nên đăng bài này không nhờ?"
+Anh: "Tại sao không?"
+Tôi: "Em sợ có người nói em viết nhảm, em sợ người ta không thích"
+Anh: "Mục đích ban đầu của page là gì?
+
+Mục đích của page là gì? Là viết ra những điều mà mình suy nghĩ, cảm nhận về gia đình, bạn bè, tình yêu và mọi thứ xung quanh. Nhưng hình như, tôi đã bỏ quên nó rồi.
+
+Tôi luôn lo sợ những nội dung mà tôi đăng tải không được lòng mọi người. Tôi sợ mọi người nói tôi viết những điều nhảm nhí. Tôi sợ những gì tôi viết bị mọi người chê bai, chỉ trích. Tôi sợ rất nhiều thứ và suy nghĩ rất nhiều mỗi khi đăng một bài nào đó lên page.
+Chính nỗi sợ làm tôi quên đi mục đích ban đầu hay vì quên đi mục đích ban đầu mới khiến tôi sợ hãi, lo nghĩ.
+
+Tôi lập page này chỉ để bày tỏ cảm xúc, quan điểm, suy nghĩ của cá nhân tôi về cuộc sống. Tôi kể về những trải nghiệm, những cảm nhận mà chính tôi trải qua. Tôi kể về gia đình, bạn bè, tình yêu và những điều bình dị xảy ra xung quanh tôi. Tôi viết ra để sau này nhìn lại quá trình trưởng thành của bản thân.
+
+Vậy thì người ta thích hay không, có cho đó là những điều nhảm nhí hay không, đâu có liên quan gì đến tôi. Bạn thích, tôi sẽ thấy vui vẻ. Bạn góp ý, tôi sẽ thấy biết ơn. Bạn không thích, tôi cũng chỉ có thể mỉm cười.
+
+Bởi, vốn dĩ mỗi người sẽ có những trải nghiệm của riêng mình, sẽ có những suy nghĩ, cảm nhận, quan điểm riêng mà không ai có thể can thiệp vào được. Tôi cũng chẳng thể nào làm hài lòng tất cả mọi người và tôi nghĩ mình cũng không cần làm điều đó. Tôi chỉ cần là chính mình, vậy là đủ. Như thỏi son chỉ cần giữ một màu sắc của riêng nó, sẽ có người thích.
+Khi bạn chạy xe trên đường, sẽ có rất nhiều ngã rẽ, hai bên đường thì có nhiều thú vui, cả những điều mới lạ, thú vị khiến ta lạc lối. Nhưng chỉ cần bạn giữ mãi ý niệm ban đầu, mục đích ban đầu, tôi tin bạn có thể vượt qua những cám dỗ xung quanh để tới được đích đến.
+
+Bài viết này cũng như một lời nhắc nhở chính bản thân tôi, ĐỪNG BAO GIỜ QUÊN ĐI MỤC ĐÍCH BAN ĐẦU của mình.
+
+#NguyetHa
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/191974876374567.jpg">

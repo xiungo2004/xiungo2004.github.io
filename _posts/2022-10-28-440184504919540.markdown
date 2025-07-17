@@ -1,0 +1,65 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Em say mê cảm giác, đôi chân trần, bước trên cát mịn, từng con sóng vỗ vào bờ, hôn lên đôi bàn chân bằng một nụ hôn mát lạnh "
+title: " Em say mê cảm giác, đôi chân trần, bước trên cát mịn, từng con sóng vỗ vào bờ, hôn lên đôi bàn chân bằng một nụ hôn mát lạnh "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/440184504919540.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-28 23:02:20 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Em say mê cảm giác, đôi chân trần, bước trên cát mịn, từng con sóng vỗ vào bờ, hôn lên đôi bàn chân bằng một nụ hôn mát lạnh.
+
+Em say mê cảm giác tóc mình bay rối tung rối mù vì gió biển dù biết, có lúc em sẽ cáu gắt vì điều đó. Nó khiến em trở nên xấu xí vô cùng.
+
+Em say mê cảm giác nhìn con sóng uốn lượn, dường như nó có thể trở thành bất kỳ hình dạng nào nó muốn, dường như con sóng ấy có thể cuốn trôi mọi thứ, kể cả nỗi buồn của em.
+
+Em say mê cảm giác đi dạo trên bãi biển, ngắm nhìn từng người từng người. Người thì bên bạn bè, người bên người thương, người bên gia đình vui chơi thỏa thích với làn nước tươi mát. Nhưng cũng có người đang phải mưu sinh với cuộc sống miền biển.
+
+Em say mê cảm giác được ngắm nhìn bầu trời dần sáng lên, để những con sóng vỗ, những nụ cười hạnh phúc, khuôn mặt mệt mỏi vì phải dậy sớm mưu sinh, tất cả đều hiện ra rõ hơn.
+
+Em say mê tiếng sóng vỗ rì rầm. Một bản nhạc thiên nhiên khiến tâm hồn thôi dậy sóng.
+
+Sóng đang nghĩ gì nhỉ? Sóng muốn cuốn điều gì ra đại dương mà liên tục vỗ vào bờ.
+
+Đôi lúc em cũng ước mình có thể ngâm mình dưới nước, cảm nhận rõ hơn về mùi vị của biển cả. Nhưng lại không thể, nên thôi, thương biển, nên chỉ cần được chạm vào biển là đủ rồi.
+
+Sáng nay đi dạo, e vô tình dẫm lên trái tim của đôi tình nhân nào đấy vẽ vội và chưa bị biển cuốn trôi. Sao vậy nhỉ, phải chăng, biển sẽ không cuốn trôi tình yêu? Không phải đâu, đôi trẻ ấy vẽ xa biển quá, sóng chẳng với tới.
+
+Sau này, e mong sẽ có người nắm tay, dắt em đi dạo quanh biển, cùng em vẽ nên hình trái tim chỉ thuộc về chúng em, dù trái tim ấy, có thể rất nhanh sẽ bị sóng cuốn trôi hoặc người du lịch nơi đây xóa tan, nhưng nó sẽ khắc mãi trong góc ký ức của em.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/440184504919540.jpg">

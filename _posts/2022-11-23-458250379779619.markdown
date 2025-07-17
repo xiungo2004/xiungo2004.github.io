@@ -1,0 +1,70 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Yêu một người bận rộn là như thế nào nhỉ? "
+title: " Yêu một người bận rộn là như thế nào nhỉ? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/458250379779619.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-23 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-23 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Yêu một người bận rộn là như thế nào nhỉ?
+
+Bạn mình yêu một người bận rộn. Hắn bận tới mức 1 2 ngày không có lấy một dòng tin nhắn là bình thường, thậm chí còn lâu hơn. Ở cách nhau không xa, khoảng chừng 1 cây số, ấy thế mà cả tuần, nửa tháng chẳng gặp nhau nổi một lần.
+
+Bạn cứ nghĩ hắn bận, nên không dám làm phiền. Ai nói gì bạn cũng biện bạch hộ rằng hắn ban ngày đi làm, tối còn đi học. Bạn âm thầm ôm hết tủi thân vào lòng, có người yêu mà như không. Để rồi vào một ngày không mấy đẹp trời, bạn nghe được rằng, hắn tán tỉnh vài ba người khác.
+
+Thời gian đâu? Hắn bận thế cơ mà. Vào lúc hắn chạy deadline, gọi điện cho một người, vừa nói chuyện cho đỡ chán vừa làm. Vào lúc hắn chạy xe trên đường, lại gọi điện cho cô nào đấy, tâm tình đôi ba câu. Hắn nào có bận, chỉ là hắn không dành thời gian cho bạn thôi.
+
+—------------------------------------
+
+Một người bạn khác của mình yêu một người bận rộn. Ngày yêu nhau, người ấy cũng nói cho bạn biết là người đang chạy đồ án tốt nghiệp, lại vừa phải đi làm, rất bận. Bạn chấp nhận, thế là yêu.
+
+Ngày ngày bận, ấy thế mà người ấy vẫn tranh thủ nhắn cho bạn, buổi sáng 2 tin, 1 tin bảo đã tới chỗ làm, 1 tin bảo bạn ăn sáng đi. Trưa tranh thủ giờ nghỉ nhắn với bạn đôi ba câu nữa. Tối về, hôm nào rỗi hơn thì gọi điện 5 10 phút, không thì sẽ vài ba tin nhắn hỏi han, lắng nghe bạn than vãn về hôm nay thế nào, có gì vui, có gì buồn rồi lại chạy đồ án.
+
+Hai bạn ở cùng 1 thành phố, nhưng cách nhau khá xa. Mỗi tuần người ấy đều sẽ tranh thủ xuống đèo bạn đi chơi, lòng vòng mấy quán kem bạn thích, rủ rỉ rù rì đôi ba chuyện.
+
+—--------------------------------
+
+Cũng là yêu một người bận rộn, mà sao lạ quá. Mà thật ra, nào có ai yêu mà bận rộn tới mức chẳng có nổi một tin nhắn đâu. Chỉ là tâm người không dành cho bạn, nên câu bận rộn treo đầu môi.
+
+Trên đường về, dừng đèn đỏ 30 45s, cầm điện thoại ra, nhắn vội mấy chữ “Anh tan làm rồi, đang về”. Thế cũng đủ khiến người còn lại an tâm.
+
+Giờ ăn trưa, tranh thủ chụp vội hộp cơm gửi em, kèm theo lời nhắn “Giờ anh mới được ăn cơm này, em đã ăn gì chưa?” Vậy có phải sẽ khiến người kia cảm thấy ấm áp vì được quan tâm hông.
+
+Còn nếu đã bận tới mức không có dù chỉ là một chút thời gian dành cho người kia, vậy thì đừng yêu nữa. Anh không thương thì thôi, để đứa khác nó thương, tội chi giày vò nhau cho mệt dị.
+
+Một số người gặp bạn khi họ rảnh nhưng lại có một số người tạo thời gian rảnh chỉ để gặp bạn. Hãy chọn vế sau, đó mới là người thật tâm với bạn.
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/458250379779619.jpg">
+
+

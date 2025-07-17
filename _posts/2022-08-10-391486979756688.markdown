@@ -1,0 +1,53 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Kể anh nghe, em chẳng thích là người kết thúc cuộc trò chuyện "
+title: " Kể anh nghe, em chẳng thích là người kết thúc cuộc trò chuyện "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/391486979756688.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-10 12:55:41 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Kể anh nghe, em chẳng thích là người kết thúc cuộc trò chuyện. Dù là nhắn với bạn bè, người thương hay gia đình đều như vậy. Cảm giác đó chẳng dễ chịu chút nào. Cảm giác như bị bỏ rơi vậy đó. Có lẽ do em nhạy cảm quá phải không anh? Em biết, nếu em không thích thì người đối thoại với em cũng có thể không thích. Nhưng thôi, cho em ích kỷ chút nha. Sau này anh có đến, nhớ đừng để em là người kết thúc cuộc trò chuyện.
+
+Kể anh nghe, em không thích những người xem tin nhắn em mà không rep. Thà rằng họ đừng xem, vậy em có thể tự lừa dối mình rằng, họ đang bận hoặc tin nhắn đã bị trôi không nhìn thấy. Còn xem mà không rep, chẳng khác nào em chẳng quan trọng với họ, phải không anh? Hay do em nhạy cảm quá nhỉ? Sau này anh có đến, hãy cố dành ra vài phút bận rộn của bản thân để trả lời tin nhắn của em nha.
+
+Kể anh nghe, em không thích icon cười mỉm như này 🙂, hông hiểu sao nhìn vào e khó chịu vô cùng. Khuôn mặt ấy với em không phải là mặt cười, e nhìn thấy trong ấy có chút gì đó mỉa mai, gượng ép. Em ghét, nên ai nhắn cho em với icon đó em đều không ưa. Nếu là bạn bè, em sẽ nói cho họ biết em không thích. Còn nếu là người mới quen, em sẽ hạn chế trò chuyện cùng họ luôn. Em vô lý và nhạy cảm quá thì phải. Sau này anh có đến, anh có thể dùng bất kỳ icon nào, nhưng đừng dùng icon 🙂 này nha, em sẽ giận a đó.
+
+#Xíu
+#ChuyencuaXiu
+#Tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/391486979756688.jpg">

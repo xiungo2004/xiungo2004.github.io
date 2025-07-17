@@ -1,0 +1,51 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Nay em ghé lại quán xưa, nơi ta từng ngồi "
+title: " Nay em ghé lại quán xưa, nơi ta từng ngồi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/400689908869000.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-06 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Nay em ghé lại quán xưa, nơi ta từng ngồi. Nói sao ta, cách bài trí ở quán khác với năm ấy, cũng như chuyện tình mình đã có ngã rẽ. Hình như quán đổi chủ nữa rồi, menu cũng có sự khác biệt. Nhìn vào menu, có mấy món mới, nghe tên dễ thương lắm: Trà tình yêu, Trà may mắn,... Em tính gọi một cốc Trà may mắn, vì dạo này xui quá chừng. Nhưng anh chủ quán lại bảo, đây là trà thảo mộc, sợ em sẽ khó uống. Em là đứa kén ăn uống, nên chẳng dám thử. Có lẽ cũng vì vậy mà may mắn chẳng đến với em nhỉ? Em nghe đâu đó câu “Nếu không thử thì bạn sẽ không bao giờ biết được kết quả. Nhưng nếu thử rồi, bạn sẽ biết nhẽ ra mình không nên thử”. Thế nên em sợ, em không dám thử. Em đang bao biện cho sự nhát gan của mình đó. Em luôn giỏi trong khoảng này mà, phải không anh, bao biện cho mọi lỗi lầm của bản thân.
+
+Trời mưa rồi, mưa nặng hạt thi nhau trút xuống lòng đường. Tự nhiên em thèm được tắm mưa ghê. Ngày bé trốn ba mẹ đi tắm mưa, nào có quan tâm người ở nhà lo lắng mình sẽ cảm, sốt thế nào. Lớn rồi, biết nghĩ rồi, hay đúng hơn là biết sợ rồi. Em sợ cơn mưa sẽ khiến em ốm, xa ba mẹ, có ai đâu mà chăm. Bữa em ốm, tự mình đi khám bệnh. Tủi thân vô cùng. Vừa đi, nước mắt vừa rơi lã chã, thấy mình yếu đuối ghê. Ngày còn ở nhà, dù lớn, nhưng luôn có mẹ đưa đi khám. Đi học xa thì có anh, có bạn bè, nào có đi một mình bao giờ. Dù biết nếu em gọi điện, anh vẫn tình nguyện đưa em đi khám, bạn bè cũng thế, nhưng thế giới của người trưởng thành lạ lắm, họ sợ làm phiền người khác, cũng sợ người khác cảm thấy phiền.
+
+Nay em chẳng còn nặng lòng chuyện xưa, mà sao câu văn viết ra vẫn mang nỗi buồn thương tiếc. Ngộ thật. Em chẳng muốn viết mãi áng văn buồn, nhưng màu sắc vui vẻ, em không có cách nào vẽ ra lúc này. Thôi thì có gì viết đó, buồn hay vui cũng là bản thân em mà, phải hông? Biết đâu, một ngày nào đó gần đây, em sẽ viết ra những dòng vui vẻ, tích cực nhỉ.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/400689908869000.jpg">

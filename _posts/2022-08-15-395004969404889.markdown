@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Biến mất "
+title: " Biến mất "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/395004969404889.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-15 16:44:18 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Biến mất
+
+Người biến mất rồi, không còn xuất hiện trước mặt em, trong cuộc sống của e, thậm chí trên mạng xã hội em cũng không còn nhìn thấy người, một cách bị động.
+
+Em nên vui chứ nhỉ, vì rõ ràng là do e chọn lựa. Em nói muốn bắt đầu cuộc sống mới. Em nói muốn bắt đầu tình yêu mới. Em nói muốn thương một ai đó khác.
+
+Vậy nên, giữa những cơn điên, e block người. Sáng hôm sau, khi đã ổn hơn, e lại thấy không nỡ mà gỡ block. Thật nhu nhược và hèn nhát làm sao.
+
+Người bảo thôi cứ để vậy, có việc gì thì nhắn tin, bình thường sẽ không hiện lên. Người có ý gì vậy? Người không muốn làm phiền cuộc sống của e, nhưng lại sợ những lúc e chênh vênh và lạc lõng lại không tìm được người sao. Sao phải như vậy làm chi?
+
+Người đi rồi, em ổn chứ? Ổn, nhưng vẫn đâu đấy thấy khoét mất một chỗ, lòng lại thêm phần trống trải. Nhưng sẽ mau chóng tan nhanh thôi. E sẽ lấp đầy chúng bằng niềm vui.
+
+_Xíu_
+
+#Xíu
+#ChuyencuaXiu
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/395004969404889.jpg">

@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Trung thu nơi Sài thành sao khác với ở quê quá! "
+title: " Trung thu nơi Sài thành sao khác với ở quê quá! "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/403369308601060.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-10 13:03:10 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Trung thu nơi Sài thành sao khác với ở quê quá!
+
+Giờ này, ở quê, tiếng trống lân vang lên rộn ràng. 2, 3, 4 đoàn lân thi nhau múa, các ông địa thì phe phẩy chiếc quạt kèm theo chiếc mặt nạ, dọa bọn con nít chạy tán loạn, hét um trời. Đoàn lân đi trước, đám con nít nối đuôi theo sau, tay cầm những chiếc lồng đèn xinh xinh, có thể là tự làm, có thể là được mẹ mua cho chiều nay với đủ dạng hình thù. Có gia đình mở cửa, chào đón lân vào nhà. Nhưng cũng có gia đình nghe tiếng lân xa xa, đã vội vàng đóng cửa, đơn giản vì họ chẳng muốn phải lau dọn nhà thêm lần nữa trong ngày mà thôi.
+
+Ngày bé, tui thích đi coi lân lắm, mê. Nhưng ba khó tính, hông cho đi, ba sợ xô xát với những đứa trẻ khác. Tui chỉ dòm qua khung cửa sổ, ngắm nhìn đàn lân nhảy múa rồi từ từ khuất xa kèm theo tiếng hò reo của đám con nít. Ngày bé, tui cũng được mẹ mua cho lồng đèn, xong tắt điện trong nhà, rước đèn từ nhà trên xuống nhà dưới, rồi lại vòng lên. Có khi còn chui vào trong chăn, mở đèn sáng lên, nghe tiếng nhạc phát ra từ chiếc lồng đèn rồi ngồi trong đấy cả buổi trời, tới khi đèn hết pin mới chịu chui ra. Khùng ghê dị đó, nhưng mà vẫn vui.
+
+Năm nay, được đón Trung thu ở thành phố lớn. Không có lân, không có không khí. Nếu đi qua các nhà thờ, giáo xứ, may ra sẽ thấy cảnh nhộn nhịp của Tết thiếu nhi. Ngày này, ở Sài Gòn, dù không có lân, nhưng người người vẫn đổ xô ra đường. Đường đông đúc, kẹt xe, nhích từng tí. Nhưng thật ra, bình thường Sài Gòn cũng có vắng vẻ bao giờ đâu. Chỉ là ngày thường đông, nay đông hơn 1 tí, bình thường kẹt xe, nay kẹt xe hơn 1 tí. Không có lân nhảy múa, không có tiếng trống, không có những chiếc lồng đèn sặc sỡ nối đuôi nhau.
+
+Trung thu Sài Gòn là dị đó, dị mà ai ai cũng nô nức, xúm xính váy áo đi chơi Trung thu, lạ hen. Mà tui cũng dị á.
+
+Ảnh: Pinterest
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/403369308601060.jpg">

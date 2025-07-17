@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Nắng Sài Gòn hôm nay dịu nhẹ, kết thúc một năm đầy khó khăn, thử thách. "
+title: " Nắng Sài Gòn hôm nay dịu nhẹ, kết thúc một năm đầy khó khăn, thử thách. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/486648833606440.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-12-31 21:28:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-12-31 21:28:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Nắng Sài Gòn hôm nay dịu nhẹ, kết thúc một năm đầy khó khăn, thử thách. Năm nay, bạn đã làm rất tốt rồi. Mọi nỗi buồn, ấm ức, tiếc nuối, bỏ lại đây hết nhé!
+
+Tui trước nè
+
+Kể nghe, năm nay tui đã khóc rất nhiều, dường như là nước mắt của hai mươi mấy năm cuộc đời cộng dồn lại vậy đó. Có những ngày tui khóc từ sáng tới tối muộn dần chìm vào dần ngủ, cứ khóc rồi ngừng rồi lại khóc.
+
+Năm nay á, tui ngủ ít lắm, có ngày chỉ ngủ được 2 3 tiếng, không phải vì bận, đơn giản là mất ngủ thôi.
+
+Năm nay tui hay ốm vặt, ốm liên miên, ốm hoài không thấy khỏi. Mỗi lần gặp bạn bè là bị chê gầy, chê hoài mà xì trét luôn á.
+
+Năm nay, có nhiều cảm xúc mới lạ lắm, buồn, vui, tuyệt vọng, bất lực, những cung bậc mà bản thân chưa từng được trải qua.
+
+Tui vẫn hay đùa với đám bạn, năm nay xé nháp, nhưng sao mà xé được, xé rồi thì cuộc đời đâu còn hoàn thiện. Có tui của 2022 thì mới có tui của 2023 chớ. Nên dù năm qua có thể nào, cũng hay tự hào rằng mình đã kiên cường vượt qua nhé!!!
+
+À, 2022 thành công với Xíu là có thêm nhiều bạn theo dõi, thêm nhiều bạn tìm đến. Yêu lắm ó ❤❤❤
+
+Còn bạn thì sao? Có thế nào thì bước sang năm mới, nhớ chỉ được mang theo nụ cười và niềm hạnh phúc thôi đấy nha 🥰
+
+Xíu
+
+Ảnh: không có hình tết, tui lấy tạm ảnh Noel nghen 
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/486648833606440.jpg">

@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " NHẪN NHỊN "
+title: " NHẪN NHỊN "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/102409165331139.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-04-22 14:49:17 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+NHẪN NHỊN
+
+Tôi rất khâm phục mẹ tôi. Bà đã gần 40. Sống hơn nửa đời người, nhưng có lẽ cuộc đời bà chỉ gói gọn trong 2 từ nhẫn nhịn. Hồi nhỏ, tôi thấy mẹ vĩ đại. Bà bao dung cho tất cả lỗi lầm của người xung quanh. Nhưng khi lớn lên, tôi không thấy đó là bao dung, đó là nhẫn nhịn. Mẹ dành sự nhẫn nhịn ấy cho tất cả mọi người, đặc biệt là người thân. Chỉ vì muốn sự hài hòa, bình yên trong gia đình mà từ năm này qua tháng nọ, bà nhịn hết lần này đến lần khác. Tôi không biết nó có tác dụng hay không, nhưng tôi không thích điều đó. Với tôi, nhịn một lúc thì được nhưng thời gian dài thì không.
+
+Mẹ hay bảo "Mẹ sinh mấy đứa con ra mà không đứa nào giống tính mẹ hết trơn". Đúng thật, tôi không giống mẹ. Hoặc có thể nói ở một số phương diện thì hoàn toàn trái ngược. Tính mẹ tôi thì hay nhẫn nhịn, tôi thì không. Đối với tôi việc phải nhẫn nhịn rất khó. Nhẫn nhịn chỉ khiến người ta càng lấn tới, càng không coi trọng mình. Về mặt tính cách, tôi thấy mình giống ba hơn. Nóng tính và không để mình chịu thiệt trong bất kỳ điều gì. Đặc biệt là tình cảm. Trong bất cứ mối quan hệ nào, dù là họ hàng, bạn bè thân thiết hay là người yêu, tôi đối xử chân thành và cũng yêu cầu nhận được sự chân thành.
+
+Quan niệm sống của mỗi người mỗi khác, 2 thế hệ lại càng có sự khác biệt hơn. Mẹ tôi nhẫn nhịn vì mẹ yêu thương họ, muốn sự bình yên trong gia đình, muốn các mối quan hệ luôn hài hòa. Còn tôi, ích kỷ hơn, tôi sống cho mình, làm việc mình thích, sống như mình nghĩ.
+#NguyetHa
+
+P/s: Dưới đây là bức ảnh lần đầu tiên tui tổ chức sinh nhật cho mẹ
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/102409165331139.jpg">

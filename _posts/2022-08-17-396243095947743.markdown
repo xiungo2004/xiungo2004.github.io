@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mọi người biết hông, em ghét bóc hành tây lắm "
+title: " Mọi người biết hông, em ghét bóc hành tây lắm "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/396243095947743.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-17 17:10:31 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mọi người biết hông, em ghét bóc hành tây lắm. Rõ bên ngoài xinh xinh, tròn tròn, da thì mịn. Nhưng cứ bóc từng lớp, từng lớp vỏ, lại khiến mắt em cay, tuyến lệ rơi.
+
+Dạo gần đây có nhiều người nhận xét về con người em lắm. Có người bảo em yếu đuối, tạo cho họ cảm giác được che chở. Có người bảo trông em thật thảm, họ thấy được qua áng văn buồn của em. Có người nói em đối lập, khi những bài viết ở Xíu cũng là hai mảng vui buồn mâu thuẫn nhau. Có người bảo em nhạy cảm, nhạy cảm với con chữ, nhạy cảm với cả người lời nói của người xa lạ.
+
+Những từ đó, nghe sao thật xa lạ. Họ miêu tả ai á, nào phải em. Em đâu phải như vậy, thứ em cho mọi người thấy đâu phải là một cô gái yếu đuối, bi lụy, nhạy cảm. Hôm có người bảo em khùng điên, năng động, vui vẻ. Em vui lắm, em bảo đó là thứ em cho mọi người nhìn thấy, hãy nhìn thấy những thứ đó thôi.
+
+Sao mọi người không như vậy? Hãy chỉ nhìn thấy điều em cho mọi người thấy thôi nhé. Những áng văn của em, có buồn, có sầu, hãy chỉ dừng lại ở con chữ thôi. Mọi người có thể nhận xét về nó, đánh giá nó, phê bình nó, chê bai nó, nhưng chỉ vậy thôi nhé. Đừng đào sâu vào con người em làm chi. Khi có một ai đó đến, nói những lời tỏ ra hiểu em, em thấy nực cười lắm, cười cho họ và cũng cười cho em. Họ hiểu được bao nhiêu về em cơ chứ, đã tiếp xúc với em đâu mà hiểu. Em còn chẳng hiểu nổi cảm xúc của bản thân cơ mà. Em cười em, cớ sao đã che giấu, mà còn viết ra con chữ, để người ta có cơ hội, cơ sở bóc trần bản chất em. Nhưng làm sao đây, em không thể không viết, nó là lối thoát cho chính em.
+
+Đôi lúc em tự thấy mình vô dụng, em muốn mang lại niềm vui cho người khác, nhưng bản thân lại chẳng mang lại niềm vui cho mình. Em muốn chữa lành cho trái tim vụn vỡ ngoài kia bằng những cái ôm, những câu an ủi, nhưng sao chẳng chữa lành cho bản thân trước đã. Nói vậy thôi, chớ giờ em vẫn ổn, ổn theo cách riêng của bản thân. Mọi người đừng ai bóc trần em nữa nhé, giận đó 😡😡😡
+
+_Xíu_
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/396243095947743.jpg">

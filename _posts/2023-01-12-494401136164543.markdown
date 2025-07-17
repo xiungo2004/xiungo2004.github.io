@@ -1,0 +1,50 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tui hay hỏi: "
+title: " Tui hay hỏi: "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/494401136164543.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-12 21:49:30 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-12 21:49:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Tui hay hỏi:
+ “Người thương tui không”
+“Trong lòng người tui có vị trí như thế nào?”
+
+Tui là đứa không thích mập mờ, có mập là mập rõ luôn á, mập mà mọi người nhìn vào đều biết, đều hiểu.
+
+Tui sợ mập mờ lắm. Mập mờ tức chẳng ai nói lời thích nhau, chỉ ngầm tự hiểu qua hành động, qua cách cư xử. Ừ thì nhìn vào hành động, cũng đáng tin đó. Nhưng với tui là chưa đủ. Lỡ hành động đó là bình thường với người nhưng khác thường với tui thì sao. Tui sợ mình ảo tưởng vị trí của bản thân trong tim họ. Vậy thì khổ mình lắm.
+
+Tui mà có tình cảm với ai, thấy họ cũng có ý lại là hỏi ngay. Tui hỏi chẳng phải để xác định mối quan hệ yêu nhau hay gì đâu. Hỏi để biết tình cảm của người ra sao, tiện bề mà cư xử cho đúng mực.
+
+Thật ra, mỗi lần hỏi cũng rén lắm, dò trước đoán sau. Có người bảo tui sao quá rạch ròi, đôi khi mập mờ cũng tốt mà, nói ra lại mất hay. Nhưng biết sao được, tính nó dị.
+
+Xíu
+
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/494401136164543.jpg">

@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Càng trưởng thành … ta càng cô đơn "
+title: " Càng trưởng thành … ta càng cô đơn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/146179564287432.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-07-21 14:08:15 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Càng trưởng thành … ta càng cô đơn
+
+Hình như càng trưởng thành, ta lại càng cảm thấy cô đơn. Cô đơn mà tôi nói ở đây không phải là không ai bên cạnh mà dù có người luôn cạnh bên nhưng vẫn thấy cô đơn trong lòng.
+
+Ngày trước, thế giới của ta nhỏ bé, chỉ quanh quẩn nơi góc nhà, góc xóm nhỏ. Có chuyện gì dù nhỏ hay to cũng sẽ thủ thỉ với mẹ lúc về đêm, ngồi kể bạn bè nghe mỗi khi tụ tập. Ngày ấy, mọi vui buồn đều hiện lên trên nét mặt không chút giấu giếm. Suy nghĩ đơn giản, thế giới xung quanh cũng giản đơn.
+
+Ngày bé chỉ cần ta không vui, gặp chuyện không vừa ý thì có thể khóc ầm lên, may mắn thì sẽ có người dỗ dành ta, không thì thôi. Chỉ cần khóc xong, mọi thứ sẽ lại quay về vị trí ban đầu như chưa có chuyện gì xảy ra. Chuyện không vui vừa mới đây đã bị ta quẳng đi đâu đó rồi quên mất, bản thân lại hòa vào cuộc vui với bạn bè hoặc những thú vui riêng.
+
+Nhưng khi trưởng thành rồi, ta lại chẳng thể tùy hứng như vậy được nữa. Những người bạn thân thiết một thời nay cũng không còn như xưa. Ta bắt đầu học cách che giấu cảm xúc của bản thân. Những nỗi buồn không còn có thể chia sẻ với bạn bè, người thân thoải mái như xưa. Bởi khi trưởng thành cũng là lúc ta nhận ra, ai cũng sẽ có những nỗi buồn của riêng họ, ta không thể mang nỗi buồn của mình đi làm phiền người khác. Những nỗi buồn không tên ta chẳng dám mang phơi bày vì sợ người ta sẽ cười chê hay sẽ nói những lời sáo rỗng.
+
+Trưởng thành rồi, ta có nhiều nỗi sợ, sợ ba mẹ buồn, sợ mình làm không tốt, sợ cả lòng người. Nếu ngày bé có thể khóc òa lên mỗi khi không vui thì khi lớn lên, dù xảy ra chuyện gì ta cũng phải nuốt nước mắt vào trong lòng và chỉ dám bật khóc khi trời đã về đêm, khi bóng tối bủa vây. Cũng bởi vì ta sợ bị cười chê, ta sợ phải yếu đuối trước mặt ai đó. Những nỗi sợ vô hình khiến ta thu mình trong chiếc vỏ bọc mạnh mẽ giả tạo của bản thân. Nhưng sâu bên trong, ta yếu đuối và cô đơn biết nhường nào...
+
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/146179564287432.jpg">

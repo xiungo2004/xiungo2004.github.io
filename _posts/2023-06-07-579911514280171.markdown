@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình từng hoài nghi về chính mình "
+title: " Mình từng hoài nghi về chính mình "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/579911514280171.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-06-07 22:17:44 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-06-07 22:17:44 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình từng hoài nghi về chính mình
+
+Bạn có từng như vậy không, hoài nghi về bản thân, kém cỏi, vô dụng.
+
+Mình đã từng như vậy đấy.
+
+Mình vốn chẳng phải là đứa giỏi giang gì, mình kém bạn bè nhiều lắm. Dù đã nỗ lực rất nhiều, đôi lúc mình vẫn chẳng theo kịp bước chân của họ. Ngày nhỏ mẹ hay so sánh mình với con nhà người ta, đôi lúc cũng sẽ chạnh lòng. Nhưng lúc ấy mình nghĩ, dù sao mình cũng nỗ lực rồi mà, mình có giỏi như thế nào cũng sẽ có người giỏi hơn mình.
+
+Vậy mà khi lớn lên, có những giây phút mình không nghĩ được như vậy, không bằng bản thân ngày con bé. Năm đó thực tập bất ổn, chia tay mối tình đầu, mọi rắc rối, áp lực dồn lại, mình đã tự ti.
+
+Đêm nào mình cũng trách bản thân tệ hại, tính tình không tốt khiến người quay lưng.
+
+Đêm nào mình cũng khóc vì bất lực, bất lực với công việc thực tập, với tương lai vô định, mơ hồ của bản thân.
+
+Càng nhìn bạn bè xung quanh, mình lại càng thấy bản thân kém cỏi đến cùng cực. Bạn bè đã có chốn đi về ổn định, mình vẫn loay hoay tìm kiếm điều bản thân thật sự thích. Áp lực đồng trang lứa đè nặng đôi khi khiến mình chẳng thở nổi. 
+
+Khoảng thời gian đó thật sự không dễ dàng gì. Giờ ai hỏi mình làm sao để vượt qua được, mình thật sự không biết trả lời sao cả. Vì ngày đó, mình đêm thì khóc, ngày thì vẫn phải làm những việc bản thân buộc phải làm, vẫn phải loay hoay tìm đường đi cho riêng mình. Mệt mỏi quá thì mình về nhà dăm bữa nửa tháng, nghỉ ngơi, rồi lại quay lại Sài Gòn tiếp tục. 
+
+Mình cũng từng tiêu cực, nhưng mình nhận ra điều đó không hẳn là xấu xa quá đâu. Có những ngày thì thế, tự ti, buồn bực, đôi lúc là tuyệt vọng thì mới có mình hiện tại. Cuộc sống mà, có vui thì cũng phải có buồn, có tích cực thì cũng có đôi lúc phải tiêu cực mà. Hiện tại mình cũng có những giây phút tiêu cực, điều mình có thể làm là nỗ lực điều chỉnh, không làm ảnh hưởng đến ai, không làm ảnh hưởng đến công việc.
+
+Xíu
+
+#Ănhoàikhônglớn
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/579911514280171.jpg">

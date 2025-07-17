@@ -1,0 +1,60 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " “Điểm đến cuộc đời” "
+title: " “Điểm đến cuộc đời” "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/194577266114328.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-03 12:30:59 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+“Điểm đến cuộc đời”
+
+Cuốn sách “Điểm đến cuộc đời” của Đặng Hoàng Giang đã kể lại hành trình đồng hành cùng những người cận tử của ông. Nói thật, khi đọc cuốn sách này, mình đã phải dừng lại rất nhiều lần bởi nó khiến tâm trạng của mình tệ đi. Cái chết vẫn còn là một điều gì đó quá xa lạ và đáng sợ với mình. Chết, mình nghe về nó rất nhiều, nhất là trong mấy tháng dịch bệnh này, nhưng mình chưa bao giờ nghĩ nó sẽ xảy đến với mình. Và mình tin rằng không chỉ riêng mình nghĩ như vậy. Bởi chẳng có một người trẻ nào với một tương lai đầy tươi sáng ở phía trước lại nghĩ đến cái chết cả. Chúng ta luôn nghĩ rằng, thời gian của mình là vô hạn. Nhưng ta quên mất một điều, cũng như sinh ra, chết cũng là một lẽ "tất yếu" của cuộc sống, không ai có thể can thiệp vào được. Và Thần Chết sẽ chẳng buông tha một ai, ngay cả một đứa bé chỉ mới 8 tuổi, một cô sinh viên vừa ra trường với tương lai tươi sáng phía trước hay một người phụ nữ đang hạnh phúc với gia đình nhỏ của mình.
+
+Cuốn sách không khiến mình tiêu cực, mình chỉ buồn và bị ám ảnh mình bởi sự đau đớn mà người cận tử phải trải qua vào những ngày cuối cùng của đời mình. Họ phải trải qua đau đớn cả về thể xác lẫn tinh thần để chờ Thần Chết tới mang họ đi. Những đau đớn của họ có khi còn lớn hơn những gì con chữ của tác giả có thể thể hiện. Mình nghĩ không có niềm vui, nỗi buồn, sự đau đớn hay tuyệt vọng nào có thể thể hiện trọn vẹn bằng con chữ. Ngay cả khi ta tận mắt chứng kiến những đau đớn của họ, ta cũng khó có thể cảm nhận trọn vẹn nó. Chỉ những người trong cuộc, những người trải qua đau đớn mới biết cảm giác đó là như thế nào. Khi đọc cuốn sách, mình đã nghĩ rằng, có phải cái chết bất ngờ sẽ làm ta bớt đau đớn hơn chẳng. Bởi với những căn bệnh chờ chết, họ cảm nhận từ từ sự biến mất của sự sống và tinh thần cũng chẳng dễ chịu chút nào. Họ không chỉ đối diện với án tử được điểm ngược từng ngày, từng giờ, từng phút mà còn phải đối diện với những người thân yêu, những người đang đau buồn vì họ.
+
+Nhưng điều mình cảm thấy thích ở cuốn sách là cách các nhân vật đối mặt với cái chết. Có lo lắng, có sợ hãi cũng có cả những sự nuối tiếc, lưu luyến, nhưng họ đều là những con người dũng cảm. Họ đã dám nhìn thẳng vào cái chết, coi nó như một lẽ tất yếu của tự nhiên và chấp nhận nó đang đến với mình. Họ dành những ngày tháng cuối cùng của mình để cố gắng sống thật vui, thật ý nghĩa.
+
+Gấp cuốn sách lại, mình đã nghĩ rất nhiều về cái chết, của bản thân, của những người thân yêu. Lúc đó, liệu mình có đủ can đảm để đối mặt hay không. Và mình nên làm gì cho mình, cho người mình yêu thương, để khi cái chết đến gần, mình sẽ không có bất kỳ sự nuối tiếc nào. Mình phải làm gì để đến những giờ phút cuối cùng, mình có thể thản nhiên đối mặt với “điểm cuối của cuộc đời". Mình chưa có câu trả lời. Mình sẽ đi tìm câu trả lời. Có lẽ vậy.
+
+P/s: Có thể bạn sẽ nghĩ cuốn sách khiến mình bi quan. Nhưng không, khi mình viết về chúng, trong mình vẫn mang một tình yêu mãnh liệt với cuộc sống này.
+
+Ảnh: Vì dịch nên mình phải đọc bản pdf. Nên đây là ảnh mạng
+#NguyetHa
+#camnhan
+#sach
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/194577266114328.jpg">

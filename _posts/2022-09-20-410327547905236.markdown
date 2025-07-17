@@ -1,0 +1,65 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Nó thương m á "
+title: " - Nó thương m á "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/410327547905236.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-20 13:04:25 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Nó thương m á
+- Ừ, t biết
+- M đang cô đơn mà
+- Thì sao?
+- Sao không thử mở lòng, cho nó cơ hội, biết đâu lại đẹp.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+- Giờ mình giả vờ yêu đi, giả vờ hẹn hò
+- Sao được?
+- Thử đi, biết đâu em cũng làm được
+- Chịu, em không thử được.
+- Yêu với em có vẻ nặng nhỉ?
+- Em chỉ thấy, cái gì cũng có thể thử, chỉ có yêu là không.
+
+Tình yêu chớ có phải món ăn, bộ quần áo đâu mà thử nhỉ? Thử rồi thì thế nào? Ừa thì nếu thành, sẽ hạnh phúc. Nhưng nếu không thì sao, có gánh nổi trách nhiệm ấy không. Nếu có ý với nhau, có thể đến được với nhau thì đã chẳng có chuyện thử rồi, chẳng phải sao? Còn tính tới chuyện thử, tức lòng không có tình cảm. Đã không có tình cảm, năm năm tháng tháng bên nhau, chung quy cũng chỉ là mềm lòng, là thương hại, sao gọi là tình yêu được.
+
+Tình yêu lạ nhỉ? Rõ là người đó thương mình, lo cho mình, đối tốt với mình, nhưng chung quy cũng chẳng phải người mình muốn cạnh bên. Không phải mình không muốn mở lòng, hay không muốn cho họ cơ hội, chỉ là tình cảm mà, nó chẳng nghe lời lý trí. Còn người bỏ rơi mình, mình lại nhung nhớ mãi chẳng quên.
+
+Mình hay nói với bạn, “t kiếm người yêu dễ lắm, không có gu, không có tiêu chuẩn, hợp ý là được”. Nhưng thật ra, như vậy mới khó. Gặp bao nhiêu người mới có lấy một người hợp ý mình. Hợp để làm bạn bè, chơi với nhau thì dễ, hợp để trở thành người yêu ngay từ cái nhìn đầu tiên thì không dễ chút nào. Mình cũng từng thử yêu một người, nhưng kết quả chẳng như ý. Dường như khi thử, trái tim này bỗng khắt khe hơn với họ, không còn sự bao dung, thấu hiểu, cảm thông. Vậy nên mình chẳng còn muốn vội vàng nắm bừa một bàn tay nào đó trong những ngày đơn côi. Gặp được người hợp ý, tự khắc sẽ bên nhau.
+
+#Xíu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/410327547905236.jpg">

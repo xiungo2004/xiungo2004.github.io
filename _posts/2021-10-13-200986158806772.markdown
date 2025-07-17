@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " [Cho phép bản thân lười một chút] "
+title: " [Cho phép bản thân lười một chút] "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/200986158806772.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-13 12:31:38 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+[Cho phép bản thân lười một chút]
+
+Có những ngày em chẳng làm gì cả, chỉ nằm đó lướt facebook, xem phim, đọc truyện. Có nhiều người cho rằng điều đó không nên. Vì lúc em đang lười thì có hàng ngàn người đang cố gắng, nỗ lực tiến về phía trước. Lười, tức là em đang bị tụt lại phía sau. Lười, dù chỉ một chút thôi, em cũng không xứng đáng hái được quả ngọt. Em không phủ nhận điều đó. Em biết có rất nhiều người đang ngày ngày nỗ lực theo đuổi ước mơ của mình, họ không dừng lại phút giây nào cả.
+
+Em cũng từng có những suy nghĩ như vậy. Nên mỗi lúc lười em đều thấy có lỗi, một sự khó chịu xâm chiếm tâm hồn em. Cho nên, những ngày em mệt mỏi, không có tinh thần em vẫn ép bản thân phải học, phải chạy deadline, phải luyện tập. Ngày hôm đó thật sự tồi tệ. Vì công việc không đạt được kết quả như em mong muốn. Tâm trạng tệ hại ấy kéo dài hết 3 4 ngày mới có thể ổn định.
+
+Cho tới một ngày, em quyết tâm lười. Lười trọn vẹn một ngày. Không làm bất cứ chuyện gì cả, không bài tập, không học hành, không luyện tập. Em để đầu óc mình được thư giãn và làm những điều em thích. Ngày hôm sau, em quay lại với cuộc sống thường nhật của mình, thoải mái và tràn đầy năng lượng.
+
+Với em, lười một chút không phải là đang phí phạm thời gian mà là đang sử dụng thời gian hợp lý. Em sử dụng thời gian để chữa lành cho tinh thần đang mệt mỏi của mình, em dùng thời gian để điều chỉnh cảm xúc, để bản thân luôn tràn đầy năng lượng.
+
+#NguyetHa
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/200986158806772.jpg">

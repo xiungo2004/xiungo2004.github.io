@@ -1,0 +1,64 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chúng ta đều sai, sai ở chỗ chẳng nói nhau nghe "
+title: " Chúng ta đều sai, sai ở chỗ chẳng nói nhau nghe "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/385094570395929.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-31 12:05:22 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Chúng ta đều sai, sai ở chỗ chẳng nói nhau nghe.
+
+Nay liên lạc với người bạn từng rất thân. Bạn nói bị sốt xuất huyết 2 tuần rồi. Mình trách bạn sao không báo, có còn coi nhau là bạn không. Bạn bảo "t tưởng tình bạn mình đã cũ". Hóa ra những bài viết đó bạn đều đọc, đều hiểu, hiểu theo nghĩa riêng của bản thân nên chẳng liên lạc. Còn mình, vì bạn chẳng liên lạc nên giữ khư khư trong đầu về một tình bạn đã cũ.
+
+Là bạn sai hay do mình sai?
+
+Mình trách bạn bị bệnh không nói, bạn trách mình gặp tai nạn không gọi.
+
+Mình trách bạn vô tâm, bạn trách mình viết đôi dòng về tình bạn cũ.
+
+Mình trách bạn không còn quan tâm đến cuộc sống của mình, không hỏi han rằng mình ổn không nhưng đâu hề hay biết bạn biết tất cả mọi thứ, kỳ thực tập bất ổn, từng bài viết trên đây bạn đều đọc. Bạn biết hết tất cả nhưng không dám hỏi.
+
+Khoảng cách giữa tụi mình từ đâu mà có? Từ cuộc sống bận rộn của mỗi đứa. Từ lời hỏi thăm đến muộn của bạn. Hay từ lời nói "bạn cũ" của mình.
+
+Chúng ta đều có những suy nghĩ riêng, cho điều đó là đúng mà quên mất người kia đang nghĩ gì. Bạn không sai, có lẽ mình cũng không sai, có sai chăng là chúng ta chẳng nói với nhau về những uất ức trong lòng, chúng ta chọn cách riêng để thể hiện điều đó, mình viết đôi dòng, còn bạn chọn im lặng. Ngưng giao tiếp, ngưng nói chuyện với nhau có.lẽ là sai lầm lớn nhất, phá vỡ hết mọi thứ bấy lâu nay.
+
+Giờ mình chẳng còn là cô bé cố chấp như ngày xưa, chỉ khăng khăng cho mình đúng, dùng mọi lý lẽ, mọi tranh cãi để thể hiện mình không sai. Mình đã biết nói lời xin lỗi, chỉ mong mối quan hệ của chúng ta không vì những hiểu lầm mà mất đi.
+
+#Xíu
+#ChuyencuaXiu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/385094570395929.jpg">

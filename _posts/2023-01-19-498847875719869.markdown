@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chuyện đi mần móng "
+title: " Chuyện đi mần móng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/498847875719869.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-19 18:38:47 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-19 18:38:47 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Chuyện đi mần móng
+
+Sáng ni tui đi mần móng. Vì gần kề Tết nên tui đã đặt lịch từ trước. Chị bảo tui ra lúc 7h, đúng 7h vì sau đó chị còn khách. 
+
+Tui cũng ráng dậy sớm, và tới quán lúc 6h50. Tại khi có hẹn với ai đó, tui thường sẽ đến sớm 5 10p gì đó, trừ hao.
+
+Lúc tui tới, chị nhìn tui với ánh mắt ngạc nhiên lắm, tui tưởng chị quên lịch, bèn nhắc lại:
+
+"Em có hẹn làm móng lúc 7h á chị".
+
+Lúc ấy chị đang làm dở cho khách, bảo tui ngồi đợi lát. Một lát của chị 2 tiếng sau, tức 9h tui mới được làm.
+
+Lúc làm chị nói: 
+
+"Bình thường chị hẹn khách toàn đi trễ 45p tới 1 tiếng. Nên chị hẹn dư ra, ai ngờ em đi sớm thế".
+
+Tui chỉ cười trừ. Bao nhiêu sự kiên nhẫn, niềm vui đã tiêu tan hết trong lúc chờ rồi. Lúc đó chỉ muốn làm nhanh rồi về.
+
+Chắc đây là lần đầu tui chờ đợi lâu đến vậy. Bình thường ai mà bắt tui chờ đâu độ 10 15p là quạo rồi. Không nghĩ tới có ngày mình lại kiên nhẫn vậy 😥
+
+Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/498847875719869.jpg">

@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Này, sao em không yêu đi? "
+title: " - Này, sao em không yêu đi? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/417844513820206.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-30 13:05:25 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Này, sao em không yêu đi?
+- Em đang đợi
+- Đợi điều gì?
+- Đợi người phù hợp với em
+- Bao nhiêu người tìm đến em vậy mà, không có ai hợp sao?
+- Không có
+- Sao em biết họ không hợp, khi mà ngay cả cơ hội lại gần em, em cũng không cho họ. Em không chịu mở lòng mình ra, không có bất cứ ai ngay cả bản thân em cơ hội để đi tìm tình yêu mới. Vậy em đang ngồi đợi điều chi? Đợi người phù hợp sao. Không phải đâu em à, không ai sinh ra đã hợp ai cả, người ta yêu nhau, vì nhau mà đổi thay sao cho hợp. Còn em, em chỉ là đang đợi những vết nứt trong tim lành lại, đợi kỷ niệm xưa chôn vùi theo thời gian. Nhưng, em phải đợi tới bao giờ khi ôm mãi bóng hình cũ, đợi tới bao giờ hả em?
+
+Xíu
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/417844513820206.jpg">

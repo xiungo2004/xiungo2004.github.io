@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " “T thấy m với nó đâu có cắt đứt liên lạc đâu, vẫn tương tác với nhau mà?” "
+title: " “T thấy m với nó đâu có cắt đứt liên lạc đâu, vẫn tương tác với nhau mà?” "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/386322060273180.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-02 12:30:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+“T thấy m với nó đâu có cắt đứt liên lạc đâu, vẫn tương tác với nhau mà?”
+
+Ừa, e và người không cắt đứt liên lạc, chúng ta vẫn chuyện trò với nhau mỗi khi cần. Những lúc bế tắc, em vẫn không kìm được mà gọi hai tiếng “Anh ơi”. Anh vẫn sẽ nhẹ nhàng đáp lại, như ngày xưa, chẳng chút thay đổi. Bạn bảo nếu em và anh cứ liên lạc như vậy, sao quên nhau được. Em không quên được, cũng không muốn quên. Người vẫn là một kỷ niệm đẹp đẽ trong lòng em, vậy sao phải cố quên làm gì. Dù rằng sau mối tình ấy, tổn thương trong em không phải là nhỏ, nhưng em vẫn không muốn quên. Nói thẳng ra, có quên cũng chẳng được. Có ai đó, tổn thương sau một mối tình, họ học cách quên đi người mình từng yêu, làm đủ mọi cách, nào là xóa tin nhắn, xóa ảnh, block. Và khi họ ngỡ rằng mình đã quên, đã thôi đau đớn, nhưng chỉ cần ai đó chạm vào phần ký ức thẳm sâu trong tâm hồn, họ lại đau, ký ức xưa kia lại ùa về. Họ nào đã quên được, họ chỉ để phần ký ức đó nơi sâu thẳm trái tim, để nó ngủ say và mong dòng đời không đánh thức chúng. Em vẫn hay nói đùa với đám bạn “Có mất trí đâu mà quên được”. Người vẫn ở đó, em lựa chọn đối mặt, lựa chọn thả trôi cảm xúc mỗi khi nhớ về người.
+
+“Sau chia tay mà làm bạn, m thiếu bạn à?”
+
+Ừa thì em không thiếu bạn. Nhưng liệu sẽ có mấy người bạn hiểu em như người. Liệu có ai để em có thể trò chuyện, có thể khiến em rơi nước mắt mỗi khi muốn. Hôm ấy, em nói với đám bạn rằng muốn khóc nhưng lại chẳng thể khóc. Bạn nêu ra rất nhiều lý do không vui trong ngày, chỉ mong nỗi buồn của em sẽ hóa thành những giọt nước mắt. Nhưng chẳng thể. Em đi tìm người, gọi “Anh ơi”. Khoảnh khắc em nhìn thấy chữ “ơi” từ người, em đã khóc thật nhiều, bao nỗi tủi thân chực chờ được giải phóng, em thấy lòng mình nhẹ tênh. Em và người, thật ra không phải là bạn, nhưng lại không thể cắt đứt liên lạc với nhau hoàn toàn. Em và người, cần nhau để dựa vào những lúc chông chênh.
+
+“Mà cứ liên lạc vậy thì dễ quay lại lắm”.
+
+Em cũng từng mong mình sẽ quay về bên nhau đấy. Nhưng ngày ngày, tháng tháng, em biết mình chẳng thể, bởi em cảm nhận được, kết quả cuối cùng cũng sẽ là chia xa. Em đã tắm 2 lần trên 1 dòng sông, sẽ chẳng có lần thứ 3 nữa đâu, người nhỉ. Chúng ta, cả người và em đều rõ điều này. Chỉ là, chúng ta vẫn thương nhau, thương theo một cách khác, thương như những mảnh đời vô định của cuộc đời này thương nhau. Là thương, nhưng không còn là tình thương nam nữ phải không người.
+
+Mặc dù mối tình mình chẳng được trọn vẹn. nhưng em vẫn thấy rất may mắn. May mắn vì mình kết thúc trong yên bình, kết thúc khi trong lòng nhau, đối phương vẫn là một điều gì đó tuyệt vời, cũng có thể là chỉ mỗi em nghĩ như vậy. Và em thấy may mắn, vì nếu sau này có gặp lại nhau, ta vẫn có thể mỉm cười, vẫn có thể thật tâm nói với nhau câu “hạnh phúc nhé, người từng thương”.
+
+Giữa em và người có một nguyên tắc "nào thương người khác, quen người khác, nhớ nói". Nói để biết bên kia đã tìm được bến đỗ của đời mình. Nói để thôi không còn làm phiền nhau. Nói để ta không vô tình làm tổn thương người đến sau. Và nói để chúc người kia hạnh phúc.
+
+#Xíu
+#ChuyencuaXiu
+#Tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/386322060273180.jpg">

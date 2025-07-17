@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tụi bạn nói em và anh không giống như đã chia tay "
+title: " Tụi bạn nói em và anh không giống như đã chia tay "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/330437689194951.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-09 14:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tụi bạn nói em và anh không giống như đã chia tay. Chẳng ai chia tay mà vẫn cười với nhau, vẫn nói những câu bông đùa, vẫn quan tâm, săn sóc nhau. Chính anh cũng nói ta nửa giống chia tay, nửa không.
+
+Tụi bạn hỏi khi nào ta quay lại. Nhưng chỉ có em mới biết, chúng ta càng săn sóc, càng đối xử bình thường với nhau thì càng không thể quay về bên nhau. Nếu em còn làm ầm lên, còn giận dữ, chưa chấp nhận việc mình xa nhau, có lẽ em còn sẽ níu kéo, còn nghĩ đến việc ta quay lại. Nhưng giờ đây, em đã bình thản đối diện với mọi thứ, kể cả việc anh rời đi. Em cũng hiểu rõ, nếu ta quay về bên nhau lúc này, kết cục cũng sẽ chỉ là chia xa.
+
+Ừ thì mình còn thương đó, nhưng để quay về bên nhau thì khó lắm anh nhỉ. Anh thì muốn sự tự do, em giờ cũng vậy. Thôi thì ta tạm quăng đi gánh nặng về tình cảm, tạm quên đi những gì đã có với nhau, giờ ta hãy chỉ sống và chịu trách nhiệm cho cuộc đời của mình thôi là đủ rồi.
+
+#Xíu
+#Tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/330437689194951.jpg">

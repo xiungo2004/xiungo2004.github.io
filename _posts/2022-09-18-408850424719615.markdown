@@ -1,0 +1,53 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình từng muốn từ bỏ "
+title: " Mình từng muốn từ bỏ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/408850424719615.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-18 11:27:29 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mình từng muốn từ bỏ
+
+Hôm ấy, ngồi viết những lời an ủi, những lời động viên cho dự án Thùng tiêu cực của Tiệm tỏ tình. Viết rất tâm huyết, thông điệp nào cũng nắn nót từng chữ, suy tính kỹ càng. Viết hết 50 thông điệp, hài lòng, nhưng tâm lại buồn ngang.
+
+Khoảnh khắc ấy, mình muốn từ bỏ. Mình tự hỏi, mình an ủi người khác, lắng nghe nỗi buồn ở họ, vậy còn mình thì sao? Mình cũng là con người bình thường, cũng ôm trong lòng những thương tổn chẳng nói thành lời, cũng muốn kể ai đó nghe về nỗi buồn nhỏ xíu nơi trái tim. Nhưng mình kể ai đây, có ai lắng nghe mình không? Có những lúc, chơi vơi giữa Sài Gòn hoa lệ, lại không tìm được người cạnh kề rong ruổi con đường ngoài kia. Buồn chứ.
+
+Nhưng rồi mình không dám bỏ. Bỏ rồi, sẽ lại có bao người ngoài kia giống mình, chơi vơi, bơ vơ, lạc lõng. Mình thấu được cảm giác không có nơi để kể, để nói, nên không dám từ bỏ. Có thể với một số người, việc làm của mình là vô nghĩa. Nhưng biết đâu đó, có người thật sự cần mình. Chỉ mang danh người lạ thôi là đủ, một người lạ chấp nhận nghe bạn kể, nghe bạn than thở. Nó chẳng giúp cuộc sống của bạn khá hơn đâu, chỉ mong tâm bạn bình yên hơn mà thôi.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/408850424719615.jpg">

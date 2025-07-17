@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " ɴʜư ᴛʜế ɴàᴏ ʟà ɢặᴘ đúɴɢ ɴɢườɪ? "
+title: " ɴʜư ᴛʜế ɴàᴏ ʟà ɢặᴘ đúɴɢ ɴɢườɪ? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/171749078397147.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-08-29 13:18:58 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+ɴʜư ᴛʜế ɴàᴏ ʟà ɢặᴘ đúɴɢ ɴɢườɪ?
+
+Bạn đã gặp được người ấy chưa?
+Người mà khi ở bên, bạn sẽ đứa con nít luôn cần được bảo vệ và dỗ dành
+Người mà khi bạn gọi sẽ luôn nghe máy bất kể ngày hay đêm
+Người mà luôn rep tin nhắn của bạn nhanh nhất có thể, không bao giờ để bạn phải đợi
+Người mà luôn luôn đứng đợi bạn không chút phàn nàn khi bạn đến trễ trong mọi cuộc hẹn
+Người mà khi đi trên đường luôn nắm lấy tay bạn và để bạn đi phía trong
+Người mà đi đâu, làm gì cũng sẽ tự nguyện nói với bạn vì sợ bạn lo lắng
+Người sẽ chịu xuống bếp, nấu cho bạn những món bạn thích ăn
+Người mà luôn quan tâm tới sức khỏe của bạn, sẽ tức giận khi bạn bị ốm, sẽ la bạn khi bạn không chịu đi ngủ sớm
+Người mà thẳng thắn chỉ ra lỗi sai của bạn rồi lại ôm bạn vào lòng mà an ủi
+Người mà luôn kiên nhẫn lắng nghe những điều nhảm nhí bạn nói
+Người luôn đứng ở phía sau, ủng hộ tất cả những việc bạn làm, ủng hộ ước mơ của bạn
+Người mà mỗi sáng thức dậy để sẽ cầm điện thoại nhắn tin cho bạn đầu tiên và mỗi tối trước khi ngủ sẽ chỉ nhớ đến bạn và luôn chúc bạn ngủ ngon
+Gặp đúng người, bạn chỉ cần là chính bạn
+
+#NguyetHa
+#Tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/171749078397147.jpg">

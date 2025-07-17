@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Với mỗi người bạn đồng hành dù là người yêu"
+title: " Với mỗi người bạn đồng hành dù là người yêu"
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/627792892825366.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2023-09-04 19:21:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Với mỗi người bạn đồng hành dù là người yêu, bạn bè, tôi đều cố gắng, nỗ lực giữ gìn để người đi cùng tôi lâu nhất có thể.
+
+Nhưng tan vỡ là điều chẳng thể tránh khỏi.
+
+Tiếc không? Tiếc chứ.
+
+Nhưng là tiếc kỷ niệm cũ, tiếc cho ký ức đã qua, không phải tiếc người đi cùng đoạn đường.
+
+Đến và đi là lẽ tất yếu. Người cho đủ rồi thì đi. Mình nhận đủ rồi thì cũng nên để người đi.
+
+Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/627792892825366.jpg">

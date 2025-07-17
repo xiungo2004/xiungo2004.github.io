@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Sống xa mẹ chẳng dễ dàng #2 "
+title: " Sống xa mẹ chẳng dễ dàng #2 "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/229684819270239.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-27 12:30:07 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Sống xa mẹ chẳng dễ dàng #2
+
+Mẹ về quê rồi. Con không ổn chút nào.
+
+Sáng nay con phải dậy sớm để đi chợ. Trời lạnh lắm mẹ. Con thầm nghĩ “Sao sáng nào mẹ cũng có thể đi chợ trong thời tiết như thế này được nhỉ?”. Con nhớ lại những buổi sáng được cuộn tròn mình trong chiếc chăn ấm. Mở mắt ra thì đã có ngay tô bún nóng hổi mẹ vừa nấu. Bao giờ mẹ mới về?
+
+Sáng nay, con đi chợ với 4. Hai chị em con cứ như con ngốc đứng giữa chợ vậy mẹ. Chẳng biết mua gì, mua bao nhiêu là đủ. Con hỏi 4, nó cũng chẳng biết. Con nhớ lại những ngày mẹ bắt con đi mua đồ, mẹ dặn kỹ lưỡng mua cái gì, mua bao nhiêu tiền, mua ở tiệm nào. Lúc đó con còn nghĩ đi chợ cũng không quá khó. Nhưng nay con nhận ra, đi chợ rất khó, nó là cả một nghệ thuật và con thì không phải là một nghệ nhân. Có mỗi việc mua bún sợi nhỏ hay bún sợi to thôi mà con với 4 cũng phải suy nghĩ mất một lúc lâu trước tiệm của người ta. Ôi, bao giờ mẹ mới về?
+
+Sáng nay con nấu đồ ăn sáng. Ba với 4 nói ăn cũng được. Vậy thì chắc không tệ rồi. Nhưng mà, ba cũng bảo “Sao mua nhiều bún vậy?”, “Sao nấu ít nước vậy?”. Con đâu biết canh sao cho vừa, cho đủ đâu. Có mẹ thì chắc ba sẽ không chê đâu nhỉ. Mẹ nấu ăn ngon vậy mà. Bao giờ mẹ mới về?
+
+#Xíu
+#Chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/229684819270239.jpg">

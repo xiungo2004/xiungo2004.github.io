@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Còn mấy tiếng nữa là sang năm mới rồi, bạn có lời gì muốn chia sẻ cùng Xíu không "
+title: " Còn mấy tiếng nữa là sang năm mới rồi, bạn có lời gì muốn chia sẻ cùng Xíu không "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/250476720524382.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-12-31 12:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Còn mấy tiếng nữa là sang năm mới rồi, bạn có lời gì muốn chia sẻ cùng Xíu không. Còn Xíu chỉ muốn gửi một lời cảm ơn.
+
+Cảm ơn vì gia đình vẫn luôn ở đó, luôn rộng mở cánh tay đón con vào lòng. Cảm ơn ba mẹ vì vẫn còn bên con, lo lắng yêu thương con. Nhưng sức khỏe của ba mẹ ngày một yếu đi, con chỉ mong năm tới ba mẹ làm ít lại, giữ gìn sức khỏe cho bản thân. Ba mẹ không phải là siêu nhân, cũng biết già, biết ốm đau, bệnh tật nên đừng cậy mình khỏe nữa có được không? Con mong rằng sang năm, và nhiều năm về sau nữa, gia đình mình vẫn luôn ở bên nhau, khỏe mạnh, vậy là đủ.
+
+Cảm ơn người vì đã ở bên em, yêu thương, bao dung, nhường nhịn em suốt một năm vừa qua. Hãy tiếp tục phát huy trong năm tới nhé.
+
+Cảm ơn những người bạn vì vẫn còn bên tôi, giúp đỡ, hỗ trợ tôi trong cả công việc, học tập và cuộc sống. Cảm ơn vì những ngày xa nhau nhưng chúng ta vẫn khịa nhau, trêu chọc nhau, cùng nhau ghét một ai đó. Mong rằng tương lai dù có chuyện gì xảy ra, hãy cứ tha thứ (nếu có thể) và tiếp tục làm bạn đồng hành cùng nhau nhé.
+
+Cảm ơn bản thân vì đã kiên trì với ước mơ của mình. Tôi biết con đường ấy không dễ đi và cũng chưa chắc đến cuối cùng điều tôi nhận được là quả ngọt. Nhưng không sao cả, chỉ cần vẫn có thể bước đi, tôi sẽ không bỏ cuộc. Cảm ơn bản thân một năm qua đã có thể tự chủ tài chính, mua những thứ mình thích mà không cần ngửa tay xin tiền bố mẹ. Cảm ơn vì đã tổ chức sinh nhật đầy đủ cho cả ba lẫn mẹ.
+
+Cảm ơn 2021 đã trôi qua, mặc dù không bình yên lắm. Cảm ơn 2021 đã cho tôi nhiều trải nghiệm quý giá.
+
+Mong 2022, dịch bệnh sẽ trả lại cho chúng ta một cuộc sống yên bình, vui vẻ. Mọi người đều có thể đi đó đi đây, trải nghiệm nhiều điều thú vị.
+
+Dành lời cảm ơn cuối cùng đến tất cả những người đã yêu mến Xíu trong thời gian qua. Năm tới Xíu sẽ cố gắng siêng viết hơn và mong rằng mọi người vẫn sẽ tiếp tục yêu mến Xíu.
+
+Ảnh: N2H
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/250476720524382.jpg">

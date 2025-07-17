@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Người cũ hay kỷ niệm cũ "
+title: " Người cũ hay kỷ niệm cũ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/361743752731011.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-06-26 13:00:16 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Người cũ hay kỷ niệm cũ
+
+Ngày 20/10 của năm nào đó cô chẳng nhớ, bạn nam kia mua bánh kem, nhưng là bánh kem vị dâu. Cô lặng lẽ gạt hết phần dâu dính lên bánh, không ăn. Không phải cô không ăn được dâu đâu, chỉ là cô không thích.
+
+Mãi sau này, cô mới kể chuyện cô và người cũ - đã chia tay cách đây 4 năm. Hai người từng có những kỷ niệm đẹp tại quán trà sữa, xoay quanh cốc trà sữa vị dâu. Thời điểm cô tâm sự chuyện quá khứ của mình, nghe ra được giọng điệu bình thản trong đó. Cô đã thôi không còn đau thương, nhưng sao vẫn không thể dung chứa được một cốc trà sữa vị dâu thơm ngon. Phải chăng không còn yêu, nhưng những kí ức đó vẫn tồn đọng trong cô, chỉ cần chạm vào, những điều xưa cũ sẽ chợt ùa về.
+
+Giờ cô đã có tình yêu mới, đã uống được một cốc trà dâu. Đôi lúc còn mê mẩn hương vị thơm ngon ấy. Phải chăng cô lúc này đây, cô mới thực sự buông xuống được mối tình bi thương ấy.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Cô chia tay cũng được một khoảng thời gian rồi. Hai người ấy có một mối tình đẹp và chia tay trong hòa bình, chỉ đơn giản là tới lúc cần xa thôi. Sau chia tay, cô mất gần 2 tháng để phục hồi bản thân, để thôi thấy trống rỗng trong tâm hồn. Cuộc sống cô đang ngày càng tốt đẹp hơn, cô vui vẻ hơn trước. Cô bình thản đối diện đối diện với mọi thứ và ngỡ như mình đã thực sự vượt qua được. Nhưng bóng dáng người cũ vẫn đâu đó quanh cô.
+
+Hôm ấy cô dẫn bạn đi mua đồ ở một shop nhỏ. Bạn hỏi sao cô biết tiệm này. Cô vẫn buột miệng nhắc đến anh như ngày nào “Lần đầu tiên ghé đây là nó dẫn đi”.
+
+Mỗi khi chạy xe một mình vào ban đêm, cô sẽ nhớ đến người ấy từng đưa đón cô đi học, từng đợi cô hàng giờ liền chỉ vì cô ham chơi một xíu với bạn bè.
+
+Bạn cô sắp về quê, bạn nói “hay đi xe khách, lặng lẽ ra lên xe về, khỏi đi máy bay, tiễn đưa sợ buồn”. Cô cười “Chớ ai rảnh tiễn m đi. T không thích ra sân bay”. Ừ cô không thích ra sân bay. Với cô đó là nơi ẩn chứa những cuộc chia ly. Năm đó, khi cô ra sân bay thì anh đã đi rồi. Từ đó cô không còn bước chân ra sân bay lần nào nữa cả, kể cả ngày anh về. Cô không ghét sân bay, chỉ là sân bay mang đến cho cô những điều không vui vẻ.
+
+Mấy nay cô bệnh rồi. Không nặng lắm nhưng cũng đủ khiến cô mỏi mệt. Bất giác cô nhớ đến anh. Ngày còn bên nhau, cô bệnh, anh chăm sóc kỹ lắm. Anh học cách nấu cháo và nấu cho cô tận mấy ngày liền. Ngày nào cũng dỗ cô uống thuốc như một đứa con nít vậy đó. Ngày xa nhau, cô hứa với anh mình sẽ tự chăm sóc tốt cho bản thân, nhưng có vẻ như cô thất hứa rồi.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Hình như điều làm con người ta buồn đôi khi không phải là người cũ mà là những kỷ niệm cũ. Đó mới là thứ khiến con người ta day dứt mãi chẳng thoát ra được.
+
+#Xíu
+#ChuyencuaXiu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/361743752731011.jpg">

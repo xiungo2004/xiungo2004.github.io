@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " cнào тнáng 9, "
+title: " cнào тнáng 9, "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/173682571537131.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-09-01 13:10:37 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+cнào тнáng 9,...
+
+2/3 chặng đường của năm 2021 đã đi qua. Thời gian qua, chắc mỗi chúng ta đều những nỗi buồn vì những điều tiêu cực xung quanh, vì dịch bệnh.
+Mong rằng tháng mới, mọi nỗi buồn sẽ bị quá khứ mang đi, chỉ còn lại niềm vui
+Tháng 9, mong rằng dịch bệnh kết thúc, để chúng ta và những người ta yêu thương được bình an.
+Tháng 9, mong rằng cuộc sống sẽ dịu dàng với ta hơn, và ta cũng hãy dịu dàng, bao dung cho bản thân mình hơn
+Tháng 9, mong rằng mỗi chúng ta đều sẽ dũng cảm theo đuổi ước mơ của mình, nỗ lực học tập, nỗ lực kiếm tiền và cũng nỗ lực hưởng thụ cuộc sống
+Tháng 9, mong rằng mỗi chúng ta có thể sống chậm lại, trân trọng những gì mình đang có
+Tháng 9, mong rằng nước mắt của bạn sẽ chỉ rơi vì những điều hạnh phúc
+Tháng 9, mong rằng nỗi buồn và cô đơn sẽ bỏ quên chúng ta
+Chúc các bạn tháng 9 bình an và hạnh phúc
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/173682571537131.jpg">

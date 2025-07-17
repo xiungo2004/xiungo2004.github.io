@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " [Góc thở than] "
+title: " [Góc thở than] "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/320560333516020.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-04-24 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+[Góc thở than]
+
+Nay mọi người có Xíu than thở tý nha.
+
+Mấy nay Xíu bận lắm, Xíu bị deadline dí, chạy té sứt đầu bể trán mà vẫn phải chạy. Xíu có 3 cái deadline phải nộp trong cùng một ngày, muốn xỉu cái đùng luôn á.
+
+Xíu vừa mới học dựng video trong 2 ngày, chưa tới 1p mà muốn tắt thở dị đó. Dựng xong cái bị trả về, bị bắt dựng lại, buồn ghê. Hôm qua Xíu còn vừa dựng vừa khóc nữa cơ. Lần này thì Xíu đã hiểu được cảm giác của bạn dựng video trong nhóm Xíu rồi. Giờ nhìn lại, thấy thương bạn đó ghê, chạy biết bao nhiêu cái video cho nhóm từ hồi năm 2 tới giờ mà chẳng than vãn gì. Từ giờ hứa sẽ không la bạn đó nữa, sẽ hiền lành.
+
+Dạo này Xíu không ngủ được, giấc ngủ nông, hay bị tỉnh dậy. Nó làm Xíu mệt kinh khủng.
+
+Đang mùa deadline, gần thi tiếng Trung thì cục sạc máy tính Xíu biểu tình, bất hợp tác. Nó chết queo luôn chớ hông phải bất tỉnh nữa. Chắc dạo gần đây Xíu bộc lột nó quá. Hên là bạn Xíu chịu chở Xíu đi vòng thành phố, mua cho được cục sạc trong thời gian ngắn nhất để kịp giờ thi tiếng Trung. Thương bạn lắm!
+
+Không biết sao qua giờ Xíu bị thèm đồ ngọt. Bình thường Xíu ít khi ăn đồ ngọt lắm, tại Xíu sợ mập. Nhưng hôm qua, hơn 10 đêm, Xíu đã uống hết một ly trà sữa. Trưa nay Xíu còn ăn bánh kem, bánh bông lan, món nào cũng ngọt hết trơn á. Cái bụng Xíu nay nó to ra một tý rồi, có nên tập thể dục để giảm lại không ta. Viết tới đoạn này, Xíu lại thèm ăn một cái gì đó rồi, ai rủ Xíu đi ăn đi.
+
+Hôm qua Xíu đi phỏng vấn nhân vật để làm bài tập. Bạn ấy hơi nhút nhát một tý thôi, nói chuyện thì nhẹ nhàng, cười lên xinh lắm. Xíu nghĩ, Xíu mà có được một chút sự nữ tính, dịu dàng của bạn đó thì tốt biết bao. Lúc đó nhóm Xíu sẽ không còn chê Xíu dữ, đanh đá suốt ngày nữa. Nói chuyện với bạn ấy xong, Xíu thấy mình học được nhiều điều lắm, đặc biệt là cách mà bạn ấy nhìn mọi thứ xung quanh, nó đơn giản lắm.
+
+Trong những ngày deadline, Xíu vẫn vui vì gặp được những điều thú vị, gặp được những con người dễ thương. Dù bị áp lực ghé thăm nhưng cũng từ đó Xíu học được nhiều thứ hơn.
+
+Xíu biết rất nhiều bạn cũng đang như Xíu, đang sấp mặt với deadline, với công việc, với những rắc rối trong cuộc sống. Nhưng mà thôi không sao, sắp hết mùa deadline rồi, mình sắp được đi chơi rồi, nghĩ vậy đi cho có động lực chạy tiếp ha.
+
+Cố lên nha các tình yêu. Cho mọi người 1000 cái ôm để chống chọi với deadline nè.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/320560333516020.jpg">

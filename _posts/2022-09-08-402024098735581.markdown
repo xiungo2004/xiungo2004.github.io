@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm ấy, viết thư cho khách "
+title: " Hôm ấy, viết thư cho khách "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/402024098735581.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-08 13:00:06 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm ấy, viết thư cho khách. Khách muốn viết cho người cô yêu năm 17 tuổi, cũng là người cô đã đánh mất ở những năm tháng thanh xuân vội vã. 10 năm, 10 năm đã qua, thế mà cô vẫn ôm hoài niềm tiếc thương cho mối tình đã cũ, cho mối tình chẳng thể trở lại.
+
+Tình yêu tuổi 17 là gì nhỉ, là gì mà khiến cho con người ta mãi day dứt, nuối tiếc dù thời gian đã trôi qua rất lâu. Người ta nói “Tuổi 17 đã dành trái tim cho người nào rồi là sẽ mất cả đời để nuối tiếc, để ngẫm nghĩ về chúng, mà chúng ta thường sẽ mỉm cười, rồi lại bật khóc”. Mỉm cười cho những kỷ niệm đẹp, cho tình yêu đầu tiên của tuổi học trò mới lớn, cho tình cảm chân thành không chút vụ lợi. Và cũng bật khóc, khóc bởi ta không đủ trưởng thành, không đủ chín chắn để níu giữ một tình yêu đẹp. Chúng ta cứ thế bỏ lỡ nhau, bỏ lỡ tình yêu năm 17 tuổi, cũng là bỏ lỡ đi cả một thời thanh xuân tươi đẹp. Tuổi 17, ta có thể gặp được người mình yêu nhất, nhưng lại chẳng thể cùng ta đi qua hết những thăng trầm trong tương lai, bên nhau đến bạc đầu. Tình yêu năm ấy, như ánh mặt trời chói lóa, rực rỡ, và đôi khi, thiêu cháy trái tim của một con người, khiến chúng thành tro tàn, le lói suốt những năm tháng về sau.
+
+Có người, yêu năm 17, rời đi cũng vào năm 17, nhưng cũng có những cặp xa nhau khi tuổi đôi mươi. Tình yêu năm 17, có thể kéo dài vài tháng, thậm chí vài năm. Nhưng nó đều có một kết cục là chia xa, chỉ còn lại ký ức mà thời gian chẳng thể xóa mờ. Khi nghe được một mối tình bên nhau từ năm 17, về chung một mái nhà, họ là tình đầu cũng là tình cuối của nhau, mình ngưỡng mộ lắm. Phải hạnh phúc, phải may mắn biết bao nhiêu mới có thể gặp nhau, trân trọng nhau, đi qua hết những năm tháng dại khờ của tuổi trẻ.
+
+Đúng người đúng thời điểm là cổ tích, đúng người sai thời điểm là thanh xuân. Ừ thì năm đó, em gặp đúng người em yêu, vừa vặn người cũng yêu em. Chỉ tiếc là thời điểm ấy, còn quá non trẻ, em chưa học được cách trân trọng người. Thanh xuân chính là như vậy, nuối tiếc, day dứt, nhớ nhung mãi chẳng quên.
+
+Chỉ mong sau này, mỗi người chúng ta, những người mang niềm day dứt với tình yêu của tuổi 17, sẽ kiếm tìm cho mình một vì sao, không cần quá rực rỡ như bầu trời năm ấy, chỉ cần bình yên đi cùng ta qua những đêm đen của cuộc sống, bên nhau mãi chẳng rời.
+
+_Xíu_
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/402024098735581.jpg">

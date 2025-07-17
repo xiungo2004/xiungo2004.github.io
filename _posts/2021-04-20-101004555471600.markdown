@@ -1,0 +1,51 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " CÓ NHỮNG NGÀY… "
+title: " CÓ NHỮNG NGÀY… "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/101004555471600.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-04-20 12:35:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+CÓ NHỮNG NGÀY….
+Có những ngày cảm thấy bản thân thật lạc lõng. Lạc lõng trong chính những mối quan hệ thân thiết. Những người đang rất thân bỗng lại không thể hiểu được họ. Mà đâu phải do họ, do bản thân ta trở nên nhạy cảm, suy nghĩ linh tinh, để rồi tự buồn, tự tách mình khỏi thế giới vốn rất quen thuộc ấy.
+Có những ngày thấy bản thân không thể hòa nhập vào thế giới thường nhật, của những con người quen thuộc. Không lý do gì cả, chỉ đơn giản bản thân chẳng thể hùa theo những lời nói đùa, những câu chuyện vui như ngày trước.
+Có những ngày thấy bản thân thật kỳ lạ. Chỉ một chuyện nhỏ, một câu nói, một hành động, một thái độ nhỏ cũng khiến ta phải lăn tăn, phải nghĩ suy.
+Có những ngày thấy bản thân thật hèn nhát, chẳng dám đối diện với lỗi lầm của mình, chẳng dám tiến về phía trước. Do dự và ích kỷ.
+Có những ngày như vậy đó. May mắn thì hôm sau bạn sẽ ổn, còn không sẽ tiếp tục chuỗi “có những ngày...:”
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/101004555471600.jpg">

@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " YÊU NHƯNG KHÔNG ĐẾN ĐƯỢC VỚI NHAU "
+title: " YÊU NHƯNG KHÔNG ĐẾN ĐƯỢC VỚI NHAU "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/174303424808379.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-09-02 12:59:49 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+YÊU NHƯNG KHÔNG ĐẾN ĐƯỢC VỚI NHAU
+
+Dạo gần đây mình bị ám ảnh bởi bộ phim Châu Sinh Như Cố. Phim kể về mối tình bi thương của Tiểu Nam Thần Vương Châu Sinh Thần, một tướng quân chiến công hiển hách, luôn trấn giữ biên cương và Thôi Thời Nghi, một tiểu thư khuê các được chọn làm Thái tử phi tương lai. Hai con người ấy vì duyên thầy trò mà gặp nhau, cùng nhau trải qua những ngày tháng êm đềm. Họ dần dần nảy sinh tình cảm dành cho đối phương. Nhưng rồi Châu Sinh Thần bị vu oan tội danh mưu phản, chịu hình phạt róc xương, 4 ngày sau, Thời Nghi (Thập Nhất) cũng vì thế mà nhảy thành tự vẫn.
+
+Hai con người yêu nhau, không có hiểu lầm, trong tim luôn có nhau và hướng về nhau nhưng đến cuối cùng lại là bi kịch. Còn gì đau đớn hơn khi không được ở bên cạnh người mình yêu thương. Khi ta chia tay với một người mà mình còn yêu, ta sẽ buồn, sẽ đau đớn nhưng ít ra người kia vẫn còn sống, vẫn còn tồn tại, vẫn hít thở chung một bầu không khí với ta. Chỉ là hai người không còn bước đi cùng nhau nữa mà thôi. Còn Thời Nghi và Châu Sinh Thần, chia cắt họ là âm dương cách biệt, là định kiến của xã hội lúc bấy giờ. Bi thương một phần vì họ không thể ở bên nhau, hơn đó nữa là họ chưa một lần được thổ lộ tình cảm dành cho đối phương, tình yêu này không có cách nào thốt ra bằng lời. Họ chỉ có thể đưa mắt dõi theo nhau.
+
+Châu Sinh Thần chọn cái chết vì văn võ bá quan, vì thiên hạ. Chàng để lại bức huyết thư "Đời này của Thần, không phụ Thiên hạ, chỉ phụ Thập Nhất". Cả đời Châu Sinh Thần sống vì thiên hạ nhưng chưa một lần vì Thập Nhất mà suy nghĩ. Còn Thời Nghi chọn cái chết vì Châu Sinh Thần. Khi nhảy thành tự vẫn, nàng đã mặc cho mình một bộ váy cưới rực rỡ, bước đi giữa khung trời tuyết phủ trắng. Nàng nói "Châu Sinh Thần, ta đến gả cho chàng đây. Nếu có kiếp sau, đổi lại chàng lấy ta trước nhé, được không". Mong ước lớn nhất đời này của nàng là được gả cho người mình yêu, kiếp này chưa trọn, mong cầu kiếp sau. Họ giống nhau là đều chưa một lần sống vì chính bản thân mình.
+Thương tiếc cho một mối tình đẹp.
+
+Vậy nên, bạn nếu đang yêu nhau, hãy trân trọng người ở bên cạnh mình, bao dung cho nhau nhiều hơn một chút, nhường nhịn nhau nhiều hơn một chút và yêu thương nhau nhiều hơn một chút. Còn những cặp đôi không thể ở bên nhau vì một lý do nào đó thì cũng hãy mỉm cười chúc phúc cho đối phương, vì ít ra đối phương vẫn còn sống và ta rồi sẽ tìm được cho mình một bến đỗ mới. Nếu bạn đang cô đơn, không sao cả, hãy yêu lấy chính bản thân mình, đừng vội vàng nắm tay một người nào đó, kiên nhẫn đợi, tình yêu chân thành rồi sẽ đến.
+
+#NguyetHa
+#reviewphim
+#camnhan
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/174303424808379.jpg">

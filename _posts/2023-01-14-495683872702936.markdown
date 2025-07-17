@@ -1,0 +1,53 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình có đọc được câu nói như thế này: "
+title: " Mình có đọc được câu nói như thế này: "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/495683872702936.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-14 19:49:35 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-14 19:49:35 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình có đọc được câu nói như thế này:
+“ Hãy để hoa trở thành hoa, hãy để cây trở thành cây, hãy trả lại người khác cho người khác, hãy trả lại chính mình cho chính mình.”
+
+Dạo này mình ít đăng bài hơn, mình không còn phát tiết cảm xúc của bản thân qua từng con chữ như mấy tháng trước. Mình chọn khoảng lặng để nhìn lại bản thân mình.
+
+Hôm nay, mình dành cả buổi sáng để đọc tất cả bài bài viết trong hơn nửa năm qua, nhớ về bản thân khi viết ra những dòng đó. Nửa năm qua, khoảng thời gian mình điên khùng, tùy hứng, cảm xúc thì tệ hại.
+
+Nhớ ngày trước, mình lúc nào cũng là một đứa tích cực, bực bội đó nhưng cũng chóng quên, luôn vui với những niềm vui nhỏ bé. Hình chụp tấm nào mặt cũng tươi rói. Nhưng nửa năm đó, không có lấy một tấm vui. Mình cười nhưng không tươi, mặt vẫn mang một nỗi buồn nào đó mà ngay cả chính mình cũng không thể hiểu nổi. 
+
+Giờ đây cuộc sống mình bình lặng, cái nên gì làm thì vẫn làm mỗi ngày. Nó bình lặng tới mức lòng chẳng gợn sóng, chẳng day dứt về bất cứ điều chi. Bình lặng tới mức mình nhớ nhung những ngày tùy hứng, những ngày rong ruổi gặp đủ thứ chuyện trên đời. Cảm xúc tiêu cực đã biến mất, mình không còn chán ghét bản thân, nhưng sao vẫn chẳng quay lại được nhịp sống xưa.
+
+Cuộc sống của mình hiện tại, không buồn, không vui. Những niềm vui nhỏ bé ngày trước, lòng chẳng còn cảm nhận được nữa rồi.
+
+Mình đã trả người lại cho người, nhưng lại không biết làm sao để trả mình lại cho mình mình.
+
+Xíu
+
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/495683872702936.jpg">

@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm ấy, makeup thật xinh đẹp, mang tâm trạng vui vẻ ra đường "
+title: " Hôm ấy, makeup thật xinh đẹp, mang tâm trạng vui vẻ ra đường "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/438361185101872.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-26 14:04:56 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm ấy, makeup thật xinh đẹp, mang tâm trạng vui vẻ ra đường. Nhưng khi tiết trời đã tối nhem, chạy về nhà, dừng ngay ngã ba, đợi đèn đỏ chuyển sang xanh rồi lại chuyển sang đỏ.
+
+Mấy lần nhỉ?
+1 lần
+2 lần
+3 lần...
+cũng có thể là nhiều hơn như thế. Bởi bỗng chốc giữa Sài Gòn nhộn nhịp, cô chẳng biết đi về đâu, chẳng muốn về phòng, lại không có nơi nào ghé qua.
+
+Bỗng chốc muốn về nhà, rúc trong lòng ba mẹ, có một mái nhà kiên cố che nắng che mưa
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/438361185101872.jpg">

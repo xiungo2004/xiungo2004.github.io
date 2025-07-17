@@ -1,0 +1,69 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Thế giới này, có rất nhiều cách yêu khác nhau
+ "
+title: " Thế giới này, có rất nhiều cách yêu khác nhau
+ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/884895937115059.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2024-11-03 21:26:25 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2024-11-03 21:26:25 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Thế giới này, có rất nhiều cách yêu khác nhau
+
+Mấy hôm rày, mình có đi xem Ngày xưa có một chuyện tình của bác Ánh, xem tận 2 lần. Với mình, đây là bộ phim hay, mình thấy nhiều cách yêu trong thế giới ấy.
+
+Như Vinh yêu Miền, là tình yêu đơn phương, tích lũy theo năm tháng, là tình yêu của sự hy sinh và bao dung.
+
+Miền và Phúc yêu nhau là tình yêu của tuổi trẻ, cuồng nhiệt và khắc cốt ghi tâm.
+
+Tình yêu của Miền dành cho Vinh lại là tình yêu của người trưởng thành, yêu xen lẫn sự biết ơn, sự mong cầu cuộc sống ổn định, với mình là vậy.
+
+Mình đã từng nghe rất nhiều về các câu chuyện tình yêu xung quanh, chẳng có tình yêu nào giống tình yêu nào. Từ cách gặp gỡ, yêu nhau, cãi vã, làm lành, đến cả kết thúc, mỗi người đều có một hành trình rất riêng.
+
+Lúc ở cạnh người yêu, mọi người thường làm gì? đi những đâu? Mình thường tò mò và đặt các câu hỏi về điều đó. Bởi mình và anh thường sẽ chọn 1 địa điểm nào đó, ngồi cạnh nhau và ai làm việc người đó, lâu lâu quay ra trò chuyện đôi ba câu chớ rất ít khi đi chơi đó đây. 7 năm bên nhau, mình và anh còn chưa có một chuyến đi chơi xa nào mà.
+
+Bữa mình có hỏi: Ê, tụi bay đi date thường đi những đâu?
+
+- Nhiều lắm, có nguyên 1 list việc cần làm, địa điểm cần đi, cứ đi lần lần từng cái. Mới đầu còn ít, giờ lên hai mấy cái rồi.
+
+- Đi ăn, đi cf, nói chuyện rồi về thôi. Nhưng mà đi date thì tuyệt đối k dùng điện thoại.
+
+- Chị cũng thích đi cafe, rồi đi chơi nhiều nơi, kiểu chỗ nào review ok, hot hot thì đi. Chị hướng nội nhưng mà yêu đương thì phải hướng ngoại.
+
+Nghe xong mình kiểu wow, có nhiều việc để làm vậy á. Mới đầu mình cũng hay lên mạng tìm, kiểu hẹn hò ở đâu hay các cặp đôi thường làm gì khi hẹn hò. Sau đôi ba lần tìm kiếm, mình quyết định chẳng đi đâu cả. Đơn giản vì chỉ nghĩ đến việc đi thôi mình đã không thích rồi. Thậm chí khi đi ăn, tụi mình còn mở phim doraemon hay conan gì đó để coi. Dần mình hiểu được mỗi cặp sẽ có cách thể hiện tình yêu khác nhau, cách cạnh bên khác nhau.
+
+Có người thích yên lặng cạnh nhau nhìn thời gian trôi.
+
+Có người lại thích trải nghiệm đó đây, lấp đầy ký ức.
+
+#xíu #ngayxuacomotchuyentinh
+
+Ảnh: xin của bé Nhà, chớ hôm đi coi khum có chụp 
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/884895937115059.jpg">

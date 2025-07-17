@@ -1,0 +1,69 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Này cậu ơi "
+title: " Này cậu ơi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/536262455311744.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-03-20 21:13:27 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-03-20 21:13:27 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Này cậu ơi
+
+Nay cậu có ổn không?
+nói cho tớ nghe nhé
+cuộc đời có dịu dàng
+với con người bé bỏng
+đã chịu nhiều thương tổn
+
+Nay cậu có còn khóc
+vì những người không đáng
+nụ cười cất đã lâu
+cũng đến lúc tỏa sáng
+
+Nỗi buồn mang ra phơi
+để nắng hong khô nhé
+cũng để gió mang đi
+về một nơi nào đó
+nơi cậu không nhìn thấy
+
+Còn niềm vui cất đi
+để những đêm buồn tủi
+mang ra ngắm một lát
+nụ cười lại nở rộ
+
+Vào những ngày bất ổn
+Tiệm tỏ tình ở đây
+lắng nghe cậu thật lâu
+an ủi vài ba câu
+mong cậu sẽ ổn hơn
+
+Xíu
+
+#tiemtotinh
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/536262455311744.jpg">

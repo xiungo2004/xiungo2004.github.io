@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dạo trước mình gặp được 1 người bạn "
+title: " Dạo trước mình gặp được 1 người bạn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: png
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/376730534565666.png"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-18 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Dạo trước mình gặp được 1 người bạn. Nói sao ta, cách sống của bạn khiến mình ngưỡng mộ.
+
+Mình không biết nhiều về bạn, chỉ gặp độ 3 4 lần chi đó, nhưng luôn cảm thấy bạn tự do, tự tại, sống theo ý mình. Lần đầu tiên gặp là trong một bữa đi chơi, ngồi tâm sự với nhau khi đã có chút men. Ai cũng có câu chuyện của riêng mình, bạn chỉ nói "Chênh vênh mà, tuổi nào chẳng có". Bạn coi tất cả những khó khăn, những day dứt của cuộc đời là chuyện đương nhiên, tuổi nào cũng có những nỗi niềm riêng. Ai cũng phải một lần trải qua những điều đó. Cảm thấy sao mọi chuyện qua câu nói của bạn nó giản đơn như vậy, nhẹ nhàng như vậy. Bạn không nhìn cuộc đời bằng đôi mắt màu hồng của kẻ mới bước chân vào đời, bạn nhìn cuộc đời bằng đôi mắt giản đơn, chấp nhận mọi thứ xảy đến với mình.
+
+Tụi mình hay nói bạn tấu hài, nhìn thôi đã mắc cười chớ đừng nói chi là trò chuyện. Bạn không phải là kiểu người nói chuyện mặn mà để tạo tiếng cười cho người khác hay có ngoại hình đáng chú ý. Nhưng bạn luôn tạo cho người khác cảm giác vui vẻ, lạc quan.
+
+Mình đã từng nghĩ bản chất con người bạn là như vậy, lúc nào cũng cười hề hề với mọi thứ xung quanh, lúc nào cũng vui vẻ, không buồn không đau. Nhưng hình như không phải vậy. Bạn cũng có những đêm thức trắng với những suy nghĩ của bản thân mình. Chỉ là, khi đối diện với người khác, bạn trở nên vui vẻ, tạo cho người khác cảm giác thoải mái. Bạn bảo “được làm câu chuyện tấu hài của mọi người đôi lúc tôi cũng thấy mình có tí niềm vui”. Vậy đó, cuộc đời trong mắt bạn nó tích cực hơn rất nhiều. Bạn bảo khi nào không thoải mái thì cứ nói ra, chê, phải đặt cảm xúc của mình lên trên hết.
+
+Cũng mong đoạn đường tiếp theo, mình có thể sống như lời bạn nói.
+
+#Xíu
+#ChuyencuaXiu
+#Chuyentute
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/376730534565666.png">

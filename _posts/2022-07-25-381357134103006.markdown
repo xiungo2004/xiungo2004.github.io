@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Kỳ thực tập bất ổn #1 "
+title: " Kỳ thực tập bất ổn #1 "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/381357134103006.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-25 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Kỳ thực tập bất ổn #1
+
+Hôm ấy mình và T bị tai nạn trên đường đi lấy tin. Nỗi hoảng sợ ập đến trong người mình. Nhìn thấy máu, mình hoảng hốt thật sự, lo sợ T có bị làm sao không, tự trách bản thân mình đi xe không cẩn thận. Hoang mang giữa đường, liên tục gọi tên T mà chẳng biết nên làm gì tiếp theo. May sao có những cô chú bên đi đường dừng lại giúp đỡ. Người thì bế T vào lề đường, người thì dắt xe của tụi mình vào. Cô chú gọi grab cho mình đưa bạn đi bệnh viện. Chú bán ven đường bảo để xe lại đó, chú trông giúp cho, đưa bạn đi đi. Nói thật lúc ấy, cô chú bảo mình làm gì, mình làm nấy, chẳng còn đầu óc để mà nghĩ.
+
+Giữ sự hỗn loạn ấy, có cô đã nhét vào tay mình một ít tiền (thật ra cũng không ít đâu), bảo “cầm lo cho bạn, cô ra đường vội, chỉ có chừng này”. Lúc đầu mình không nhận, sau cô bảo cứ cầm đi, cô cho bạn. Vậy là mình chỉ kịp nói lời cảm ơn cô rồi vội đưa bạn đi, còn chẳng kịp nhìn kỹ dung mạo hay cách để liên lạc lại với cô. Thật mong có thể gặp lại cô lần nữa để nói lời cảm ơn một cách nghiêm chỉnh, đường hoàng.
+
+Giữa những ngày không mấy vui vẻ, cuộc sống cũng cho mình chút gì đó ngọt ngào, là sự giúp đỡ của những người bên đường không quen biết, là sự lo lắng từ người bạn thân ở xa, là người anh chấp nhận hi sinh ngày nghỉ của bản thân để đến bệnh viện xem 2 đứa thế nào.
+
+Dù thời gian này, cuộc đời không mấy dịu dàng với mình, với bạn, nhưng vẫn luôn có những niềm vui nho nhỏ đang dần đến. Cảm ơn vì tất cả.
+
+#Xíu
+#ChuyencuaXiu
+#Chuyệntửtế
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/381357134103006.jpg">

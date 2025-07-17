@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Lạ ha, có những mối duyên thật ngộ nghĩnh, vốn là người lạ, rồi thành người thương xong lại trở về làm người dưng "
+title: " Lạ ha, có những mối duyên thật ngộ nghĩnh, vốn là người lạ, rồi thành người thương xong lại trở về làm người dưng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/375400014698718.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-16 13:04:32 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Lạ ha, có những mối duyên thật ngộ nghĩnh, vốn là người lạ, rồi thành người thương xong lại trở về làm người dưng.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Ngày lên đại học, tớ có quen một cậu bạn. Tớ và cậu vốn là hai con người xa lạ, cùng vào Sài Gòn học, học cùng một lớp, rồi chung nhóm làm bài tập. Dần dần chúng tớ thân nhau lắm, hay dính lấy nhau. Tới nỗi mọi người vẫn thường bảo “Thấy con Ý là kiểu chi cũng thấy X”. Ờ, chúng tớ thân nhau vậy đó, biết rất rõ về cuộc sống của nhau, từ chuyện nhỏ tới chuyện to, từ chọc ghẹo đến cho nhau lời khuyên. Cãi nhau có, giận hờn có, chúng tớ cứ thân nhau như thế, ngỡ là sẽ mãi về sau.
+
+Nhưng ngộ lắm, giờ chưa hết 4 năm đại học nhưng tình bạn của chúng tớ đã cũ rồi. Không phải bởi những giận hờn, xích mích. Không phải bởi những trận cãi vã um trời. Chúng tớ cứ xa mà chẳng có lý do. Không hẳn trở thành người dưng, nhưng tớ và cậu, từng thân như thế, giờ gặp nhau chẳng nói với nhau nổi 10 câu. Giờ cuộc sống cậu thế nào, ổn không, công việc ra sao, tớ chẳng biết, cũng chẳng đủ can đảm để hỏi. Vì khi bắt đầu cuộc trò chuyện, lại chẳng biết nói gì, lại nhận ra giữa tớ và cậu đã có khoảng cách. Bức tường đã dựng lên, đối diện với nó chỉ khiến tớ thêm buồn. Vậy nên, tớ chọn cách im lặng và lắng nghe câu chuyện của cậu từ những người khác.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Tớ và anh, vốn hai người lạ, số phận đưa đẩy quen biết nhau, từ lạ rồi thành thương. Chúng tớ bên nhau ngót nghét cũng 6 năm trời kể từ lúc quen biết tới giờ. Mới đầu là người bạn cùng trường, cùng ktx. Rồi thành người thương, còn từng xem nhau là người thân, là gia đình mà nương tựa.
+
+Cứ ngỡ sẽ bên nhau mãi vậy đó, đâu ngờ tớ và anh lại xa nhau vào một chiều cuối tháng 4. Có lẽ duyên phận của tớ và anh tới đây là hết. Đôi lúc vẫn hỏi thăm nhau vài câu, rằng có ổn không sau những gì đã xảy ra. Ai cũng khách sáo, nói rằng mình ổn, nhưng có thật là như vậy không?
+
+Tớ biết, một ngày gần đây thôi, tớ với anh sẽ thành người dưng, mỗi người có một cuộc sống mới, chẳng còn liên hệ gì với nhau nữa. Có người bảo tiếc cho tớ chừng ấy năm thanh xuân nhưng không nhận được kết quả tốt. Tớ mỉm cười, có gì đâu mà tiếc, những ngày tháng đã mất đó tớ cũng từng hạnh phúc, từng cười thật tươi, từng trải qua nhiều cung bậc của cảm xúc. So với những năm tháng đã mất, tớ thấy mình nhận được nhiều hơn cả.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Bạn đã trở thành người dưng của người từng thương bao giờ chưa? Cảm giác đó không dễ chịu chút nào đâu, phải không? Nhưng đó là cuộc sống, mỗi người đến, dạy bạn một điều gì đó và rồi họ rời đi, bạn và họ sẽ trở thành người lạ từng quen. Đừng oán trách và hỏi tại sao họ lại đến khi không thể ở cạnh bạn dài lâu. Hãy vui mừng vì các bạn đã từng quen biết nhau, từng là người thương của nhau, từng cùng nhau đi trên một đoạn đường với nhiều kỷ niệm tươi đẹp. Mong bạn, tớ và cả họ đều sẽ hạnh phúc trên con đường của mình, mong con đường ấy bớt đi những chông gai để bàn chân ta thôi rỉ máu.
+
+#Xíu
+#ChuyencuaXiu
+#Tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/375400014698718.jpg">

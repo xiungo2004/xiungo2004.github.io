@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bạn bao nhiêu tuổi rồi, đã trưởng thành hay chưa?   "
+title: " Bạn bao nhiêu tuổi rồi, đã trưởng thành hay chưa?   "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/579254921012497.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-06-06 20:32:55 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-06-06 20:32:55 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Bạn bao nhiêu tuổi rồi, đã trưởng thành hay chưa? 
+
+Trải qua được 22 mùa xuân xanh, theo pháp lý thì mình lớn rồi, trưởng thành rồi, tự quyết và chịu trách nhiệm cho mọi quyết định của cuộc đời mình. Nhưng thật ra, càng lớn mình lại cảm thấy bản thân thật nhỏ.
+
+Ngày bé, mình muốn lớn thật nhanh, để được mua viên kẹo mình thích mà không cần xin tiền ba mẹ (tại ba mẹ hông cho á). Mình muốn lớn thật lớn để tự ý ngủ nướng, không bị ba cầm cây vào tận giường mỗi lần gọi hoài không dậy. Mình cũng muốn được lớn chỉ mong được đi chơi thỏa thích mà chẳng bị ai quản.
+
+Rồi mình lớn hơn xíu, mình học xa nhà, thích cực. Vừa được ba mẹ cho tiền mỗi dịp cuối tuần về nhà, vừa được tự do hơn xíu vì ba mẹ không còn quản 24/24, không còn nghe tiếng la của mẹ khi còn chưa tỉnh giấc, không nghe tiếng mẹ cằn nhằn đi ngủ sớm. Nhưng chưa đủ, mình muốn lớn hơn, để tự làm ra tiền, mua mỹ phẩm, quần áo đẹp mà chẳng cần hỏi ba mẹ.
+
+Và rồi, mình lớn, lớn về thể xác này. Mình đi làm rồi, có chút tiền, có thể mua được viên kẹo, được ngủ nướng, được đi chơi. Nhưng hình như không vui lắm. Tiền của mình có thể mua được rất rất nhiều kẹo, nhưng lại chỉ có thể dành dụm từng chút một đóng tiền nhà, tiền điện, tiền nước. Mỗi khi mua quần áo, chắt chiu, suy nghĩ nên hay không, có cần thiết hay không. 
+
+Thế rồi khi lớn, mình đã được tự do ngủ nướng, nhưng công ty không cho phép. Mình phải dậy sớm mỗi ngày mà không có mẹ gọi, để đi làm. Lúc này đây đã hiểu được tại sao ba mẹ phải dậy sớm mỗi ngày.
+
+Ba mẹ cũng chẳng quản mình có đi chơi không, đi mấy giờ về, đi với ai. Nhưng giờ đây mình lại chẳng có thời gian để đi, chỉ những cuộc hẹn bạn bè thân thiết. Còn không một ngày sẽ là đi làm, tối về ăn cơm, làm mấy thứ linh tinh và đi ngủ.
+
+Mình là một đứa trẻ, vừa học cách trưởng thành lại vừa học cách sống như đứa trẻ. Thật ngộ nghĩnh nhỉ.
+
+Xíu
+#Ănhoàikhônglớn
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/579254921012497.jpg">

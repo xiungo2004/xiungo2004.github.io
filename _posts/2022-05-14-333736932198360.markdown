@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình bỏ qua cho nhau anh nhé "
+title: " Mình bỏ qua cho nhau anh nhé "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/333736932198360.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-14 12:42:32 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mình bỏ qua cho nhau anh nhé
+Bỏ qua những cái nắm tay trên đường đời tấp nập
+Bỏ qua những lần đón đưa, đợi chờ
+Bỏ qua những cái ôm sưởi ấm tâm hồn nhau
+Bỏ qua những lần cười đùa vô tư nơi góc phố
+Bỏ qua cả lời hứa mãi bên nhau của năm nào
+Bỏ qua những lời nói yêu thương, mật ngọt
+Bỏ qua những lần cãi vã, những giọt nước mắt suốt từng ấy năm
+Bỏ qua hết thảy những kỷ niệm vui buồn cùng nhau
+Mình bỏ qua cho nhau anh nhé, mong người và em đều sẽ có cho mình những niềm vui, niềm hạnh phúc riêng.
+
+#Xíu
+#Tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/333736932198360.jpg">

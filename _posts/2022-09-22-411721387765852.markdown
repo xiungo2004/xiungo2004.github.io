@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mong anh sẽ hạnh phúc, ở nơi mà em không nhìn thấy "
+title: " Mong anh sẽ hạnh phúc, ở nơi mà em không nhìn thấy "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/411721387765852.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-22 13:12:34 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mong anh sẽ hạnh phúc, ở nơi mà em không nhìn thấy
+
+Ngày trước quen nhau, em tự nhủ, sau này, nếu có xa, em sẽ chẳng chúc anh câu hạnh phúc đâu. Bởi chỉ có em mới xứng đáng mang lại hạnh phúc cho anh mà thôi. Ngông cuồng và ích kỷ nhỉ? Nhưng sự thật là như vậy. Em nghĩ, nếu không phải là em, mong thà rằng anh đừng hạnh phúc. Em thấy mình chẳng cao thượng, chẳng bao dung đến mức nhìn anh và người con gái khác tay trong tay và rồi mở miệng nói câu “chúc anh hạnh phúc”.
+
+Rồi giờ đây, em và anh rẽ hai hướng, mỗi người mỗi cuộc sống riêng, chẳng còn chút liên quan. Nhưng anh à, chữ thương sao vẫn ở đấy, chẳng phai nhạt. Những kỷ niệm từng có, những cái ôm ấm áp, những cái hôn ngọt ngào vẫn nằm sâu trong tâm trí. Thâm tâm, em vẫn mong anh hạnh phúc, dù chẳng phải kề bên em. Ngộ nhỉ, con người sao mà mâu thuẫn quá chừng. Nhìn thấy anh hạnh phúc thì lòng không thoải mái, oán trách, nhưng cũng không nỡ nhìn anh đau khổ. Thôi thì em mong anh sẽ hạnh phúc, ở nơi em mà không nhìn thấy.
+
+#Xíu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/411721387765852.jpg">

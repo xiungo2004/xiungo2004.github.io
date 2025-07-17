@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Sống xa mẹ chẳng dễ dàng #3 "
+title: " Sống xa mẹ chẳng dễ dàng #3 "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/230273785878009.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-28 12:30:14 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Sống xa mẹ chẳng dễ dàng #3
+
+Mẹ về quê rồi.
+
+Hôm nay con lười nên không đi chợ mẹ ơi. Sáng con cho cả nhà ăn mì gói, tối thì ăn cơm với trứng. Hên hôm nay mưa cả ngày, ba ở nhà, chớ bình thường đi làm mà ăn vậy là ba la con rồi.
+
+Sáng sớm nay, lúc con còn đang ngái ngủ thì 4 đòi gọi cho mẹ. Và thế là nó làm rơi điện thoại của con. Xước một đường lận á mẹ. Tức ghê. Nào mẹ về nhớ la nó nha, đánh càng tốt. Mà cũng tội nó lắm mẹ. Từ hôm mẹ về quê, đêm nào nó cũng tỉnh giấc. Giống như không có hơi mẹ nó ngủ không ngon á. Chẳng như mọi bữa có mẹ, ngủ một mạch, chân tay còn múa lung tung, hại con có hôm bị nó đánh cho mấy cái vào mặt.
+
+À còn nữa, hôm qua là thứ 7 nhưng con quên giặt đồ đi học cho 4 rồi. Tận trưa nay nó mới nhắc con. Con giặt xong thì trời mưa. Chắc mai con để 4 mặc váy đi học quá. Mẹ mà ở nhà thì quần áo của nó đã phẳng phiu, thơm tho để mai đi học rồi. Mẹ sẽ lo cho nó từng li từng tí. Nó đang mong mẹ về lắm đó. Con cũng vậy. Bao giờ mẹ mới về?
+
+Ảnh: Pinterest
+
+#Xíu
+#Chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/230273785878009.jpg">

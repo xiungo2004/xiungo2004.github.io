@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Có nên hối tiếc quá khứ không?
+ "
+title: " Có nên hối tiếc quá khứ không?
+ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/907070501564269.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2024-12-05 19:39:25 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2024-12-05 19:39:25 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Có nên hối tiếc quá khứ không?
+
+Hôm trước, thầy có hỏi lớp mình câu này.
+
+Khoảnh khắc ấy mình nghĩ, làm gì có ai trong đời mà không hối tiếc, dù ít hay nhiều.
+
+Hối tiếc vì ngày còn nhỏ chỉ muốn lớn lên thật nhanh, để rồi khi lớn lại muốn trở về ngày còn thơ bé.
+
+Hối tiếc vì đã không chăm chỉ hơn để rồi bài kiểm tra hay công việc hiện tại không như ý muốn.
+
+Hối tiếc vì thời sinh viên đã không trải nghiệm nhiều hơn, để rồi khi lao vào cơm áo gạo tiền, người ta ngại trải nghiệm 1 điều gì đó.
+
+Hối tiếc vì ngày bên nhau không trân trọng nhau hơn để rồi mai sau mỗi người một ngả.
+
+Hối tiếc vì không thường xuyên về với gia đình, không thường xuyên gọi điện để rồi đến một lúc nào đó nhận ra ba mẹ tóc đã lấm tấm vài sợi bạc.
+
+Và còn rất nhiều hối tiếc khác…
+
+Nhưng thầy bảo, không nên hối tiếc quá khứ, nó chỉ làm con người ta thêm khổ mà thôi. Ở thời điểm ấy, nhận thức chúng ta đến đó, suy nghĩ chúng ta đến đó, trải nghiệm chúng ta đến đó nên chúng ta chỉ làm được đến đó mà thôi. Dù có xảy ra thêm một lần nữa, mọi thứ vẫn sẽ diễn ra theo cách mà chúng đã diễn ra.
+
+Nhưng mà, khó nhỉ? Khi việc không như mong muốn xảy đến, mình lại bắt đầu hối tiếc quá khứ, đôi khi hối tiếc về một khoảnh khắc, đôi khi là hối tiếc một người.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/907070501564269.jpg">

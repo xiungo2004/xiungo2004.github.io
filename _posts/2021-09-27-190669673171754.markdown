@@ -1,0 +1,60 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Lấy chồng "
+title: " Lấy chồng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/190669673171754.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-09-27 13:12:44 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Lấy chồng
+
+Tôi là đứa con gái cực kỳ ghét nấu ăn. À đúng hơn là vì tôi nấu không giỏi nên mới không thích.
+Mẹ hay bảo: “Học nấu ăn đi chớ, ở nhà có mẹ nấu rồi đi lấy chồng ai nấu cho mà ăn”
+Tôi: “Chồng nấu, lo gì”
+Mẹ “Nó quýnh cho chứ ở đó mà nấu”
+Tôi “Nó không nấu con không lấy”
+Mẹ “Rồi ở với mẹ chồng rồi làm sao”
+Tôi “Con không ở với mẹ chồng là được”
+
+Đó là cuộc hội thoại thường xuyên diễn ra ở nhà chúng tôi, đặt biệt là trong các bữa ăn. Tôi cảm thấy có đôi chút bất công, tại sao con gái bao giờ cũng phải là người lo chuyện bếp núc. Phụ nữ sinh ra đã phải mang gánh trách nhiệm về sinh con đẻ cái, đó đã là chuyện của tự nhiên, không có cách nào làm thay đổi được. Nhưng còn chuyện bếp núc, đâu ai quy định là của phụ nữ. Ấy vậy là “bếp núc là chuyện của đàn bà” đã ăn sâu vào tư tưởng của rất nhiều người. Phải chăng bếp núc cần sự khéo léo, tỉ mỉ nên người ta mặc định đó là việc phụ nữ phải lo toan.
+
+Với tôi, nấu ăn là cách phụ nữ thể hiện tình yêu thương với gia đình của mình qua những món ăn ngon. Nhưng mà, nếu nấu ăn dở như tôi thì không còn là tình yêu thương nữa, mà là thảm họa rồi. Và tôi nghĩ sẽ vui hơn, ấm cúng, có ý nghĩa hơn khi mà cả hai người cùng vào bếp, nấu lên những bữa cơm thơm ngon.
+
+#NguyetHa
+#giadinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/190669673171754.jpg">

@@ -1,0 +1,70 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Những thói quen cũ (1) "
+title: " Những thói quen cũ (1) "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/398692952369424.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-21 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Những thói quen cũ (1)
+
+Tôi có thói quen lang thang khắp nẻo đường Sài Gòn về đêm. Ghé vào một quán trà dâu nào đó, ngồi nhâm nhí ngắm phố xá đông đúc và nói cười vui vẻ với bạn bè. Ngày đó, mỗi khi muốn, chỉ cần nhấc điện thoại lên “Alo, t muốn ra đường”. Thế là hai đứa xách xe đi. Giờ đây, tôi cũng muốn ra đường, cũng nhấc điện thoại lên, cũng “Nay t muốn ra đường”, nhưng chúng tôi lại cách nhau 1h20p bay thay vì 5p đi bộ như trước kia. Đi một mình, tôi sợ mình sẽ cô đơn, lạc lõng giữa dòng người đông đúc. Nhưng nhìn trong list danh bạ, lại không biết gọi ai đi cùng và không biết liệu họ có muốn đi cùng tôi hay không.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Ngày trước tôi có thói quen nhận lương xong sẽ tự thưởng cho bản thân một món gì đó, tháng thì váy vóc, tháng thì son phấn, mỹ phẩm, tháng thì những quyển sách xinh xinh. Ngày đó, chúng tôi hay lang thang cùng nhau ở chợ đêm làng đại học, lướt qua các gian hàng
+- Ê này xinh nè, mua đi
+- Ê, có nên mua này không ta
+- Mua đi rồi nghèo
+Có hôm đi lang thang thôi, chẳng mang về được cho mình món nào vừa ý.
+- Ê, nay hết tẩy trang, hết toner, hết sữa rửa mặt…
+- Đi, t chở mi đi mua.
+Vậy đó, chúng tôi lôi cổ nhau đi đốt tiền ở những cửa hàng mỹ phẩm. Sau đó về lại than nghèo. Nhưng giờ, thay vì lang thang ở các gian hàng, tôi chọn đặt online. Vì sao ư? Vì không còn tìm được người hợp ý, đủ kiên nhẫn để đi cùng.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+- Ê, xuống dưới đi dạo đi, chán quá
+- Ok đi
+Ngày trước, tôi hay đi bộ dưới ktx buổi tối, nhìn người này, người kia đi qua đi lại. Nói là cùng nhau đi bộ, chớ đi được mấy bước đã vội kiếm chỗ nào đó ngồi, vì mệt, vì lười. Hoặc chui vào b2, ngồi ăn hột vịt lộn xả xui. Chúng tôi nói đủ thứ chuyện trên trời dưới bể, không biết chuyện đâu ra mà lắm thế. Nhưng giờ, cho dù có buồn chán, tôi cũng sẽ chọn nhốt mình trên phòng. Dưới sân ktx rộn ràng quá, không hợp với người cô đơn như tôi.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Bạn bảo “Biết vậy trước khi về, t tìm bạn cho mi”. Không phải đâu, không phải tôi thiếu bạn bè, chỉ là kiếm được một người kề cạnh, hiểu và cùng tôi làm tất cả mọi thứ không dễ dàng. Từ lúc bạn về, xe tui bị bỏ xó dưới nhà xe. Chạy xe một mình đơn côi lắm. Chở người khác thì lại không quen. Tôi quen với cảnh bạn ríu rít sau xe, cả đoạn đường dài chẳng im lặng phút giây nào. Ngày trước, tôi không cho bạn cầm lái, tôi không thích ngồi sau, buồn chán. Còn bạn thích ngồi sau, ngắm đường xá, mây trời. Giờ tôi cũng học cách ngồi sau xe người khác, cũng thử ngắm đường xá, mây trời cũng không còn thấy chán ghét như trước kia. Hôm đi Vũng Tàu, 3 người, lẻ, nhìn qua xe bên kia, yên sau không ai ngồi, thấy thiếu gì đó. Yên sau trống vắng và lòng người cũng thế.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Mỗi người xuất hiện, họ sẽ để lại cho bạn một thói quen nào đó, và rồi, họ rời đi. Bạn và thói quen ấy bè bạn bên nhau suốt quãng đường còn lại. Có những thói quen, ta sẽ quên sau 1, 2 tháng, nhưng cũng có những thói quen chẳng thể quên. Thói quen ấy, chỉ còn nằm trong trí óc, buồn đến đau lòng.
+
+_Xíu_
+
+#ChuyencuaXiu
+#Xíu
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/398692952369424.jpg">

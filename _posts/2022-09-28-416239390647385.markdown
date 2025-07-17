@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Tại sao anh lại thương em? "
+title: " - Tại sao anh lại thương em? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/416239390647385.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-28 13:06:44 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Tại sao anh lại thương em?
+- Anh thương em ở điểm nào?
+- Bao giờ anh hết thương em?
+- Nếu em làm gì sai anh có còn thương em không?
+- Anh sẽ thương em đến bao giờ?
+Ừ thì ngày trước em hay hỏi anh những câu hỏi vô nghĩa, câu hỏi mà vốn dĩ chẳng có câu trả lời, chẳng có đúng, sai.
+
+Tại sao mình lại thương nhau anh nhỉ? Anh không biết. Em không biết. Chỉ biết là ta thương nhau, không vì lý do gì cả. Thương là thương thế thôi.
+Nhưng anh này, nếu đã thương nhau không vì bất kỳ điều chi, sao khi chia tay lại có nhiều lý do đến vậy. Nào là không hợp, nào là vô tâm, nào là muốn người kia tốt hơn, nào là có người khác, vân vân và vân vân. Cả đống lý do biện hộ cho việc chia tay. Sao cực vậy nhỉ? Ngày trước quen nhau, có tốn công tốn sức tốn chất xám để nghĩ ra lý do đâu. Chỉ một chữ thương, cứ thế bên nhau. Thì giờ chia xa, ta chỉ cần nói “hết thương” là được mà. Đơn giản hơn rất nhiều ấy chứ.
+
+Ấy thế mà con người thích làm khó nhau. Phải nghĩ ra cho bằng được lý do để chia tay. Biết lý do để làm gì nhỉ, để có câu trả lời cho bạn bè mỗi khi nhận được câu hỏi “Sao lại chia tay?” sao? Họ mong điều gì ở một lời biện bạch, thậm chí là một lời nói dối. Một lý do, một câu kết cho chuyện tình ấy sao. Mơ mơ hồ hồ đến bên nhau nhưng lại cần một lý do để rời đi, để dễ dàng chấp nhận sự chia ly.
+
+Em nghe người ta bảo “Chia tay chỉ có thể là hết yêu, dù là bất cứ lý do nào”. Liệu có thật là như vậy không nhỉ? Cũng có thể là còn yêu mà vẫn chia tay mà. Chỉ là họ không còn kiên nhẫn với nhau nữa mà thôi. Không còn kiên nhẫn chịu đựng nhau, bao dung nhau, nên họ chọn rời đi dù vẫn còn yêu. Ôi, lại nghĩ ra thêm một lý do cho sự chia ly rồi nè.
+
+Duyên nợ đưa ta đến bên nhau. Hết duyên hết nợ ắt sẽ rời xa. Mọi việc đều đã được an bài, lý do chỉ hợp thức hóa việc ta rời đi mà thôi.
+
+Xíu
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/416239390647385.jpg">

@@ -1,0 +1,46 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Ăn hoài không lớn  "
+title: "  Ăn hoài không lớn  "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/576405431297446.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-06-01 21:02:30 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-06-01 21:02:30 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Dạo trước, mình nảy ra ý tưởng lập page mới, với tên “Ăn hoài không lớn”. Mọi người hỏi mình đã có Xíu rồi đấy thôi, sao lập làm gì nữa. Ăn hoài không lớn, mình muốn chia sẻ về hành trình có chút trưởng thành, cũng có chút trẻ con của mình. Lúc ấy mình nghĩ, Xíu chỉ dành riêng cho mình mà thôi, chỉ để ghi lại cảm xúc của bản thân mà chẳng cần quan tâm người soi mói hay không.
+
+Rồi sau thời gian dài suy nghĩ, đọc lại hết tất cả bài trên Xíu, mình chợt nhận ra, Xíu cũng là một hành trình trưởng thành của mình mà. Xíu ghi lại chút niềm vui, Xíu hoài niệm về mối tình dang dở, Xíu đồng hành cùng mình trên chặng đường vượt qua khủng hoảng tuổi đôi mươi. 
+
+Mình muốn Xíu tiếp tục đồng hành, tiếp tục ghi nhớ lại những khoảnh khắc có thể đẹp, cũng có thể không trong cuộc sống.. Mình thay đổi, Xíu cũng vậy, thay đổi để làm mới bản thân, để tích cực hơn mỗi ngày. 
+
+Hôm nay, giao diện mới của Xíu ra đời, page Xíu đổi tên thành Ăn hoài không lớn. Bút danh vẫn giữ nguyên là Xíu. Mong các bạn đón nhận sự thay đổi này.
+
+#Xíu
+#Ănhoàikhônglớn
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/576405431297446.jpg">

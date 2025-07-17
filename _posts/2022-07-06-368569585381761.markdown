@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Kể anh nghe, em một thói quen xấu vô cùng "
+title: " Kể anh nghe, em một thói quen xấu vô cùng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/368569585381761.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-06 12:00:31 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Kể anh nghe, em một thói quen xấu vô cùng.
+
+Những ai cho em cảm giác an toàn, thân thiết, em sẽ vô thức dựa vào họ đôi khi còn có chút lệ thuộc. Em cứ song hành cùng họ mà quên mất rằng mỗi người cần có lối đi riêng, chẳng ai mãi đồng hành cùng em được đâu. Những con người đó chỉ ở cạnh em một khoảng thời gian nhất định, họ dạy em nhiều thứ, rồi rời đi. Dù là bạn bè hay người thương đều vậy.
+
+Vốn sợ cô đơn, nay e lại phải làm quen với nó. Em không còn dám dựa vào ai đó, lệ thuộc vào ai đó nữa rồi. Bởi em sợ, sợ người rời đi, khoảng trống trong em vốn đã lớn nay sẽ càng lớn hơn.
+
+Anh biết không, có người bảo, nhìn em mỏng manh, yếu đuối, tạo cho họ cảm giác muốn chở che. Nhưng họ sẽ chở che em được bao lâu đây? Rồi họ sẽ rời khỏi em để chở che cho người con gái họ yêu. Vậy nên em chẳng dám mong đợi hay lấy đó làm niềm vui.
+
+Em cứ nghĩ bản thân mình mạnh mẽ lắm cơ, nhưng giờ e mới biết, nó yếu đuối đến chừng nào. Giờ em chỉ muốn bản thân mình mạnh mẽ hơn một chút để bản thân cứng cỏi bước đi giữa thành phố xa lạ mà thân quen này. Nhưng em chỉ mạnh mẽ một chút thôi đấy, mong anh sẽ đến sớm, để em có thể dựa vào, dựa vào mãi chớ không phải chỉ là trong chốc lát.
+
+#ChuyencuaXiu
+#tamtinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/368569585381761.jpg">

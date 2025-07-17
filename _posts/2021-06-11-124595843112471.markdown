@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " CON CÒN CHƯA KỊP TRƯỞNG THÀNH, SAO BA MẸ ĐÃ VỘI GIÀ ĐI "
+title: " CON CÒN CHƯA KỊP TRƯỞNG THÀNH, SAO BA MẸ ĐÃ VỘI GIÀ ĐI "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/124595843112471.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-06-11 13:04:51 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+CON CÒN CHƯA KỊP TRƯỞNG THÀNH, SAO BA MẸ ĐÃ VỘI GIÀ ĐI
+
+Hôm nay, tôi giật mình nhận ra, ba mẹ đã già, nhưng hình như, tôi vẫn còn quá trẻ con.
+
+Trong mắt bạn bè bên ngoài, tôi có thể là một đứa trưởng thành cả về thể xác lẫn suy nghĩ. Nhưng ít ai biết về mặt khác trong con người tôi, đó là sự trẻ con, bướng bỉnh và còn hay làm nũng với mẹ. Có một số đứa bạn thân thiết khi nghe tôi nói chuyện với mẹ đã rất ngạc nhiên vì tôi như một đứa con nít xa nhà nhớ mẹ vậy đó.
+
+Mỗi khi về nhà, tôi cực kỳ lười. Nhiều lúc tôi thắc mắc không hiểu tại sao. Thật ra khi xa nhà, tôi cũng không quá chăm chỉ đâu, nhưng tôi luôn cố gắng và tự ý thức phải làm việc thì mới có tiền, thì mới có cuộc sống tốt hơn. Nhưng khi về nhà, tôi quên mất tương lai của mình, tôi quên đi tất cả mọi thứ, tôi như quay về làm đứa trẻ chưa lớn, vẫn còn ở tuổi ăn tuổi chơi. Tôi còn trẻ con tới mức gây sự với đứa em nhỏ hơn mình 12 tuổi, rồi xuống méc ba hoặc méc mẹ. Tôi vẫn luôn ỷ lại vào ba mẹ, vẫn luôn có suy nghĩ ba mẹ còn trẻ, còn có thể bảo bọc được cho tôi trong tương lai. Nhưng tôi quên mất rằng, thời gian đâu có buông tha cho bất kỳ một ai. Ba mẹ đã già đi theo năm tháng, chỉ là tôi không chịu chấp nhận mà thôi.
+
+Tôi là đứa thần tượng ba mẹ của mình. Tôi từng xem ba mẹ là siêu nhân có thể giải quyết tất cả những gì mà tôi cho là điều không thể và sẽ luôn luôn như vậy. Nhưng, ba mẹ cũng chỉ là con người mà thôi và cũng sẽ già đi.
+
+Tôi bắt đầu phải nhổ từng sợi tóc bạc cho ba, cho mẹ. Lần đầu nhìn thấy tóc bạc trên tóc ba mẹ, tôi khá bất ngờ, tôi không nghĩ sẽ có màu sắc thứ 2 trên mái tóc ấy. Mẹ bắt đầu đau vai, nhức mỏi cơ thể do làm việc nhiều. Mắt mẹ không còn như trước, đã bắt đầu kém đi. Còn ba, người đàn ông luôn đặt tôi ngồi trên vai khi còn bé nay sức khỏe cũng đã sa sút. Ba nay đã có chút khó khăn mỗi khi đứng dậy vì hai đầu gối đau nhức.
+
+Trong tâm trí tôi luôn nghĩ ba chỉ mới 40, còn mẹ thì vẫn ba mấy như những ngày đầu tiên tôi bắt đầu đi học xa thôi. Nhưng, thời gian trôi đi quá nhanh, ba mẹ đã dần già đi. Giờ đây, tôi không dám hỏi số tuổi của ba mẹ nữa, vì sợ.
+
+Thật ra tôi rất ghét những kỳ nghỉ dài, vì như vậy tôi sẽ phải ở nhà thật lâu, sẽ nhìn thấy sự già yếu dần đi của ba mẹ. Có thể nói là tôi muốn trốn tránh, tôi muốn mãi làm một đứa con nít và ba mẹ mãi không già đi. Nhưng tôi rồi vẫn phải lớn, ba mẹ rồi vẫn phải già đi
+
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/124595843112471.jpg">

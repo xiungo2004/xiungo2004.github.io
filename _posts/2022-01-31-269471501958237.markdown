@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Khoảnh khắc giao thừa mọi người làm gì? "
+title: " Khoảnh khắc giao thừa mọi người làm gì? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/269471501958237.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-01-31 17:29:33 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Khoảnh khắc giao thừa mọi người làm gì?
+
+Ngồi trước màn hình tivi đón chờ giao thừa, hay gọi điện chúc tết người thân.
+
+Gia đình Xíu thì ngồi trước bếp lửa, nướng mực, lớn thì uống bia, nhỏ thì uống nước ngọt. Hồi ở xóm cũ thì không có, nhưng hơn 10 trở lại đây, chuyển ra xóm mới, mọi người ở đây có phong tục đốt lửa đêm giao thừa. Nhà nào cũng có một đống lửa, vài lon bia, chúc tết nhau qua hàng rào, cụng lon bia, dô.
+
+Còn mọi người thì sao? Chia sẻ với Xíu nha
+
+Chúc mọi người năm mới vui vẻ, thành công và đặt biệt luôn hạnh phúc nha
+
+#Xíu
+#ChamLaiMotXiu
+#Chuyentet
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/269471501958237.jpg">

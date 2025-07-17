@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm ấy, ngồi trò chuyện cùng nhóm bạn "
+title: " Hôm ấy, ngồi trò chuyện cùng nhóm bạn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/378712917700761.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-21 13:00:14 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm ấy, ngồi trò chuyện cùng nhóm bạn. Có người hỏi “Có đứa nào từng nghĩ về cái chết chưa?” Có mỗi cô trả lời “Rồi, nó luôn hiện diện”.
+
+Ừ, cái chết với cô vừa là thứ gì đó quen thuộc, vừa xa lạ. Quen thuộc bởi cô đã từng nghĩ về nó rất nhiều, năm cô 21 tuổi, 18 tuổi, 15 tuổi và cũng có thể là trước đó rất lâu, rất lâu. Lâu đến mức cô chẳng nhớ nó hiện diện trong tâm trí của mình từ bao giờ. Xa lạ là bởi, nghĩ về nó nhiều năm như vậy, nhưng cô chưa bao giờ đi tìm nó hay đến gần với nó dù chỉ là một chút. Cô sợ hãi nó, cô muốn tránh thật xa, thật xa nhưng nó lại luôn đeo bám tâm trí cô.
+
+Chứng kiến nhiều mảnh đời cứ thế rời khỏi thế gian, lòng cô đều có chút gì đó không thoải mái. Cô tự hỏi, người ở phải làm thế nào? Mất bao lâu để có thể nguôi ngoai về sự mất mát đó? Không bao giờ. Không bao giờ có thể nguôi ngoai được, có lẽ vậy. Đã gần 6 năm từ ngày ông ra đi, nhưng mẹ cô chưa phút giây nào lắng lòng mình lại. Năm nào tới giỗ ông, hay bất kể dịp nào ra thăm mộ, mắt mẹ đều ươn ướt. Và có lẽ 5 năm, 10 năm sau, mắt mẹ sẽ vẫn ướt mỗi khi thăm ông. Người ở lại thì như vậy, đau đáu với nỗi nhớ nhung chẳng bao giờ vơi, còn người ra đi thì thế nào nhỉ?
+
+Đã rất nhiều lần cô tự đặt ra câu hỏi “Chết rồi mình sẽ như thế nào nhỉ, sẽ đi đâu, về đâu”. Nhiều người nói với cô, chết là hết, là trở về với cát bụi. Cô không tin. Cơ thể trở về với cát bụi. Còn linh hồn thì sao? Cô vẫn luôn tin con người có 2 phần, thể xác và linh hồn. Và nếu có ai đó nói với cô rằng trên đời này vẫn còn một thế giới khác, thế giới dành cho những linh hồn lui tới khi rời khỏi thế gian, chắc chắn cô sẽ tin, tin vô điều kiện. Cô tin, khi chết rồi, ta vẫn sẽ tồn tại dưới dạng một thực thể khác, ở một thế giới khác. Nghe thật phi lý, nhưng cô tin vào điều đó, bám víu vào điều đó để bớt đi phần nào nỗi sợ về sự biến mất. Sẽ chẳng ai muốn vào một ngày nào đó mình biến mất một cách vĩnh viễn đúng hông.
+
+Cô luôn thắc mắc sau khi chết thì mình sẽ như thế nào. Nhưng chẳng nơi đâu cho cô câu trả lời đó cả. Chẳng ai có thể trở về từ cõi xa xăm ấy để kể cho cô, cho mọi người biết về thế giới ấy. Nhưng cô lại chẳng dám thử, vì cô biết, chỉ cần tới gần nó dù 1 bước chân thôi, cô sẽ mất đi cơ hội bên cạnh người cô yêu thương. Thứ đó được liệt kê vào danh sách những điều không bao giờ được thử. Cô biết, một ngày nào đó, điều ấy sẽ tìm đến với cô, có lẽ sớm, cũng có lẽ muộn, nhưng nhất định kiểu gì cũng tới, chẳng thể tránh. Mong trước khi đến, nó sẽ buông tha cho tâm trí cô, để cô được yên bình.
+
+#Xíu
+#ChuyencuaXiu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/378712917700761.jpg">

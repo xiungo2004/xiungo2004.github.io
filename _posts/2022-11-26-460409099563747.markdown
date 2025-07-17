@@ -1,0 +1,74 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hình như con người ta thường mơ về thứ mình không có được "
+title: " Hình như con người ta thường mơ về thứ mình không có được "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/460409099563747.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-26 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-26 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Hình như con người ta thường mơ về thứ mình không có được
+
+Có người đem lòng nhớ thương Sài Gòn.
+
+Có người lòng mơ về Đà Nẵng.
+
+Có người bao năm vẫn dành tình cảm cho Hà Nội dù ở phương xa.
+
+—------------------------
+
+Người thương Sài Gòn bảo nơi đây nhộn nhịp, sôi động, nơi dành những hoài bão, ước mơ và khát vọng. Nơi con người ta có những đêm không ngủ theo những cuộc chơi không hồi kết.
+
+Người mơ về Đà Nẵng bảo thành phố ấy đáng sống, muốn núi có núi, muốn biển có biển. Không quá ồn ào, cũng không quá tĩnh lặng. Dường như cái gì cũng vừa đủ cho một cuộc đời.
+
+Người dành tình cảm cho Hà Nội lại bảo nơi ấy thơ mộng, có mùi hoa sữa thoang thoảng, có nét gì đó xưa cũ khiến người ta muốn hoài niệm, nhớ thương.
+
+—-------------------------
+
+Hỏi ra mới biết:
+
+Cô gái mà người thương, sống và học tập ở Sài Gòn. Thứ tình cảm tính bằng năm nhưng mãi chẳng có được. Vì muốn được hít thở chung bầu không khí, được sống chung một thành phố với người mình thương, có người con trai dù học ở Đà Nẵng nhưng đăng ký thực tập ở tận Sài Gòn. Sau 2 - 3 tháng làm việc nơi đây, quay về, cậu vẫn một lòng nhớ thương Sài Gòn, luôn muốn tìm cơ hội quay lại.
+
+Cô gái mơ về Đà Nẵng, cô thật sự thích thành phố ấy. Nhưng hơn hết, cô thích con người nơi đó. Đó là nơi người bạn thân thiết nhất của cô sinh sống, còn có cả người cô đem lòng thương hướng về. Cô chưa từng muốn xa họ, nhưng lý tưởng sống khác nhau, họ rời đi. Đôi khi cô muốn theo bước chân họ, để được ở cạnh, bầu bạn cùng nhau.
+
+Còn người dành tình cảm cho Hà Nội, người chưa từng được đặt chân đến vùng đất ấy. Người hình dung về một Hà Nội thơ mộng qua lời kể của người từng thương. Hai người chia xa, còn mãi lời hứa về một chuyến Hà Nội trong tương lai.
+
+—------------------------
+
+Những người ấy, họ có thương nhớ thành phố ấy thật không, hay lỡ thương một người, thương luôn cả nơi người ấy sống.
+
+Cũng có thể, vì chẳng có được người mình thương, chẳng thể sinh sống ở thành phố ấy, nên họ đem lòng nhớ, đem lòng mơ về nơi phương xa.
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/460409099563747.jpg">
+
+

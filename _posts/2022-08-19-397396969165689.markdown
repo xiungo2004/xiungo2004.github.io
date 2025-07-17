@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chuyện em tui "
+title: " Chuyện em tui "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/397396969165689.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-19 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Chuyện em tui
+
+Đợt dịch, tui ở nhà, nên hay đưa đón bé 4 đi học. Có hôm đi đón, nó vừa nhìn thấy tôi thì chạy lại, mắt đỏ dần rồi khóc luôn trước cổng trường. Tui hỏi nguyên do, bé không nói. Mãi về tới nhà, tôi gặng hỏi cho bằng được, bé mới kể đi học bị bạn bắt nạt, bạn đánh vào bụng, rồi bị bạn chửi nữa. Tui giận điên người, hỏi “Có đánh lại nó không?”. Bé bảo không, tụi nó cao hơn bé, lại đông hơn. Bé có méc thầy rồi. Nhưng méc cũng có được gì đâu.
+
+Tui vào nhà, bảo mẹ đưa số điện thoại, gọi ngay cho thầy. Sao mà để vậy được. Bé 4 nhà tui mười mấy tuổi đầu, bình thường nó có hư, nhà tui nặng nhất là phạt nó quỳ, có nỡ đánh nó đâu, vậy mà ra đường để bị đánh. Nhưng méc thì méc, thầy cũng có bảo vệ nó 24/24 được mô. Tui cũng từng như nó, từng đi học, từng bị bạn bắt nạt, sao không hiểu cho được. Có méc cô, méc thầy, méc cha mẹ hay méc người chị là tui đây, cũng có ai bảo vệ nó được mãi đâu.
+
+Tôi dạy 4 “Bữa sau, bạn đánh một cái, đánh lại một cái, nó đánh bé 10 cái, thì ít nhất bé cũng phải đánh lại 1 cái. Chớ không thể để người ta bắt nạt, mình không đánh trả, nó lại tưởng mình hiền, cứ thế mà lấn tới.” Ờ, tui chỉ em tui vậy đó. Thà khiến nó trở thành đứa hung dữ, đanh đá, còn hơn bị bắt nạt. Kinh nghiệm tui rút ra thời còn là học sinh đó. Tui không giỏi đánh đấm, nhưng được cái miệng hơn người, ai chửi tui 1 câu, tui chửi lại cả 10 câu, ai đánh tui, có bầm dập cả người tui cũng phản kháng. Dần dần mọi người nói tui dữ, đụng vào là xù lông nhím. Biết sao được, không ai bảo vệ được mình, mình phải tự tạo ra những chiếc gai để người ta e dè, đừng đụng vào. Nhưng giờ tui đỡ dữ rồi nghen.
+
+Mà tui cũng sợ nó quánh nhau thua người ta, nên tui bảo ba mẹ cho bé 4 đi học võ. Tui gọi điện về nói mỗi ngày à, bắt đi học cho bằng được. Nó mới cấp 1 đã gặp cảnh bắt nạt, lên cấp 2 còn ghê cỡ nào nữa. Cấp 2 chỗ tui cũng đâu phải mấy đứa dạng vừa, ngoan ngoãn đâu. Mới đầu bé đi học, lười lắm, về xin nghỉ miết thôi, nói đau hết cả người, đi học chán. Tui dỗ, bảo đi học hết kỳ hè thôi cũng được, cho nó khỏe người, chớ còi nhom, lên bị bạn bắt nạt á.
+
+Nó học đâu đó được tháng, khoái, về kể tui miết, đi học dui này dui nọ. Rồi có hôm, ở lớp võ, đang đứng xếp hàng, thằng bé nào đó chen lên hàng của bé 4, đẩy bé, thế là bé quay lại, tát cho một cái. Nó về kể mà nhà tui cười đau cả bụng. Còn đâu con bé mới ngày nào bị bắt nạt, gặp tui khóc lóc thảm thương, giờ thì đánh bạn, đánh bè luôn rồi. Tôi nói đùa với mẹ “Mẹ coi mà giữ nó nha, chớ đi học võ xong lên trường đánh bạn, người ta đến mắng vốn cái chết á”. Đùa dị thôi, chớ bé em nhà tui hiền lắm, như tui dị, không ai đụng vào nó, nó cũng chả thèm đụng vào ai đâu.
+
+Hôm gọi điện thoại về nhà, tui chọc ghẹo nó. Nó bảo “Chị ba về đây, em đá bay chị ba luôn. Em đã cao lắm á, đá được qua đầu luôn”. Tui đứng hình. Dị rồi sao dám về, về bị quánh mà về chi. Nó cười bảo “giỡn thôi, về đi em mua bánh cho ăn, nay em tiết kiệm được nhiều tiền lắm”. Chị nó thì thất nghiệp, nó ở nhà thì dư tiền, tiêu xài sung sướng, hazzi….
+
+_Xíu_
+
+#ChuyencuaXiu
+#Xíu
+#giadinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/397396969165689.jpg">

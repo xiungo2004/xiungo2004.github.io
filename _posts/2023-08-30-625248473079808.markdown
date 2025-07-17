@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm nay, mình nghe được một câu chuyện."
+title: " Hôm nay, mình nghe được một câu chuyện."
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/625248473079808.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2023-08-30 20:26:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm nay, mình nghe được một câu chuyện. Anh nói với thầy dạy lái xe: "Chiều chủ nhật vừa rồi em đưa vợ con đi chơi, tự dưng mưa to. Mà nay ngồi trong xe ô tô, nên không cần lo về thời tiết gì hết, thoái mái".
+
+Mưa đối với người ngồi trong xe ô tô, với người không có việc ra đường thì mưa lãng mạn làm sao. Tiếng mưa róc rách nghe vui tai biết bao.
+
+Nhưng, với những người đang vất vả làm việc ngoài trời thì mưa thật đáng ghét. Với những người vội vã về nhà, cơn mưa có thể cản bước họ. Với những cô gái trang điểm xinh đẹp, diện váy lung linh đi gặp người yêu thì mưa chẳng khác nào tội đồ, làm lung mờ vẻ đẹp của cô nàng. Và, với người vô gia cư, mưa như càng làm nỗi bất hạnh của họ rõ nét, họ chất vật và khổn khổ hơn bao giờ hết. Sao cũng là mưa mà mang nhiều nỗi niềm khác nhau quá???
+
+Chẳng phải người ta vẫn hay nói về Sài Gòn với câu "Sài Gòn hoa lệ, hoa cho người giàu, lệ cho người nghèo" đó sao. Sao cũng là Sài Gòn là khác biệt quá???
+
+Tình yêu của chúng ta vẫn được ví von như con dao 2 lưỡi, nó khiến một người nở rộ giữa đêm đông, nhưng cũng có thể khiển người tàn lụi ngay cả khi xuân về.
+
+Lạ quá, sao điều gì cũng có 2 mặt vậy, ngay cả điều đến từ thiên nhiên cũng không tránh khỏi?
+
+Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/625248473079808.jpg">

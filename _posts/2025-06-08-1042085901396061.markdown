@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mùa này hay ốm lắm "
+title: " Mùa này hay ốm lắm "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1042085901396061.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-06-08 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-06-08 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mùa này hay ốm lắm
+
+Sức khỏe con người đôi khi chẳng theo kịp với sự thất thường của thời tiết đâu. Đang nắng gắt khiến mình phải nhăn mặt nhăn mày, chói đến mức mắt chẳng mở lên nổi, vậy mà chỉ vài phút sau, mưa như trút xuống, cuốn trôi mọi sự nóng bức vừa mới đây.
+
+Mưa gió bất chợt, nắng mưa thất thường, lòng người cũng chênh vênh hơn.
+
+Không chút báo hiệu, mưa cứ thể là đổ xuống, từng đợt, từng đợt. Ban đầu vẫn mang theo hơi nóng bức còn sót lại từ vệt nắng vừa qua, sau đó là cái se lạnh khiến người ta phải rùng mình.
+
+Cuộc sống là vậy, đôi khi chẳng biết được lúc nào nắng, lúc nào mưa. Cũng chẳng thể vì dự đoán được sẽ mưa mà chẳng ra đường. Dẫu biết mưa sẽ làm nhòe đi lớp phấn son nhưng vẫn chẳng thể dừng lại giữa dòng chảy bộn bề. Con người là vậy, mưa có trút xuống làm cản bước chân nhưng vẫn phải đi tiếp, vẫn phải cố gắng, đôi lúc sẽ dừng lại một chút để thở rồi lại đi.
+
+Mùa này, thương nhất là sức khỏe, thương luôn cả chính mình bởi cứ mãi xoay vòng giữa bao nhiêu bộn bề mà quên mất việc chăm sóc bản thân. Mùa này, chậm lại một chút nhé, nghỉ ngơi một chút, giữ ấm cho chính mình giữa những cơn mưa bất chợt, ủ ấm cho tâm hồn trước khi cơn gió lạnh ùa về.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1042085901396061.jpg">

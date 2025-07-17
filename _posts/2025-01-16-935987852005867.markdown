@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đôi lúc cáu vì mẹ quá tiết kiệm
+ "
+title: " Đôi lúc cáu vì mẹ quá tiết kiệm
+ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/935987852005867.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2025-01-16 20:26:25 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-01-16 20:26:25 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Đôi lúc cáu vì mẹ quá tiết kiệm
+
+Có ai như mình không, câu chuyện mua đồ cho mẹ ngày tết.
+
+- Cái ni đẹp nè mẹ, mua hỉ?
+- Thôi, đồ quá chời rồi, mua làm gì nữa, không có mua.
+
+Nhiều lúc mình cũng muốn mua quách cho rồi, khỏi hỏi, mà khổ, gu khác nhau, mua theo ý mình thì mẹ mặc không ưng, có mấy lần như vậy rồi.
+
+Mà hỏi mẹ ưng không thì câu trả lời 10 lần như 1, “mẹ nhiều đồ lắm rồi, không cần mua”. Có nhiều nhặn gì đâu, đúng là mẹ có cả tủ quần áo, nhưng mà quần áo của nhiều năm trước rồi, có những cái đã không còn vừa nhưng vì còn mới, mẹ vẫn để đó.
+Tết năm nào cũng vậy, ai cũng có đồ mới, chỉ mẹ vẫn quanh đi quẩn lại với mấy bộ đồ cũ.
+
+Hôm trước, mình đi sắm cho nhà mấy bộ đồ tết, ai cũng mua được, mà tới mẹ thì mẹ lại không chịu. Mẹ bảo “Làm có tiền tiêu gì cũng chừng mực, để dành cho sau này”. Cáu lắm, vì bình thường mình cũng chẳng tiêu xài gì, tết đến chỉ muốn mua ít đồ cho nhà, dẫu biết, mẹ xót tiền con.
+
+Mấy năm nay trí nhớ của mẹ cũng bắt đầu giảm, chuyện nhớ chuyện quên. Có hôm gọi điện, hỏi con ăn cơm chưa đến tận 2 lần, vì quên. Vậy mà một năm vừa qua mình đưa bao nhiêu tiền cho mẹ, đưa chuyện gì, thời gian nào thì không cần note lại vẫn nhớ, tính toán kỹ lưỡng.
+
+Ba mẹ chi cho con bao nhiêu cũng được, chẳng nghĩ ngợi gì mà tới lúc xài tiền con thì tính từng đồng từng cắc, nghĩ tới nghĩ lui, lo này lo nọ.
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/935987852005867.jpg">

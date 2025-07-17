@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Sách của bé Nhà
+ "
+title: " Sách của bé Nhà
+ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/896110552660264.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2024-11-19 21:18:25 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2024-11-19 21:18:25 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Sách của bé Nhà
+
+Hôm Nhà nhận sách, mình cũng nôn nên 2 đứa đã hẹn đi cf, chụp cho nhỏ vài tấm xinh xinh và để được tặng sách, hồi vẫn còn chưa công bố tên sách cơ.
+
+Page của Nhà, mình chứng kiến hồi nó còn nhỏ xí xi, giờ lớn hơn rồi. Rồi cái hồi mà Nhà nhận được lời mời xuất bản sách, nằm giường trên mà nó giãy đành đạch lên vui mừng. Cho nên là cũng nôn, nôn giùm con nhỏ.
+
+Nhà bảo đọc đi, rồi viết cho Nhà vài chữ review, khen càng nhiều càng tốt. Nhưng mà không biết khen gì nên thôi.
+
+Nếu đã đọc sách của Nhà hay thấy những bài trên page, bạn sẽ thấy đâu đó bản thân mình ở trỏng. Những câu chuyện bình dị, hẳn là đã xảy ra xung quanh ta, ở tuổi thơ, ở hiện tại, chỉ là chuyện
+thường ngày nhưng mình chẳng để ý, chẳng viết ra rồi mang kể cho mọi người nghe như nhỏ thôi.
+
+Mấy hồi chơi chung, nguyên nhóm ai cũng đều có page của riêng từng người, nhưng mà chỉ Nhà là theo được tới bây giờ, chịu viết và cũng hoàn thành được giấc mơ xuất bản sách. Hồi đó mình với VT hay bảo, nhỏ không chỉ giỏi mà còn dám kể nữa, cái gì nó cũng mang đi kể được, hay thiệt.
+
+Sách của Nhà mình hông review gì ở đây đâu, vì có gì đâu mà review, chỉ khi đọc mới thật sự cảm nhận được sự bình dị trong từng câu chuyện, từng con chữ, sẽ thấy nhà rất đỗi bình yên.
+
+#venhaanbatchaohanh
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/896110552660264.jpg">

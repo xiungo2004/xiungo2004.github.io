@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Những bài KPI chạy 1 người xem "
+title: " Những bài KPI chạy 1 người xem "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/483270393944284.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-12-26 21:59:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-12-26 21:59:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Những bài KPI chạy 1 người xem
+
+Hông biết mấy bạn lập page có như tui hông ta. Page tui tùy hứng lắm. Ngày viết này không. Lúc viết cho mình, lúc viết cho mọi người, nhưng có lúc chỉ viết cho một người xem.
+
+Ừa, có những bài viết, tui viết chỉ cho 1 người xem à. Người mà like thì hông nói làm chi. Chớ mà hông like là bắt đầu suy nghĩ:
+“rồi thấy chưa ta”
+“hay trôi rồi ta”
+“hay thấy rồi không like ta”
+
+Dị đó, nên ai mà lỡ lướt qua bài tui á, nhớ like nha, biết đâu tui chạy KPI cho bạn xem đó.
+
+Story trên FB cá nhân tui cũng hay dị. Đăng thì để công khai, nhưng có những bài chỉ muốn cho 1 người xem. Thấy người xem là mừng, hí hửng xóa đi cũng có.
+
+Còn bài này là tui viết cho mọi người, hỏi có ai dở hơi như tui hông thôi à
+
+Xíu
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/483270393944284.jpg">
+
+

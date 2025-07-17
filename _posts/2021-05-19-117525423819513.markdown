@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tạo dựng con đường của riêng mình "
+title: " Tạo dựng con đường của riêng mình "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/117525423819513.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-05-19 13:01:02 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tạo dựng con đường của riêng mình
+Bạn không thể biết, một con đường sẽ dẫn mình đi tới đâu cho tới khi bạn thực sự đi được tới cuối con đường ấy. Mỗi con đường, trước khi đi trên nó, tôi đều suy nghĩ ra rất nhiều viễn cảnh đẹp và hoàn hảo. Cho tới khi tôi thật sự bước đi trên con đường ấy. Nó không đẹp, không trải đầy hoa hồng như tôi vẫn mơ tưởng. Con đường rải đầy gai nhọn khiến chân tôi chảy máu. Khi ấy, tôi mới chợt nhận ra, cái viễn cảnh đẹp đẽ mà tôi tưởng tượng có lẽ kết quả, là đích đến cuối con đường, cũng có thể là mộng tưởng của bản thân tôi. Lúc ấy tôi suy nghĩ, bao giờ tôi mới được nhiều thấy hoa hồng nơi cuối con đường, và liệu tôi có được nhìn thấy nó hay không.
+Tôi có anh bạn, thi đại học xong anh ấy đi du học. Một năm sau, anh trở về và nộp hồ sơ vào trường đại học bình thường trong nước.
+Tôi hỏi anh “Tại sao anh lại về?”
+Anh trả lời “Nơi đó không hợp với anh, anh không thích ở bên đấy nữa.”
+“Vậy anh có hối hận vì mình đã đi không?”
+“Không, anh đi để khuây khỏa, để thay đổi, để tốt hơn”
+Lúc anh trở về, đúng là anh đã trưởng thành hơn trước kia rất nhiều, suy nghĩ của anh cũng đã khác.
+Trong lớp, có những bạn học lớn tuổi hơn tôi, họ chọn nhầm ngành, sau đó thi và chọn lại. Tôi rất ngưỡng mộ những con người ấy. Trong mắt tôi, họ đều là những con người kiên cường, dũng cảm. Họ chọn sai và dám chọn lại. Tôi nghĩ bản thân mình không có can đảm đó.
+Mỗi một quyết định trong tương lai, đặc biệt là về ngành học, việc làm đều cần có sự suy tính kỹ càng, nó ảnh hưởng đến rất nhiều thứ, gia đình, tiền bạc và nhiều hơn là tinh thần của mỗi người. Chọn sai, nó sẽ dày vò bạn trong một khoản thời gian dài. Cho tới khi, bạn chấp nhận mình đã sai và đưa ra một lựa chọn mới. Nhưng đôi khi bạn cũng sẽ sợ, sợ phải lựa chọn một lần nữa, sợ bản thân mình lại sai thêm lần nữa, và sợ mình không còn thời gian để lựa chọn, để thay đổi. Nhưng nếu bạn đã dámcan đảm theo đuổi đam mê, theo đuổi thứ mình thích , điều ấy thì chẳng bao giờ là muộn màng cả.
+Đôi khi tôi tự hỏi mình, liệu tôi có chọn sai ngành không. Vì dường như tôi không thuộc về nó. Nhưng có một điều tôi chắc rằng: tôi yêu nó, và tôi sẽ không từ bỏ. Có lẽ đúng thật, ngành tôi chọn không có con đường dành cho tôi. Nhưng chẳng phải nhà văn Lỗ Tấn đã từng khẳng định: “Kỳ thực trên mặt đất vốn làm gì có đường. Người ta đi mãi thì thành đường thôi” đó sao. Nếu nó đã không có đường cho tôi, vậy tôi sẽ bước đi, tạo con đường của riêng mình. Thời gian bao lâu, có kết quả hay không tôi không dám nghĩ tới. Vì tôi sợ nếu nghĩ tới tôi sẽ chùn bước. Vậy nên tôi chỉ còn biết bước đi, đi mãi, đi mãi.
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/117525423819513.jpg">

@@ -1,0 +1,65 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " TÔI LÀ NGƯỜI MAY MẮN "
+title: " TÔI LÀ NGƯỜI MAY MẮN "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/186078716964183.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-09-20 13:00:58 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+TÔI LÀ NGƯỜI MAY MẮN
+
+Người ta hay nói, trong tình yêu, hai người không nhất thiết phải ở bên nhau cả ngày, không nhất thiết phải giờ giờ phút phút trả lời hay nghe điện thoại của đối phương. Nhưng khi người kia cần, họ sẽ luôn xuất hiện, luôn trân trọng và bảo vệ đối phương. Thật ra không chỉ trong tình yêu, mà tình bạn cũng như vậy.
+
+Tôi là một người may mắn, tôi có những tình bạn đẹp.
+
+Tôi có một người bạn thân. Chúng tôi không ở cạnh nhau, đôi khi đến nửa năm mới có thể gặp được một lần. Chúng tôi cũng rất ít nhắn tin hay gọi điện để hỏi những câu khách sáo như “Dạo này mày sao rồi?” hay “Có khỏe không?”. Chúng tôi chỉ tìm đến nhau khi có chuyện, cả vui lẫn buồn. Khi vui chúng tôi chia sẻ nó cho đối phương để niềm vui có thể được nhân đôi. Khi buồn, chúng tôi tìm đến nhau tâm sự bất kể khi đó là mấy giờ, và cứ thế ngồi nói chuyện với nhau. Chúng tôi nói đến khi nỗi buồn đã được chuyển bớt sang cho người kia. Niềm vui chúng tôi nhân đôi, nỗi buồn chúng tôi chia hai, đó là cách chúng tôi giao tiếp và kết nối với nhau. Bạn thân đôi khi như một thành viên trong gia đình vậy đó, không ở bên nhau thường xuyên nhưng vẫn luôn quan tâm với nhau như người thân.
+
+Tôi có một nhóm bạn ở cùng nhau những năm tháng cấp 3. Sau này lên Đại học, mỗi người một trường, chúng tôi có những mối bận tâm riêng, mối quan hệ riêng và ít khi gặp nhau. Thậm chí có đến nửa năm chúng tôi không gặp và trò chuyện với nhau. Nhưng kỳ lạ, là mỗi lần gặp nhau, ngồi xuống, chúng tôi như quên hết tất cả mọi thứ mà quay trở về làm những người bạn cùng phòng, cứ thế mà nói chuyện không ngừng lại được. Chúng tôi ngồi và kể nhau nghe về cuộc sống của mỗi người, có chuyện gì thú vị, có chuyện gì không vui, thích ai hay ghét ai. Dường như khoảng cách không làm chúng tôi xa nhau, thay vào đó là sự gắn kết hơn mỗi khi gặp lại.
+
+Tôi có một nhóm bạn Đại học, đó là những con người đến từ những tỉnh thành khác nhau, có tính cách, sở thích khác nhau. Nhưng chúng tôi cùng nhau đi ăn, cùng nhau đi chơi, cùng nhau đi học, cùng nhau chạy deadline. Chúng tôi chưa bao giờ dành cho nhau những lời hoa mỹ, hay tốt đẹp gì cả. Khi ở cạnh, chúng tôi toàn châm chọc nhau, cà khịa nhau dưới đủ mọi hình thức, có lẽ đó là cách chúng tôi hòa nhập với nhau. Chúng tôi cũng có những lúc cãi nhau, những lúc giận hờn không nhìn mặt. Nhưng rồi chẳng hiểu sao vẫn ở bên nhau, làm bạn đến bây giờ. Có lẽ do duyên số.
+
+Tôi có những người bạn cùng phòng từ những ngày tháng cấp 3 lên đến Đại học. Họ cùng tôi ăn, cho tôi ngủ ké mỗi khi sợ ma. Họ là những người đã tận tình chăm sóc tôi mỗi khi tôi ốm. Họ là người khiến tôi tự hào khi nhắc đến bạn cùng phòng.
+
+Tôi phải nhắc lại một lần nữa rằng tôi may mắn. May mắn vì có những người bạn tốt. Có lẽ nhiều người khi đọc bài viết này sẽ thắc mắc là họ tốt với tôi ở điểm nào. Họ ở bên cạnh tôi, cùng tôi trải qua những ngày tháng tươi đẹp của tuổi trẻ, để những năm tháng ấy tôi không phải cô đơn, lẻ bóng một mình. Như vậy, họ đã rất tốt với tôi rồi. Bạn bè không cần phải luôn luôn cạnh nhau, tặng nhau những món đắt tiền hay nói những lời hoa mỹ. Bạn bè chỉ cần đối xử với nhau bằng sự chân thành, thế là đủ.
+
+Có thể sau này, họ sẽ không đi cùng tôi nữa, cũng có thể vì một số lý do gì đó chúng tôi không thể làm bạn bè tiếp được nữa thì cũng không sao cả. Ít ra, trong khoảng thời gian tươi đẹp nhất của tuổi trẻ, tôi đã có với họ những kỉ niệm đẹp, bình dị và khó quên.
+
+P/S: Ảnh bên dưới là một bộ phim hoạt hình tôi rất thích
+#NguyetHa
+#tinhban
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/186078716964183.jpg">

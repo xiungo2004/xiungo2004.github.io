@@ -1,0 +1,49 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " “Ta là đạo diễn trong bộ phim cuộc đời của chính...  "
+title: " “Ta là đạo diễn trong bộ phim cuộc đời của chính...  "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/527751149496208.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-03-05 22:18:46 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-03-05 22:18:46 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+“Ta là đạo diễn trong bộ phim cuộc đời của chính mình còn Vũ Trụ là nhà tài trợ”
+
+Mình từng nghe câu nói, đại khái như thế này: Cuộc đời của mỗi người đều được chính bản thân chúng ta xem qua và chấp nhận. 
+
+Mình tin vào điều đó. Mình tin mỗi sự kiện xảy ra trong đời đều đã được định sẵn từ trước. Nhưng đối diện, cư xử với nó như thế nào là lựa chọn của mỗi người. 
+
+Như một bộ phim, kịch bản đã có sẵn, nhưng để có một bộ phim chất lượng, đạo diễn phải là người chỉ đạo xem qua và xử lý, quay làm sao để tạo ra bộ phim chất lượng, định hướng hình ảnh, nghệ thuật mà bộ phim này hướng tới.
+
+Mình không chỉ là đạo diễn cho chính cuộc đời mình mà còn là diễn viên, diễn sao cho thật hay, thật sống động dưới sự hỗ trợ của vũ trụ này. Mình luôn vẽ cuộc đời của bản thân theo mong muốn của chính mình, làm những gì mình thích, xem những gì mình thấy hay, tùy cơ ứng biến với mọi việc trong cuộc sống này. 
+
+Ta chỉ có một cuộc đời, ta chỉ làm đạo diễn có một lần, vậy nên hãy dồn hết tâm sức để tạo ra sản phẩm chất lượng , để cuối đời nhìn lại, ta mỉm cười vì những điều mình đã làm.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/527751149496208.jpg">

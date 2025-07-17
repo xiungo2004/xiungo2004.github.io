@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+title: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1038302438441074.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-06-03 10:50:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-06-03 10:50:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Dường như mình đã hiểu được cảm giác của mẹ ngày ấy
+
+Hơn 2 năm trước, mình được chẩn đoán mắc bệnh cường giáp (tuyến giáp độc). Lúc đó, mình vẫn cười, nghĩ rằng, vẫn còn may, chỉ cần uống thuốc, hơi lâu xíu, nhưng không cần đụng dao kéo.
+
+Nhưng mẹ thì khác. Mình thấy mẹ đượm buồn, mất ngủ, cứ thở dài, ánh mắt lúc nào cũng lo lắng. 2 năm ròng rã, mình có thể quên lịch tái khám, quên uống thuốc nhưng mẹ lúc nào cũng nhớ. Có lần đang đi xe, mẹ nói bâng quơ: không biết cái nghiệp sao mà sinh mấy đứa con, anh hai cũng bệnh, con cũng bệnh, cứ thuốc thang triền miên.
+
+Mình cũng chỉ cười: xui thì chịu thôi chớ biết sao được. Lúc ấy mình nghĩ, có việc gì đâu mà phải lo lắng quá, ai mà không bệnh, không bệnh này thì bệnh khác thôi, mình bệnh còn chưa xoắn lên, mẹ đã thở dài suốt ngày.
+
+Cho đến hôm nay, mẹ chụp giấy khám của mẹ qua cho mình. Cũng là căn bệnh ấy, nghĩ tới mẹ cũng phải thuốc thang như mình, hứng chịu những tác dụng phụ của thuốc, của bệnh mang lại, nước mắt cứ chảy. Dường như phần nào, mình hiểu được cảm giác lo lắng, khó chịu, bất lực của mẹ lúc ấy, khi người thân bệnh tật, bản thân lại không thể làm được gì.
+
+Trước đây, mình là đứa ghét uống thuốc, có thể lén vứt thuốc đi, nghĩ rằng bệnh rồi cũng tự hết.
+Vậy mà giờ đây, mình đã uống thuốc hơn 2 năm không ngừng nghỉ.
+
+Và có lẽ, mẹ cũng sẽ bắt đầu một hành trình dài giống mình.
+
+Có những điều chỉ khi chính mình trải qua mới thực sự thấu hiểu được cảm giác của người khác.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1038302438441074.jpg">

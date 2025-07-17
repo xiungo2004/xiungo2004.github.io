@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm ấy trên đường từ quận về, đi ngang qua cây cầu "
+title: " Hôm ấy trên đường từ quận về, đi ngang qua cây cầu "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/344335464471840.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-30 13:05:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm ấy trên đường từ quận về, đi ngang qua cây cầu. Nhìn mặt hồ êm ả, tôi bỗng đi chậm, thả trôi cảm xúc, suy nghĩ của mình.
+
+Dừng xe lại, trèo lên lan can, dang rộng cánh tay hít thở gió trời.
+Buông thả.
+Rơi xuống.
+Tự do.
+Mát lạnh.
+Trong phút chốc, tôi cảm nhận rất rõ về sự tự do. Tự do không chút ràng buộc gì cả. Tôi sẽ là tôi. Như một vật thể rơi tự do, không gì có thể níu lại được. Nơi ấy không có nỗi buồn, không có niềm vui, không có suy nghĩ, tất cả mọi thứ đều trống rỗng, thoải mái vô cùng. Nơi ấy, tôi thấy vai mình nhẹ lắm, không có bất kỳ trách nhiệm gì cả, dù là trách nhiệm với chính bản thân mình. Nơi ấy, cơ thể tôi nhẹ, đầu óc và cả tâm hồn tôi cũng trở nên nhẹ nhàng. Thế rồi tôi sẽ được hòa mình vào dòng nước mát. Từ từ, từ từ nó trở nên lạnh lẽo, lạnh lẽo đến đáng sợ.
+
+Tiếng còi xe phía sau vang lên, tôi trở về với thực tại.
+Hoảng hốt.
+Tôi bỗng thấy sợ chính bản thân mình.
+
+#Xíu
+#ChuyencuaXiu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/344335464471840.jpg">

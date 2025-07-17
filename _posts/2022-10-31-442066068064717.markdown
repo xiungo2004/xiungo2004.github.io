@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bạn không dám nhờ tớ chở ra sân bay, bạn biết tớ ghét sân bay "
+title: " Bạn không dám nhờ tớ chở ra sân bay, bạn biết tớ ghét sân bay "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/442066068064717.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-31 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bạn không dám nhờ tớ chở ra sân bay, bạn biết tớ ghét sân bay. Bạn sợ tớ nhớ lại chuyện xưa mà buồn lòng.
+
+Thật ra, thay vì nói ghét, tớ sợ sân bay thì đúng hơn. Cùng một nơi, nhưng lại hai bức tranh đối lập nhau.
+
+Bên này thì người ta quấn quýt nhau, lưu luyến chẳng muốn rời. Giọt nước mắt rơi vì người thân, bạn bè, hoặc người thương của mình sắp rời đi đến một vùng đất mới. Muốn giơ tay lên níu giữ, nhưng chẳng thể. Vì họ biết, sự rời đi nào cũng có lý do của nó. Lần chia tay này, biết bao giờ mới gặp lại, và ngày gặp lại, tình cảm liệu có còn như xưa, không ai biết trước được. Nơi đây, có người trao nhau lời hứa hẹn vào lần gặp mặt tiếp theo. Nhưng có người lại không, họ chỉ dám hẹn “gặp nhau ngày gần nhất có thể”. Bởi tương lai luôn là một ẩn số đối với con người ta.
+
+Cũng sân bay đó, nhưng một bên là chia ly, một bên lại là đoàn tụ. Đoàn tụ sau tháng ngày xa cách, người ta cũng ôm nhau, quấn quýt nhau, nhưng lần này, họ sẽ cùng nắm tay nhau về nhà trong niềm hạnh phúc hân hoan. Đón chờ họ là tiếng cười, là niềm vui chứ chẳng phải giọt nước mắt chia ly.
+
+Tớ rất sợ phải ra sân bay. Sân bay luôn khiến người ta ý thức và cảm nhận rõ hơn bao giờ hết của cuộc chia ly. Nếu tớ là người tiễn đưa, ghé mắt sang bức tranh bên kia, tớ sẽ chạnh lòng, buồn rầu và không tránh khỏi so sánh, sao bên kia người ta hạnh phúc, còn mình thì buồn đến vậy. Còn nếu tớ ở bức tranh của sự đoàn tụ, tớ cũng sẽ buồn cho những con người sắp phải xa nhau.
+
+Dù ở vị trí nào, nỗi buồn cũng sẽ xâm chiếm tâm hồn tớ. Sân bay rộng lớn quá, sơ hở là có thể lạc mất nhau. Máy bay đưa con người ta đi xa quá, chẳng biết ngày trở lại là khi nào? Kẻ đi buồn, người ở lại cũng chẳng vui.
+
+Mong tớ, bạn và những người xa nhau sẽ sớm gặp lại nhau, vào một ngày gần nhất có thể.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/442066068064717.jpg">

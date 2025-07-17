@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đứa con miền núi mê biển"
+title: " Đứa con miền núi mê biển"
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/447680157503308.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-08 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Đứa con miền núi mê biển
+
+Tớ là đứa con của vùng Tây Nguyên nắng gió. Nhìn thấy sông còn ít, chớ đừng nói chi được ngắm biển lớn. Có lẽ cũng vì thế nên tớ thích biển, tiếng sóng vỗ rì rào, bài ca của đại dương khiến tớ mê.
+
+Mỗi khi có dịp nghỉ lễ, bạn bè thì muốn đi Đà Lạt, hưởng cái không khí lạnh nơi đó, còn tớ thì muốn xuống biển cơ, biển cũng lạnh mà, mát nữa. 
+
+Mỗi lần đi biển, bạn hay đùa “dẫn con Ý nó ra biển, chớ nó miền núi chưa biết mùi biển”. Cũng đúng mà, tớ có được đắm mình trong biển bao giờ đâu. Biển xa tớ quá, nên gia đình tớ họa hoằn lắm mới đi thôi. Từ ngày học dưới Sài Gòn, đi biển khoảng 2 tiếng rưỡi, 3 tiếng, thế là tớ thích, ưng đi miết thôi. Nhiều khi thích tới mức, có thể đi vào lúc 2h sáng, xuống kịp ngắm biển chút xíu, lượn vài vòng Vũng Tàu và rồi lại lên xe về vào lúc 1h chiều.
+
+Mà ngộ lắm nha, tớ thích biển, nhưng lại chẳng ăn được hải sản. Tôm, mực thì ăn được, mà ít thôi, ăn nhiều cũng hông được. Ai nói mê ai là mê cả đường đi lối về đâu, tớ mê biển nhưng có mê hải sản mô. 
+
+Tớ cũng không tắm biển được, nước biển khiến da tớ ngứa, sưng, đỏ. Nên mỗi khi xuống biển, tớ chỉ có thể đi dạo, chỉ cho bàn chân chạm nhẹ vào biển thôi. Nhiều đứa chửi tớ “không tắm biển được mà đòi đi biển, cái nết kỳ”. Ừ thì cái nết kỳ dị đó, đâu phải thích cái gì là có thể có được đâu. Tớ thích biển, ngắm biển từ xa thôi là đủ rồi. 
+
+Mỗi khi làm việc, tớ thích đeo tai nghe, nghe tiếng sóng biển rì rào.
+
+Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/447680157503308.jpg">

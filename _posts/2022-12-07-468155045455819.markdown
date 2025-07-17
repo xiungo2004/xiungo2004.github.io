@@ -1,0 +1,90 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đi làm cho cố dô rồi về cũng xin tiền em "
+title: " Đi làm cho cố dô rồi về cũng xin tiền em "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/468155045455819.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-12-07 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-12-07 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+“Đi làm cho cố dô rồi về cũng xin tiền em”
+
+Tui, tui nói tui á.
+
+Tui sinh viên năm 4 rồi, kết thúc chương trình học rồi, đi làm rồi, nhưng về nhà tui vẫn là con người nghèo khổ ngửa tay xin tiền đứa em mới học lớp 5. Ai biểu nó có nhiều tiền chi.
+
+Đợt này về nhà, tui thu hoạch được cũng kha khá. Hôm bữa mượn cây bút chì của bé 4, thấy đẹp quá, tính thương lượng:
+
+- Bé mua bút này nhiêu á?
+- 15k á
+- Giờ mình thương lượng đi, chị ba mua lại của bé 10k, ok
+- Hả??? Thôi mai đi học bé mua cho
+- Bé mua cho á nha, chớ hông có tiền đâu đó.
+- Biết gòi, bé mua cho.
+
+Nhưng hôm sau đi học, tiệm đóng cửa, không mua được.
+
+- Dị thôi, mai chị ba xuống SG rồi mua sau cũng được.
+- Dị để mai bé cho tiền chị ba mua
+- Ghê, giàu bay
+
+Đó, nhưng thấy thương, cái hông nỡ lấy tiền nó. Tới giờ tui vẫn chưa mua được bút.
+
+—----------------------------
+
+- Chiều chị ba uống nước ngọt không?
+- Bé mua nha, chớ chị ba hông có tiền, nghèo
+- Thì bé mua mà, chị ba ăn gì nữa không? Hay ăn bánh tráng đi, chị ba muốn ăn bánh tráng trộn hay bánh tráng chấm.
+- Gì cũng được, mà k có tiền đâu đó.
+- Biết rồi, tiền bé, nhưng chiều chị ba chở bé đi mua
+- Ok
+
+Dị là chiều đó, nó mua chai nước ngọt bự, 2 bịch bánh tráng, tui chỉ phụ trách chở đi mua và về ăn.
+
+—---------------------------
+
+Mấy bữa tui ở nhà, ba thấy con em tui tiêu nhiều tiền quá hỏi:
+
+- Bữa giờ chị ba về tổn thất hết nhiêu rồi.
+- Con hông biết nữa, để mang ra đếm đã.
+
+Thế là nó mang tiền ra đếm, 1 cọc tiền, toàn tờ 1k, 2k, 500 đồng cũng có nốt. Nhỏ ngồi đếm miệt mài chốt lại tổn thất hết 4 chục.
+
+Ba bảo tui: Con về nó mới lấy tiền ra, chớ ở nhà cái chi cũng vòi ba mẹ, 1 ngàn cũng không lấy ra.
+
+Em tui đang tiết kiệm tiền, bảo để dành tết bao cả nhà đi ăn. Tui có nên suy nghĩ ăn gì từ bây giờ hông ta???
+
+_Xíu_
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/468155045455819.jpg">
+
+

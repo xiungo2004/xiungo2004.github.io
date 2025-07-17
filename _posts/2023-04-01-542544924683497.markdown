@@ -1,0 +1,51 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm nay, ngày 1/4, ngày Cá tháng Tư "
+title: " Hôm nay, ngày 1/4, ngày Cá tháng Tư "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/542544924683497.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-04-01 19:38:28 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-04-01 19:38:28 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Hôm nay, ngày 1/4, ngày Cá tháng Tư
+
+Mọi người hay nói rằng tháng 4 là tháng của những lời nói dối ngọt ngào. Ngọt ngào thật sao? Lúc nghe thì ngọt, lúc vỡ lẽ thì lại là đắng chát.
+
+Tui tự hỏi, sao lại gọi là ngày Cá tháng Tư, ngày dành riêng cho những điều dối trá. Trong khi đó, ngày thường chúng ta cũng có chân thành với nhau là mấy đâu, phải khum nhỉ?
+
+Ngày thường nói dối rất tự nhiên, không cần suy nghĩ đắn đo. Ngày này lại bày biện, nghĩ suy lời nói dối để chẹo ghẹo nhau, trở thành tiếng cười cho mọi người, nghĩ cũng dui.
+
+Còn nữa nè, có người lại chọn ngày nói dối để bày tỏ thật lòng mình. Có ai ở đây đã từng như vậy không?
+
+Bạn ấy, ngỏ lời thương tui vào đầu tháng 4, bạn bảo, nếu tui chấp nhận thì đó là lời nói thật. Nếu không thì là lời nói dối, và nói dối vào ngày 1/4 thì có thể tha thứ.
+
+Bạn có từng như thế không? Mượn nói dối để nói thật.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/542544924683497.jpg">

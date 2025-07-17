@@ -1,0 +1,70 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chuyến đi bất ổn "
+title: " Chuyến đi bất ổn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/390257776546275.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-08 13:00:08 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Chuyến đi bất ổn
+
+Vào một đêm khuya thanh mát, ba đứa tôi đang ngồi over9, nói chuyện xàm xàm. Rồi không biết từ đâu, đứa nào đó nói đến 2 chữ Vũng Tàu. Một đứa bảo hay đi Vũng Tàu ngắm bình minh, chiều mai về, dù sao mai cũng chủ nhật. Và đúng kiểu 1 đứa dám rủ, 2 đứa dám đi. 2h sáng, chúng tôi xách đầu nhau xuống Vũng Tàu.
+
+Tới Vũng Tàu vào khoảng 5h30. Lạnh, lạnh thấu xương. Cứ ngỡ như đang ở Đà Lạt vậy đó. Nào có ngắm được bình minh, chỉ toàn thấy những cơn sóng lớn thi nhau vỗ vào bờ, bầu trời nhuộm đầy vẻ âm u. Biển động mà, làm chi có nắng, lấy đâu ra bình minh.
+
+Tôi nhắn tin cho người bạn phương xa:
+- Đố m t đang ở đâu?
+- Đang ở biển. Sao t có linh cảm mi đang ở biển.
+Con nhỏ hiểu tôi ghê, linh cảm đúng dữ. Tui bảo nó xuống ngắm bình minh, mà không ngắm được. Nó la, biển động, bình minh đâu mà ngắm. Nó bảo tối qua mà biết sẽ không cho tụi tôi đi. Nhưng muộn rồi, chúng tôi đã có mặt ở Vũng Tàu. Lúc đi, tôi còn sợ nắng, nhờ bạn về lấy giùm nào là váy chống nắng, nào là khăn rằn, nào là kem chống nắng. Xong sao, xuống có dùng được mô, lạnh gần chớt.
+
+Ngắm biển và tận hưởng cái lạnh thấm vào từng thớ thịt xong, chúng tôi kéo nhau lên Ngọn Hải Đăng chụp hình, sau đó qua Cổng Trời. Rồi tót vô quán cà phê, đánh một giấc tới trưa, chớ buồn ngủ quá mà. Trời mưa lất phất, ngồi quán xá mà ngủ ngon dễ sợ.
+
+Dạo này tôi vậy đó, có những chuyến đi bất chợt và đầy bất ổn.
+
+Hôm thì sáng đang ngồi trên lớp, nhóm bạn kêu hay đi hóng gió biển, trưa đã leo lên xe, phượt xuống Vũng Tàu. Xuống tới nơi, đi chơi còn tranh thủ về phòng chạy deadline cho kịp. Vậy đó, mà vẫn đi, vẫn vui, vẫn hài lòng với chuyến đi chớp nhoáng ấy.
+
+Hôm thì tôi đang buồn, đang chán, nhắn cho người bạn, đi Cần Giờ hông? Hôm sau hai đứa tót xuống Cần Giờ, dạo vài vòng đảo Thạnh An, ăn hải sản, xong về.
+
+Có hôm thì mới đó ngồi lên kèo mai sinh nhật đi đâu chơi, đi với những ai. Tối đấy tôi xách balo về quê, bỏ lại hết mọi thứ ở Sài Gòn. Ngồi đợi xe từ 10h tối đến 2h sáng, trải qua cái sinh nhật đáng nhớ tuổi 21 ngoài đường luôn. Khùng ghê vậy đó.
+
+Nhưng được cái vui. Cảm thấy mình còn trẻ, còn có quyền làm những trò khùng điên, không lo nghĩ quá nhiều, không gánh trên vai quá nhiều trách nhiệm và nghĩa vụ. Nên thôi, còn có thể tùy hứng thì tùy hứng thôi. Tới một độ tuổi nào đó, ta chẳng thể tùy hứng như vậy được nữa.
+
+#Xíu
+#ChuyencuaXiu
+#Tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/390257776546275.jpg">

@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tôi có một người anh trai "
+title: " Tôi có một người anh trai "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/263438145894906.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-01-21 12:59:30 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tôi có một người anh trai
+
+Bạn có anh trai hông? Mình thì có một người anh. Và mình từng cảm thấy bất hạnh về điều đó. Anh mình bị bệnh động kinh, anh không thể trở thành một người anh trai bình thường như bao người anh trai khác ngoài kia. Lúc nhỏ, mình và anh học chung lớp, anh làm sai và mình luôn là người chịu đòn. Lên cấp 2, anh không đi học được nữa, anh bắt đầu lấy sách vở mình vứt đi. Rất nhiều, rất nhiều lần như thế. Nhiều đến mức mình chẳng thể đếm được. Đến mức mình phải bỏ hết tất cả sách vở, tất cả đồ dùng học tập vào tủ và khóa lại. Nghe cứ như phòng trộm đúng không? Nhưng sự thực là vậy, chuyện ấy tới bây giờ vẫn không thay đổi. Lúc ấy mình đã nghĩ “Tại sao mình lại có một người anh như vậy?”, “Tại sao anh làm sai mà ba mẹ không thể làm gì được anh?”. Rất nhiều, rất nhiều câu hỏi tại sao. Và câu hỏi lớn nhất luôn là “Tại sao mình lại bất hạnh như vậy?”.
+
+Sau này, mình bắt đầu đi học xa nhà, trải nghiệm nhiều hơn, biết suy nghĩ hơn, mình nhận ra rằng:
+Ngoài gia đình, mình còn có bạn bè, còn anh chỉ có gia đình.
+Mình được đi nhiều nơi, còn anh chỉ có thể quanh quẩn nơi xóm nhỏ.
+Mình được trải nghiệm nhiều điều, vui có, buồn có, thất vọng có, hạnh phúc có, còn anh, ngày nào cũng trôi qua thật tẻ nhạt với những chuyện lặp đi lặp lại.
+Ngoài gia đình, mình gặp nhiều kiểu người, người thương mình, người mình thương, người ghét mình, người mình ghét, còn anh chỉ gặp 2 kiểu người, người ghét anh và người thương hại anh.
+Mình biết thế nào là yêu, còn anh có lẽ cả đời này cũng không biết yêu là gì.
+
+Lúc mình nhận ra được những điều này cũng là lúc mình biết, người bất hạnh không phải là mình mà là anh. Mình biết bản thân thật tệ hại và nông cạn. Mình nhớ đến ngày còn nhỏ, anh cũng đã từng bảo vệ mình khi bị bạn bè trêu chọc. Anh cũng từng cùng mình chịu đòn roi của ba mẹ mặc dù anh không làm gì sai. Có lẽ thời gian đã khiến mọi thứ thay đổi.
+
+Mình đã tự nhủ với bản thân, mình có thể không kiếm được nhiều tiền, nhưng nhất định phải kiếm đủ tiền, để không chỉ lo được cho bản thân mà còn lo được cho anh khi ba mẹ già đi. Nhưng những người xung quanh luôn nói rằng, mình là con gái, lấy chồng theo chồng, lo cho nhà chồng, sao lo được cho anh. Vậy nên, trong bài viết này mình cũng muốn nhắn nhủ đến người chồng tương lai của mình “Anh có thể không thương anh hai, có thể không lo cho anh hai, nhưng đừng bao giờ ngăn cản em làm điều đó.”
+
+Ảnh: Anh mình 23 tuổi, và đây là lần đầu tiên anh có chiếc bánh sinh nhật của riêng mình
+
+#Xíu
+#chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/263438145894906.jpg">

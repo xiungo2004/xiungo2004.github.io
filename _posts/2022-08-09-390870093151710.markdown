@@ -1,0 +1,55 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Kể các bạn nghe, dạo này mình mới khởi nghiệp, xong thấy bản thân giỏi quá chừng "
+title: " Kể các bạn nghe, dạo này mình mới khởi nghiệp, xong thấy bản thân giỏi quá chừng "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/390870093151710.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-09 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Kể các bạn nghe, dạo này mình mới khởi nghiệp, xong thấy bản thân giỏi quá chừng. Mình giỏi đẻ, nhưng mà là đẻ chữ. Hôm ấy có vị khách tìm đến yêu cầu mình viết thư cho sếp, 1000 chữ lận. Mà khách hổng kể chi nhiều hết á, đâu đó cỡ 300 chữ à. Xong mình kiểu, chết rồi, dị rồi viết sao, nói gì cho được 1000 giờ ta. Vậy đó, than vãn vậy thôi, chớ mình ngồi tưởng tượng mình là vị khách đó, được chị sếp quan tâm, chăm sóc, thế mà viết được 1000 chữ, vi diệu quá chừng.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+Hôm khác, vị khách khác tìm đến, đặt combo luôn, mừng quá trời mừng. Khách bắt đầu kể chuyện, kể từ 9h tối đến 12 rưỡi mới xong. Thế là nhóm mình ngồi trực chờ từng tin nhắn. Hóa ra khi yêu, người ta nhớ nhiều chi tiết đến vậy, từ những ngày đầu quen nhau, từng dấu mốc sự kiện trong cuộc tình đến khi xa nhau đau đớn ra sao. Đọc từng dòng tin nhắn, mình có cảm giác như đã cùng đồng hành, chứng kiến xuyên suốt mối tình ấy. Tình yêu thật kỳ lạ, nó khiến trí nhớ ta như một thước phim, có thể tua đi, tua lại chìm vào những kỷ niệm đẹp mà bi thương ấy.
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\
+Tiệm mình là Tiệm tỏ tình, nhưng không phải lúc nào khách cũng đến book viết thư đâu nha. Có hôm, khách book tụi mình đọc sách. Lúc đầu chúng mình tính không nhận, vì nó không đúng với phương châm của Tiệm lắm. Nhưng bạn nhờ giúp đỡ, hơn nữa Tiệm đối với những cô gái trẻ như tụi mình là nơi để rèn luyện, nên sau khi bàn bạc, nhóm đồng ý. Lúc bạn nói chọn giọng, mình cứ nghĩ sẽ chọn giọng của Gao, vì giọng hay, nghe nhẹ nhàng. Còn nói thật, mình hơi tự ti về giọng nói của bản thân, thấy nó vẫn chưa đủ hay, chưa đủ tốt. Ai có dè, bạn chọn giọng mình. Mình nhắn trong group Tiệm “Ê khách có lộn hông tụi bay, hay nó lừa”. Vì mình nghĩ sẽ chẳng ai chọn giọng mình cả. Thế mà thật, khách chọn giọng mình, còn chuyển cọc trước, nghiêm túc lắm, làm mình tự tin hơn hẳn.
+
+Vậy đó, Tiệm mới lập thôi mà biết bao nhiêu chuyện thú vị. Mình đã nhận được kha khá sau từng ấy ngày. Thời gian tới, chắc cuộc sống mình sẽ thú vị hơn với những vị khách thú vị, những câu chuyện thú vị.
+
+#Xíu
+#ChuyencuaXiu
+#Tiệmtỏtình
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/390870093151710.jpg">

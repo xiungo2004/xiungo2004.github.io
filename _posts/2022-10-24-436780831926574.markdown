@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Nhà tui hay gọi cho nhau lắm, hầu như ngày nào cũng gọi dị á "
+title: " Nhà tui hay gọi cho nhau lắm, hầu như ngày nào cũng gọi dị á "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/436780831926574.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-24 12:53:09 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Nhà tui hay gọi cho nhau lắm, hầu như ngày nào cũng gọi dị á. Gọi kể ở nhà ra sao, như nào, ăn gì. Bé 4 thì sẽ kể nó đi học cô nói gì, bạn bè ra sao, đi tập múa bài gì, đều kể hết. Tui với nó cách nhau gần cả con giáp, dị mà nói chuyện cũng hợp rơ lắm.
+
+Mấy ngay có bạn từ quê vào Sài Gòn chơi, tui đi chơi hơi nhiều, tối nào cũng đi. Nên mấy nay mẹ gọi, tui chỉ nói sơ qua 1 2 câu rồi cúp máy. Nay về sớm, gọi cho bé 4, nó bảo nó giận tui rồi.
+
+- Bé giận chị ba rồi
+- Mắc gì giận, ai làm gì
+- Bữa giờ không gọi, gọi chị 3 cũng k nghe.
+- Thôi xin lỗi mà, đừng giận, giận buồn á
+- Hứ, chị 3 không thèm gọi về, bé gọi chị 3 cũng không được, bé không buồn hả?
+
+Tự nhiên thấy nó lớn ghê, nói chuyện như bà cụ non.
+
+Thương nó, bữa giờ tui thực tập xong, lần nào gọi cũng hỏi "Chị ba làm báo cáo xong chưa? Sao không về?". Bé cứ nghĩ tui học xong là sẽ về nhà ở luôn, mà hổng biết tui còn phải đi làm. Còn nhỏ, nên trong mắt nó, việc học là quan trọng nhất, học xong là coi như xong nhiệm vụ, về nhà.
+
+Cũng đúng, xưa tui cũng đặt ra cái đích là xong đại học, giờ mới biết, xong đại học nó không phải là đích đến cuối cùng, tui chỉ mới vượt qua một trạm thôi, còn cả con đường dài phía trước đợi tui chạy. Có chạy mỏi chân, vẫn phải tiếp tục chạy nếu không muốn bị tụt lại phía sau.
+
+Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/436780831926574.jpg">

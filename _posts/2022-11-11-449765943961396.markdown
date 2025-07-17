@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Lần đầu đi máy bay"
+title: " Lần đầu đi máy bay "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/449765943961396.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-11 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Lần đầu đi máy bay
+
+Lúc đi, tớ mang tâm trạng vui vẻ lắm, vì sắp được đi chơi, sắp gặp bạn bè. Nhưng mà, trên đường ra sân bay, tâm trạng tớ bắt đầu xuống dốc, tụt dần tụt dần, tớ không cách nào kéo lên được. Cảm giác khó chịu, bứt rứt của năm xưa, tất cả đều quay lại, tớ sợ mình lại lỡ chuyến.
+
+Tới sân bay, cả người tớ đều khó chịu, chóng mặt. Không biết do cơ thể tớ yếu hay tâm trí bài xích với sân bay nên thế. Tớ đi chậm vô cùng, cảm giác đôi chân không phải của mình vậy đó.
+
+Biết tớ sợ máy bay, lại lần đầu tiên đi, nên bạn đưa tớ vào trong, in vé cho tớ. Tớ 21 tuổi, chẳng biết gì, chỉ biết lẽo đẽo phía sau bạn, bạn đi đâu, tớ đi đấy. Tới cửa an ninh, bạn bảo:
+- T không đi với m tiếp được rồi, đoạn đường này m phải tự đi.
+
+Buồn hiu, bạn bảo đi chơi mà, lên tinh thần đi chứ. Bạn dặn tớ cái gì nữa á, mà chẳng nhớ gì cả.
+
+Tớ cứ quay đầu nhìn bạn, bạn vẫn đứng đó, tự nhiên thấy an tâm. Bỗng nhớ đến anh ngày xưa, ngày đó, anh có quay đầu lại mong chờ bóng dáng của tớ không nhỉ.
+
+Tớ hi vọng không, vì nếu a quay lại mà tớ chẳng ở phía sau thì a sẽ buồn và hụt hẫng lắm.
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/449765943961396.jpg">

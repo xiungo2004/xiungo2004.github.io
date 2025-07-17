@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mỗi khi ai đó bảo mình đi làm việc gì đó, mình thường nói Xíu "
+title: " Mỗi khi ai đó bảo mình đi làm việc gì đó, mình thường nói Xíu"
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/223568916548496.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-17 12:33:39 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Mỗi khi ai đó bảo mình đi làm việc gì đó, mình thường nói "xíu".
+Sáng mẹ kêu dậy, mình sẽ "xíu nữa mẹ".
+Anh bảo mình đi ăn sáng, mình sẽ "xíu".
+Mẹ bảo mình đi đón em, mình sẽ "xíu nữa".
+Mẹ bảo mình dọn cơm ăn, mình sẽ "xíu nữa".
+Nói chung lại, phàm là những việc mình không thích làm, hoặc mình đang lười nhưng phải làm, mình sẽ hẹn "xíu"
+
+Và tất nhiên, mình không biết cái "xíu" này kéo dài bao lâu. Có thể là 2 3 phút sau, có thế là 1 tiếng sau, cũng có thể sẽ lâu hơn. Mặc dù mình nói "xíu" nhưng nó có "xíu" thật hay không thì mình không biết. Như vậy có được gọi là mắc bệnh trì hoãn không ta? Mình nghĩ chắc có 😅
+
+Anh bảo mình "Xíu hoài, đổi tên thành Xíu luôn đi". Nghe tới đây thì mình thấy thích tên này, và chọn nó làm bút danh.
+
+"Xíu" đơn thuần là nơi mình chia sẻ những điều bình dị diễn ra quanh mình, nơi mình viết lên những cảm xúc, suy nghĩ của bản thân.
+
+Nếu bạn có rảnh, hãy ghé lại đây, mình tâm sự một xíu, trò chuyện một xíu, than vãn một xíu, một xíu thôi nha, rồi mình lại quay về với cuộc sống bộn bề ngoài kia
+
+#Xíu
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/223568916548496.jpg">

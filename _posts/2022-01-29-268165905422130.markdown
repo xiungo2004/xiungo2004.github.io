@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Gửi em, những đứa trẻ chưa kịp chào đời "
+title: " Gửi em, những đứa trẻ chưa kịp chào đời "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/268165905422130.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-01-29 13:11:31 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Gửi em, những đứa trẻ chưa kịp chào đời
+
+Chị không biết em là trai hay gái, mặt mũi thế nào, có đẹp trai không, có xinh gái không, có điểm gì nổi bật hay chỉ là một đứa trẻ bình thường, chị chỉ muốn gửi vài lời đến thiên thần bé nhỏ, dù rằng em chẳng thể thấy được.
+
+Chị biết thế giới này tàn nhẫn khi cho em chút sự sống, cho em cảm nhận được hơi ấm từ mẹ rồi nhẫn tâm đoạt mất tất cả. Em chưa một lần được nhìn thấy ánh mặt trời ấm áp, chưa một lần được ba mẹ ôm trong lòng vỗ về nâng niu, chưa một lần được biết cuộc đời có hình dạng ra sao đã phải tạm biệt nó.
+
+Có thể em sẽ oán trách cuộc đời, oán trách cha mẹ không bảo vệ được em. Em sẽ buồn vì nghĩ rằng họ sẽ quên mất em khi có những đứa con khác. Nhưng em ơi, có lẽ họ có nỗi khổ riêng chẳng thể nói thành lời. Họ không muốn mất em, họ cũng đã làm tất cả để bảo vệ em, nhưng có lẽ cái duyên giữa em và họ chỉ dừng lại ở đó. Tháng tháng, năm năm, nỗi đau về sự ra đi của em có thể đã nguôi ngoai trong lòng họ, nhưng họ chưa từng quên em. Cuộc đời bất công với em, nhưng họ luôn giữ em trong tim, góc nhỏ nào đó và chưa từng quên, dù chỉ là một giây, một phút.
+
+Vậy nên, nếu được, hãy tha thứ cho họ, em nhé!
+
+Ảnh: Pinterest
+
+#Xíu
+#chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/268165905422130.jpg">

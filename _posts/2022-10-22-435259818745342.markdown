@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Anh còn thương em không? "
+title: " - Anh còn thương em không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/435259818745342.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-22 13:00:06 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Anh còn thương em không?
+- Lại nữa rồi
+- Phiền lắm đúng không?
+- Không phiền, chỉ là cảm giác như, em không cảm nhận được, nên mới phải hỏi.
+- Ò
+- Còn thương, thương rất nhiều..
+
+Anh đừng trách sao em hỏi mãi một câu nhé. Không phải em không tin anh đâu, chỉ là, em muốn nghe lời khẳng định từ anh mà thôi.
+
+Con gái chúng em là vậy đó. Biết người ta thương mình, thấy người ta thương mình nhưng vẫn muốn được nghe người ta nói thương mình. Lời nói ấy như liều thuốc vậy, giúp em an tâm hơn khi ở cạnh anh. Vậy nên, kiên nhẫn với em chút nhé!!!
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/435259818745342.jpg">

@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " CỐ GẮNG HẾT SỨC CHƯA? "
+title: " CỐ GẮNG HẾT SỨC CHƯA? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/193298386242216.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-01 12:30:50 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+"CỐ GẮNG HẾT SỨC CHƯA?"
+
+Mình đang theo đuổi đam mê trở thành một MC. Xuất phát điểm của mình cực kỳ thấp. Có thể nói, chẳng ai nghĩ mình sẽ làm được MC ngay cả bản thân mình trong quá khứ. Để quyết định theo đuổi nó, mình đã dành hết toàn bộ sự can đảm của bản thân. Nhưng đôi khi, khó khăn của nó vẫn khiến mình ngã gục. Mình đã từng khóc rất nhiều đêm vì những áp lực do chính bản thân tự tạo ra. Mình đã suy nghĩ rất nhiều là liệu rằng bản thân có theo được nghề không, nghề có chọn mình không. Mình từng oán trách ông Trời sao bất công, không cho mình một chất giọng hay. Mìnhtừng chửi bản thân vô dụng vì tập hoài mà không tiến bộ. Mình cũng có những lúc chán nản, muốn buông bỏ mọi thứ.
+
+Mình đã tâm sự với bạn thân về những suy nghĩ này. Cô ấy hỏi mình một câu "CỐ GẮNG HẾT SỨC CHƯA?". Khoảnh khắc này đây, mình đã do dự. Nếu có người hỏi "Đã cố gắng chưa?", mình sẽ tự tin mà trả lời "Rồi". Nhưng đã làm hết sức chưa, đã cố gắng hết sức chưa thì mình không đủ tự tin để trả lời. Lúc này đây mình nhận ra bản thân chưa thực sự làm hết sức mình.
+
+Mình cũng đã tự hỏi chính mình, nếu cố gắng hết sức rồi mà vẫn không thành công thì sao? Ai đảm bảo rằng cố hết sức thì có thể thành công? Không ai cả. Thế nhưng, mình biết, nếu giờ mình bỏ cuộc thì không cam lòng, mình sẽ vẫn nuối tiếc và có thể hối hận về sau. Nhưng nếu đã cố hết sức rồi mà vẫn không thành công, có lẽ mình sẽ dễ dàng buông tay hơn, vì ít ra bản thân cũng đã làm hết khả năng của mình.
+
+#NguyetHa
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/193298386242216.jpg">

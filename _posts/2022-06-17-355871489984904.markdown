@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bình yên chợt quay về "
+title: " Bình yên chợt quay về "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/355871489984904.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-06-17 12:00:41 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bình yên chợt quay về
+
+Hôm nay tỉnh dậy, tự nhiên thấy cả người thoải mái vô cùng. Chắc do đêm nay e ngủ ngon. Dường như đã lâu rồi e không có được giấc ngủ ngon như vậy.
+
+Hôm nay lúc dậy theo thói quen check tin nhắn điện thoại, nhận được lời hỏi thăm “Dậy chưa” cùng với loạt nhãn dán đáng yêu vô cùng.
+
+Hôm nay e không còn tự hỏi bản thân “Giờ làm gì cho hết ngày ta”, câu hỏi thường trực trong đầu em hơn một tháng nay. Em bắt đầu mở lap, vừa làm việc, vừa nghe một bản nhạc yêu thích, chợt cảm thấy cuộc sống nhẹ nhàng vô cùng.
+
+Hôm nay e đã làm hết những việc cần làm trong ngày. Xem hết một bộ phim e yêu thích. Ngủ đủ giấc. Ăn thì không đủ bữa lắm, hứa hôm sau sẽ ăn đủ bữa vậy.
+
+Hôm nay, món hàng e yêu thích đã được ship về.
+
+Hôm nay em gọi về cho nhà, ba mẹ vẫn ở đó, bé 4, anh 2 vẫn ở đó. Nhà vẫn ồn ào như mọi khi với việc anh làm sai, mẹ đứng la, ba im lặng. Bé 4 vẫn nhoi nhoi như vậy, nói “Nào chị ba về, bé mua bánh cho ăn”.
+
+Hôm nay e tám chuyện vui vẻ với cả phòng, khịa nhau vài câu rồi đọc sách, đi ngủ. Nhưng có vẻ ngày nay ngủ nhiều nên tối đến e ngủ hơi trễ xíu. Rút kinh nghiệm hôm sau ngủ ít lại, tối đi ngủ trước 11h vậy.
+
+Hôm nay, e chẳng đi đâu cả, chỉ ở yên trong phòng, trong góc nhỏ của mình. Nhưng thay vì thấy bí bách, khó chịu như mọi lần, nay e thấy nhẹ nhõm lắm, bình yên lắm.
+
+Đâu đó, bình yên đang trở lại với em. Em đã dần quen với nhịp sống mới, cách sống mới và những con người mới xuất hiện.
+
+#Xíu
+#ChuyencuaXiu
+#Nhungdieunhobe
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/355871489984904.jpg">

@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tớ có một nỗi sợ mang tên “Ba mẹ buồn” "
+title: " Tớ có một nỗi sợ mang tên “Ba mẹ buồn” "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/558289373109052.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-04-30 22:10:45 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-04-30 22:10:45 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Tớ có một nỗi sợ mang tên “Ba mẹ buồn”
+
+Tớ có chị họ. Bả hư lắm, làm nhiều chuyện không nên, mang tiếng. Ngày bả hư, tớ còn nhỏ. Từ ngày đó, ba mẹ vốn đã nghiêm khắc trở nên khắt khe với tớ hơn nữa. Ba mẹ sợ, sợ tớ sẽ giống bả, sẽ hư như vậy.
+
+22 năm tớ dường như chỉ muốn chứng minh mình sẽ không như vậy, tớ nghe lời ba mẹ dữ lắm, bảo đi hướng đông thì không dám đi hướng tây đâu.
+
+Thời tớ sinh ra, nhà tớ cực lắm, ba mẹ khổ, làm ngày làm đêm chỉ để lo cho tớ với anh. Tớ nghe lời, ba mẹ cho ăn gì ăn nấy, cho mặc gì mặc nấy, chưa từng đòi hỏi bất cứ điều chi. Ba mẹ không cho đi chơi, tớ ngoan ngoãn ở nhà. Ba không có mặc quần ngắn, tủ đồ toàn quần dài. Mẹ không cho tớ thả tóc, thế là tớ toàn cột.
+
+Thật ra, tớ không hề thích như vậy. Tớ muốn tự do mặc váy, muốn thả tóc, muốn cắt tóc ngắn. Sau này lớn tý, ba mẹ mới cho tớ làm những điều nhỏ bé như vậy.
+
+Tớ muốn nhuộm tóc, muốn cả xăm một cái hình nho nhỏ trên người. Nhưng ba mẹ không cho, tớ cũng chẳng dám xin, cũng không dám làm, lâu dần trở nên không thích nữa.
+
+Năm tớ lớp 8, tuổi nổi loạn ấy mà, thế là tớ hư, tớ trốn học, tớ đi chơi với bạn bè, tớ dùng điện thoại. Nhưng rồi một ngày, mẹ khóc, ba cũng rơi nước mắt, thế là tớ sợ, bỏ hết, trở về làm đứa con ngoan, ba mẹ nói gì nghe đó.
+
+Nhưng càng lớn lên, tớ càng hiểu rõ mình muốn gì, muốn sống cuộc đời ra sao. Nhưng ba mẹ lại không muốn, ba mẹ trải một con đường an toàn là học, kiếm việc, lấy chồng, sinh con. Còn tớ, tớ không muốn lấy chồng, tớ muốn vừa làm vừa chơi tận hưởng cuộc sống.
+
+Quan điểm của hai thế hệ luôn là nguyên nhân cho mọi cuộc tranh cãi. Không có thắng thua. Ngày vừa mới lớn, tớ cũng khác quan điểm chớ, nhưng không dám nói ra, sợ ba mẹ lắm, hèn nhỉ. 
+
+Mỗi khi tớ làm gì đó không hợp ý ba mẹ, mẹ khóc, ba dỗi. Tớ biết ba mẹ thương, nên lại nhủ thôi kệ, nghe lời là được. Nhưng có những lúc, tớ thật sự muốn tranh cho bản thân, để được làm những gì mình muốn. Nhưng lại sợ, sợ ba mẹ buồn.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/558289373109052.jpg">

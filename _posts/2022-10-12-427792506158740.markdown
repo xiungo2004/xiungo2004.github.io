@@ -1,0 +1,53 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dạo này mình bị mê doraemon, cứ coi suốt thôi "
+title: " Dạo này mình bị mê doraemon, cứ coi suốt thôi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/427792506158740.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-12 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Dạo này mình bị mê doraemon, cứ coi suốt thôi. Thấy nó vui vui. Hôm ấy mình coi tập phim Nobita và nước Nhật thời nguyên thủy, tập ấy kể về những đứa trẻ bất mãn với chính gia đình của mình và đòi bỏ nhà ra đi, về thời kỳ con người chưa xuất hiện để xây dựng thế giới cho riêng mình. Trong tập phim, Jaian có nói một câu thế này “Đúng là mỗi người đều có nỗi khổ tâm của riêng mình”.
+
+Mình đã dừng lại ở đoạn này lâu thiệt lâu. Ngay cả bộ phim dành cho con nít, người ta cũng dạy mỗi người đều có vấn đề, có nỗi khổ riêng, vậy là lớn như mình, lại bỏ qua điều ấy. 6 tháng gần đây, tinh thần mình thực sự không ổn, quá nhiều chuyện xảy ra, chúng nối tiếp nhau, chuyện này chưa xong chuyện khác đã tới, mình không đỡ nổi, không có thời gian để thở. Từ chuyện yêu đương, bạn bè cho tới công việc. Chuyện nào cũng xảy ra vấn đề. Kỳ thực tập, nhìn thấy mọi người xung quanh đều suôn sẻ, mình thì hơi gian truân, thậm chí còn sợ không đủ sản phẩm. Có đôi lúc, mình đã ghen tỵ với chính những người bạn của mình. Sao mà xấu tính quá chừng. Dần dần, mình thu mình lại, ít tiếp xúc, ít giao tiếp với mọi người hơn. Có những ngày mình muốn được ra đường, muốn được đi chơi, nhưng ngại rủ rê, ngại tâm trạng của mình ảnh hưởng đến bạn bè, thế là nằm lì ở nhà. Có khi 3 4 ngày liền mình chẳng bước chân ra ngoài.
+
+Có hôm, một người bạn nhắn cho mình, “Sắp hết thực tập rồi, chưa biết đi về đâu”. Mình chợt nghĩ, nó giỏi như vậy, giờ đến tờ báo nào cũng có thể phát triển tốt, sao phải nghĩ ngợi làm gì nhỉ? Mình buộc miệng nói đùa “Mày còn không biết đi về đâu, chắc tao về nhà với ba mẹ quá”. Ừa nói trong group 3 người, thế là bạn còn lại la mình, bảo đứa nào cũng có vấn đề riêng, cho dù có giỏi đến mấy cũng sẽ có, ngay cả khi nó có nhiều sự lựa chọn mà không biết chọn như thế nào cũng là vấn đề. Bạn cảm thấy mình đang tự ti, đang phủ nhận chính bản thân mình. Hôm ấy, chẳng hiểu sao mình đã khóc, khóc rất nhiều. Hình như mình chỉ luôn chăm chăm nhìn vào vấn đề của bản thân, xem nó là lớn, là to, để rồi tự nhốt mình trong đấy, tự cảm thấy mình thua so với bạn bè. Mình biết, mình không cần ganh đua với ai. Ai cũng có thế mạnh riêng, có những bước đi riêng và con đường của ai cũng nhiều chông gai. Chỉ là, “một người đau chân có lúc nào quên được cái chân đau của mình để nghĩ đến một cái gì khác đâu?”. Nên đôi lúc, mình quên mất điều đó.
+
+Lúc bạn la mình, mình hiểu, mình không cho bạn nói tiếp. Vì mình biết, chẳng ai kéo bản thân mình ra khỏi đầm lầy của cảm xúc này được, ngoài chính bản thân mình. Mình sẽ từ từ, từ từ thoát khỏi chúng.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/427792506158740.jpg">

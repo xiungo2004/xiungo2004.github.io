@@ -1,0 +1,85 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Chị ba ơi, mẹ sắp xuống Sài Gòn á, chị ba ăn bento không, bé mua cho "
+title: " - Chị ba ơi, mẹ sắp xuống Sài Gòn á, chị ba ăn bento không, bé mua cho "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/337668608471859.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-05-20 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Chị ba ơi, mẹ sắp xuống Sài Gòn á, chị ba ăn bento không, bé mua cho.
+- Có, mua rồi nói mẹ ship xuống đây
+- Chị ba ăn mấy bịch?
+- 2 bịch. Mà ai trả tiền?
+- Bé trả, được chưa?
+- Dị thì được, chớ mi đừng lấy tiền mẹ mua đó
+- Biết gòi
+—-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+- Chị 3 ơi, bé có 150 ngàn, nào chị ba về bé dẫn đi mua bánh ăn
+- ok nhớ nha, đừng có mà tiêu hết đó.
+- Bé biết rồi
+- Nhớ đó, lúc chị ba về là phải còn nguyên nghe chưa?
+- Dạ
+—-\-\-\-\-\-\-\-\-
+- Chị ba ơi, bé lên được 175 ngàn rồi nè
+- Đâu lên lẹ dị
+- Nội cho á, bé không ăn bánh, để dành
+- Nhớ để dành chị ba về mua bánh nha
+- ok
+—-\-\-\-\-\-\-\-\-\-\
+- Chị ba ơi, dì 8 mới mở tiệm trà sữa á. Nào chị ba về bé dẫn chị ba đi uống
+- Đi uống bé trả tiền đúng không?
+- Bé trả tiền trà sữa
+- Bé có nhiêu tiền rồi?
+- 180 ngàn
+- Ly trà sữa bao nhiêu?
+- 1 ly 15 ngàn à, chỗ 8 bán đồ ăn vặt nữa á
+- Vậy bé bao chị ba ăn thêm cá viên chiên đi
+- Thôi, hay ăn bánh tráng trộn đi, cá viên chiên 15 ngàn mà ít lắm. Bánh tráng trộn 10 ngàn, nó nhiều hơn nữa.
+- Hay thôi bé bao hết chị ba đi, 3 món luôn
+- Hả?
+- Giờ có bao hông nè, hồi dịch chị ba hay dẫn bé đi ăn, đi uống trà sữa á. Toàn chị ba trả tiền á.
+- Được rồi, bao được chưa?
+- ok
+
+Em tui đó, giàu lắm. Tiền nhiều, đủ bao chị nó đi ăn này, ăn nọ hoặc mua đồ gửi xuống Sài Gòn cho tui rồi.
+
+Nhớ hôm đi ăn, 4 mang tiền ra ngồi đếm để trả. Có 55 ngàn thôi mà toàn tờ nào là 5 ngàn, 2 ngàn. Nhìn mắc cười kinh khủng. Gần 200 ngàn, nó coi như cả gia tài, nó thấy mình giàu lắm. Mà thiệt, với một đứa con nít gói bánh đâu độ 2 ngàn, 5 ngàn thì như vậy là giàu rồi. Hồi xưa tui chả tích góp được như nó đâu, có 1 2 ngàn là cho vô bụng hết, đâu có giữ. Nhỏ này chắc lớn lên giữ tiền giỏi lắm nè.
+
+#Xíu
+#Chuyennha
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/337668608471859.jpg">

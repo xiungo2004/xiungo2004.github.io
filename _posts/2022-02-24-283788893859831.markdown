@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " “Có người yêu chưa bé?” "
+title: " “Có người yêu chưa bé?” "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/283788893859831.png"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-02-24 12:30:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+“Có người yêu chưa bé?”
+
+Có ai thấy câu hỏi này quen thuộc hông? Để tui kể cho nghe. Mỗi dịp lễ tết, hay họ hàng lâu ngày gặp thì sẽ diễn ra cuộc đối thoại thế này:
+“Có người yêu chưa bé?”
+“Dạ chưa”
+“Xạo, mi mà chưa có mới lạ”
+Ba tui nổi tiếng khó tính. Ba không cho tui yêu đương khi còn đi học. Tức là tui phải tốt nghiệp đại học, có việc làm ổn định rồi thì mới được yêu. Chuyện này họ hàng bên nội bên ngoại đều biết. Ấy vậy mà mỗi lần tui đi học xa nhà về, mọi người đều hỏi “Có người yêu chưa bé?”. Hỏi trước mặt ba tui luôn cơ. Không tính tới chuyện tui có người yêu hay không. Giờ tui trả lời “chưa có” thì mọi người nói tui xạo, kêu tui có mà giấu. Mà làm sao tui dám nói có khi ba tui ở đó bây giờ, hoặc lỡ mọi người nói lại với ba thì có phải tui no đòn rồi không. Sao mọi người cứ thích làm khó tui quá chừng?
+
+Tui biết mọi người quan tâm đến cuộc sống của tui nên mới hỏi. Nhưng có thể hỏi về công việc, học tập, bạn bè mà. Cuộc sống này đâu phải chỉ có mỗi tình yêu.
+
+#Xíu
+#Chuyenlinhtinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/283788893859831.png">

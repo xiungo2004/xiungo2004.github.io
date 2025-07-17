@@ -1,0 +1,97 @@
+---
+
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+
+lng_pair: " Càng lớn chúng ta càng khao khát, ước ao trở về với ngày thơ bé. "
+
+title: " Càng lớn chúng ta càng khao khát, ước ao trở về với ngày thơ bé. "
+
+# post specific
+
+# if not specified, .name will be used from _data/owner/[language].yml
+
+#author: Xíu
+
+# multiple category is not supported
+
+category: Facebook
+
+# multiple tag entries are possible
+
+tags: [Facebook]
+
+# thumbnail image for post
+
+img: "https://xiungo2004.github.io/img/660345626236759.jpg"
+
+# disable comments on this page
+
+#comments_disable: false
+
+# publish date
+
+date: 2023-11-02 19:57:18 +0900
+
+# seo
+
+# if not specified, date will be used.
+
+#meta_modify_date: 2023-11-02 19:57:18 +0900
+
+# check the meta_common_description in _data/owner/[language].yml
+
+#meta_description: ""
+
+# optional
+
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+
+#image_viewer_on: true
+
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+
+#image_lazy_loader_on: true
+
+# exclude from on site search
+
+#on_site_search_exclude: true
+
+# exclude from search engines
+
+#search_engine_exclude: true
+
+# to disable this page, simply set published: false or delete this file
+
+#published: false
+
+---
+
+Càng lớn chúng ta càng khao khát, ước ao trở về với ngày thơ bé.
+
+
+
+Tại sao nhỉ?
+
+
+
+Vì ngày bé, chúng ta được sống những ngày vô tư, vô lo. Điều duy nhất ta bận tâm là học tập, làm sao để đạt điểm cao trong các kỳ thi. Lớn rồi thì lại nghĩ làm sao để kiếm được tiền, để lo cơm áo gạo tiền, để có một khoản tiết kiệm phòng thân lỡ ốm đau, bệnh tật hoặc gia đình cần đến.
+
+
+
+Hồi nhỏ lỡ thi điểm thấp 1 tí, không sao, đợt sau cố gắng hơn nữa là được. Có chăng ba mẹ sẽ trách mắng đôi ba câu. Hồi nhỏ như vậy đã thấy nặng nề. Lớn lên rồi mới hiểu, điểm thấp tí chẳng sao cả, lương thấp mới là vấn đề khi không đủ cho chi tiêu sinh hoạt, lo nghĩ, tính toán trước sau.
+
+
+
+Ngày bé được vô lo vô nghĩ chỉ vì có ba mẹ đang gánh vác thay phần vất vả của mình. Mình lớn lên, ba mẹ già yếu, không còn đủ sức che chở khoảng trời an yên cho mình nữa. Lớn rồi, bị quăng ra giữa đời thực mới hiểu, cuộc sống của người trưởng thành, khốc liệt đến chừng nào.
+
+
+
+Ngày bé vội vã trưởng thành, để rồi khi trưởng thành lại mong nhớ những ngày còn thơ bé.
+
+#Xíu 
+
+ 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/660345626236759.jpg">

@@ -1,0 +1,72 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Này bạn nhỏ xinh xinh "
+title: " Này bạn nhỏ xinh xinh "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/461729639431693.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-28 20:00:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-11-28 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Này bạn nhỏ xinh xinh<br>
+nay em có ổn không<br>
+hay vẫn còn mông lung<br>
+tình yêu và sự nghiệp<br>
+<br>
+Này bạn nhỏ xinh xinh<br>
+nay gối có còn ướt<br>
+khi đêm về một mình<br>
+cô đơn cùng nỗi nhớ<br>
+<br>
+Này bạn nhỏ xinh xinh<br>
+nay e có ước mơ<br>
+về một ngày nào đó<br>
+bình yên nơi góc nhỏ<br>
+<br>
+Này bạn nhỏ xinh xinh<br>
+buông tay đi em à<br>
+trở về làm chính mình<br>
+hạnh phúc giản đơn lắm<br>
+<br>
+tổn thương rồi sẽ lành<br>
+cơn mưa rồi sẽ tạnh<br>
+bầu trời lại trong xanh<br>
+cùng cầu vồng xuất hiện<br>
+<br>
+Bạn nhỏ này, chúc em ngày nào đó, tâm không hờn không trách, bình thản đón nhận mọi thứ như một lẽ dĩ nhiên của cuộc đời này.<br>
+<br>
+Chúc em ngày nào đó, hạnh phúc với những điều giản dị quanh em.<br>
+
+Và chúc em ngày nào đó, có một người xuất hiện, không hứa không hẹn, chỉ yên lặng nắm tay em, qua hết kiếp này. Dù em có thế nào, tay người chưa từng nới lỏng.
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/461729639431693.jpg">
+
+

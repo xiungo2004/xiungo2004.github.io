@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " 𝙉𝙝ó𝙢 𝙘𝙝ú𝙣𝙜 𝙢ì𝙣𝙝 𝙧ấ𝙩 𝙧ấ𝙩 𝙫𝙪𝙞… "
+title: " 𝙉𝙝ó𝙢 𝙘𝙝ú𝙣𝙜 𝙢ì𝙣𝙝 𝙧ấ𝙩 𝙧ấ𝙩 𝙫𝙪𝙞… "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/310507207854666.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-04-08 11:38:52 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+𝙉𝙝ó𝙢 𝙘𝙝ú𝙣𝙜 𝙢ì𝙣𝙝 𝙧ấ𝙩 𝙧ấ𝙩 𝙫𝙪𝙞…..
+
+Tui nghe người ta nói: Lên đại học, chọn nhóm làm bài tập còn quan trọng hơn cả việc chọn người yêu. Nghe cũng hợp lý phết.
+
+Tui may mắn, không phải nhảy nhóm nhiều. Nhóm được lập bởi những con người không có chốn về. Lúc đầu có 6 người, rồi có người vào, có người đi, giờ nhóm đóng đinh 7 người, có môn sẽ có thêm, 6 con người lúc đầu vẫn ở đấy.
+
+Nhóm tui làm việc hay cãi nhau lắm, chí chóe miết thôi, không hợp lắm đâu. Nhớ hồi còn năm nhất, năm hai, cứ xong một môn là kiểu gì cũng có buổi họp feedback thái độ làm việc của nhau. Hầu như ai cũng từng cãi, từng tranh luận với nhau một vấn đề nào đó, chiến lắm, không chịu nhường nhau đâu. Nhưng được cái, nhóm tui biết nhận sai, sai đâu xin lỗi đó, sửa hay không thì hên xui nha (nói dị thôi chớ tụi nó cũng cố gắng lắm). À nhóm tui được cái không để bụng, chuyện qua rồi thì thôi à. Có lần X và Y nhóm tui cãi nhau (tạm gọi dị đi ha, chớ nêu tên chúng nó ra, tui sợ bị quánh). Lúc làm bài tập, không biết X có lỡ lời gì không mà Y nói X không tôn trọng Y, thế là chúng nó giận nhau. X nhắn với tui 2 3 lần luôn “Nào nó không xin lỗi, t không làm hòa”. Tui chỉ cười, chẳng nói gì. Nhưng thực ra trong bụng nghĩ “Để coi tụi bay giận nhau được bao lâu?”. Quả nhiên, 2 ngày sau, 2 đứa đó tự làm lành, có ai xin lỗi ai đâu, cũng có ai để bụng chuyện đó đâu, có khi quên mất rồi ấy chứ. Dị đó, nhóm tui thích cãi nhau lắm, nhưng chẳng hơn thua với nhau làm gì. Ngót nghét làm việc chung cũng 3 năm rồi ấy chứ.
+
+Nhóm tui không có một leader cụ thể. Mỗi môn sẽ là một lead riêng, tùy theo mong muốn của mọi người và cũng để các bạn tự trải nghiệm các vai trò khác nhau trong nhóm. Và tui, một leader của môn X (môn này 8 thành viên), một ngày đẹp trời lỡ tay rời khỏi nhóm. Tui không biết mình rời, và nhóm tui, 7 con người còn lại cũng không ai biết tui rời. Tận hôm sau, tui có việc mà không kiếm được nhóm, lúc đó tui mới biết mình đã tự out nhóm. Tui phải lấy điện thoại con bạn tự thêm mình vào. Dị đó, tui tự out, rồi cũng chính tui phải tự thêm mình vào, không ai hỏi han gì cả, cứ như tàng hình á. Lúc vô lại rồi tui mới biết, trong lúc tui out, tụi nó vẫn làm việc, vẫn feedback công việc cho nhau. Tui có nên mừng vì tụi nó tự giác không nhỉ. Cứ mỗi lần nhớ đến, tui vừa giận, vừa thấy buồn cười. Hổng hiểu sao dị được luôn. Tui kêu tui giận tụi nó, hông ai quan tâm tới tui cả. Thế là tụi nó mang đồ ăn ra dụ tui làm hòa. Đâu có dễ, tui đâu phải người ham ăn. Nhưng nói thì nói thế thôi, hông giận được tụi này, sao á.
+
+Nhóm tui hay bảo “Thôi về đây Sóng 20 thương”. Ừa nhóm tui thương nhau lắm. Hay chí chóe với nhau dị thôi, chớ ai mà đụng dô thành viên nhóm tui là nhóm tui xù lông nhím liền nha. Thương dị đó, mà tui out tụi không biết, buồn ghê.
+
+#Xíu
+#ChuyenXiuke
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/310507207854666.jpg">

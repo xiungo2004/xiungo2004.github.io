@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chia tay rồi, anh ổn không? "
+title: " Chia tay rồi, anh ổn không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/432969802307677.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-10-19 12:53:42 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Chia tay rồi, anh ổn không?
+
+Em luôn thắc mắc “Anh sẽ thế nào những ngày không em?”.
+Anh có buồn không?
+Có nhớ em không?
+Có từng vào boxchat, gõ từng dòng tin nhắn nhớ thương rồi lại xóa trong vô vọng vì chẳng dám gửi đi.
+Có từng đọc lại những dòng tin nhắn nhảm nhí nhưng đầy yêu thương ngày xưa để rồi rơi nước mắt trong đêm, chìm vào giấc ngủ.
+Có từng ngồi nhìn nick fb người kia cho đến tắt mới chịu đi ngủ không?
+Có từng muốn biết hôm nay em làm gì, ăn gì, đi đâu, với ai và nói những gì không?
+Có từng như em, ngồi và tự hỏi Em sẽ thế nào những ngày không anh không?
+Anh có từng như vậy không?
+
+Em xấu tính lắm, từng mong anh sống không tốt, từng mong anh sẽ dằn vặt trong nỗi nhớ thương mỗi ngày. Vì em cũng như vậy, em sống không tốt, nên chẳng can đảm nghe điều tốt đẹp từ anh.
+
+Rốt cuộc, chúng ta đã sai ở đâu? Em sai hay anh sai?
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/432969802307677.jpg">

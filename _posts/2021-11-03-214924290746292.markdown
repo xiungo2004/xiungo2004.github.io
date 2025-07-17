@@ -1,0 +1,63 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " [Quá khứ có thật sự quan trọng đến vậy không?] "
+title: " [Quá khứ có thật sự quan trọng đến vậy không?] "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/214924290746292.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-03 12:30:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+[Quá khứ có thật sự quan trọng đến vậy không?]
+
+Trong tình yêu, bạn có bao giờ tò mò về quá khứ của người yêu mình không? Sẽ thắc mắc là họ đã yêu bao nhiêu người? Những người đó ra sao? Có tốt không? Tại sao chia tay? Và luôn lo sợ họ còn nhớ, còn vấn vương người cũ.
+
+Mới đây, mình đọc được câu chuyện của một bạn nữ luôn để tâm đến quá khứ của người yêu. Bạn ấy trách người yêu không cho bạn cảm giác an toàn. Bạn hay nhắc đến chuyện quá khứ, về nyc để rồi cả hai cãi nhau. Khi đọc được câu chuyện đó thì mình đã suy nghĩ khá nhiều và cũng nhớ về bản thân trong quá khứ.
+
+Mình từng như vậy. Mình sợ quá khứ của anh. Mình lo lắng và luôn tự hỏi anh có còn nhớ tới người cũ không, có còn liên hệ với người cũ không? Thậm chí, khi anh nhấn like ảnh nyc hay vô tình gặp nyc ngoài đường, nhìn một cái thôi cũng đủ làm mình suy diễn đủ thứ chuyện. Mình hay vào fb của anh, xem anh có nhắn tin với người cũ hay bất cứ một đứa con gái nào khác không. Dù là tin nhắn giữa bạn bè khác giới bình thường mình cũng thấy rất khó chịu. Khoảng thời gian ấy, câu “chia tay” cứ treo ngay trên miệng, mình có thể thốt ra bất cứ lúc nào mà không cần suy nghĩ. Bởi mình muốn biết a có yêu mình không, có níu kéo mình hay không. Nhưng vô hình chung quá nhiều lần như vậy sẽ khiến nửa kia mệt mỏi. Mình từng oán trách anh vì đã không cho mình được cái cảm giác an toàn khi ở bên. Mình ghét quá khứ của anh, nó khiến mình bất an. Mỗi lần cãi nhau là một lần mình mang cái quá khứ ấy ra đay nghiến, nhai đi nhai lại, dù quá khứ ấy còn có ảnh hưởng đến hiện tại.
+
+Có lúc mình đã tự hỏi bản thân “Quá khứ có thật sự quan trọng đến vậy không?”. Khi mình tìm ra câu trả lời cho câu hỏi ấy, cũng là lúc mình vượt qua được rào cản của quá khứ.
+
+Trong quá khứ, họ đâu có biết được rằng người ở bên họ hiện tại là mình chứ không phải là người cũ. Họ không làm gì sai, không làm gì có lỗi với mình, vậy tại sao mình lại đi oán trách quá khứ. Quá khứ nó đâu có lỗi lầm gì. Lỗi là do mình suy nghĩ quá nhiều. Mình quá để tâm đến những thứ đã qua, những thứ vốn chẳng thể tác động đến hiện tại. Mình không thể dự báo được tương lai, càng không thể thay đổi được quá khứ, cái mình có thể thay đổi được chỉ có hiện tại. Thật ra, mỗi lần mình nhắc đến chuyện cũ, người cũ là lại một lần gợi nhớ cho họ về quá khứ, về kỷ niệm đẹp họ từng trải qua. Như vậy, người thiệt thòi sẽ là mình.
+
+Sau này, mình nhận ra, đủ yêu, đủ tin, bạn sẽ không còn để tâm đến quá khứ nữa. Bạn tin vào chính mình, tin vào người ấy, tin vào những kỷ niệm hai người đã có với nhau. Lúc ấy quá khứ mà bạn nhớ đến là quãng thời gian hai người ở bên nhau chứ không phải là một tình yêu đã cũ nào đó.
+
+Mình chỉ muốn nói, quá khứ chỉ mãi là quá khứ, nó không quan trọng đến vậy đâu.
+
+#NguyetHa
+#tamsu
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/214924290746292.jpg">

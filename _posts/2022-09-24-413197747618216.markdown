@@ -1,0 +1,65 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tôi thương em "
+title: " Tôi thương em "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/413197747618216.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-24 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tôi thương em. Em biết. Nhưng em không thương tôi. Người em thương lại là hắn.
+
+Tôi thương em bao nhiêu năm, e thương hắn bấy nhiêu ngày tháng. Nhìn em và hắn, tay trong tay, nhìn thấy nụ cười rạng rỡ, nhìn dáng vẻ em làm nũng bên hắn, tôi biết, tôi là kẻ thua cuộc, tôi từ bỏ. Nhưng tại sao, khoảnh khắc tôi nghĩ mình đã từ bỏ, e lại đau khổ vì hắn. Là tôi bên em, thương em những ngày tháng đó. Tôi muốn mang lại hạnh phúc cho em, cũng muốn trở thành người có thể khiến em cười.
+
+Nhưng em lại bảo, tôi đừng thương em nữa. Vậy sao em không thể ngừng thương hắn? Em bảo em không xứng với tình cảm của tôi, vậy hắn có xứng với em không?
+‐—-\-\-\-\-\-\‐—-\-\-\-\-\-\-
+Người thương tôi. Tôi biết. Nhưng tôi thương người khác.
+
+Đôi lần tôi nghĩ, hay mình thương đại người, cho bớt đơn côi. Nhưng tôi không làm được. Tôi chẳng thể bên người khi trong tim chứa hình bóng của kẻ khác. Như vậy tội lỗi lắm người ơi.
+
+Người vì tôi làm bao nhiêu chuyện, sao tôi không biết được cơ chứ. Cảm động không? Có. Nhưng tôi chẳng thể cho người thứ người muốn.
+
+Tôi bảo người hay đừng thương tôi nữa, nhưng tôi có làm được đâu, tôi cũng có ngừng thương kẻ ấy được đâu.
+
+Tình cảm, thật lạ lùng và khó hiểu.
+
+Xíu
+
+Ảnh: Pinterest
+
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/413197747618216.jpg">

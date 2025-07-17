@@ -1,0 +1,60 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Em chẳng phải đứa trẻ ngoan "
+title: " Em chẳng phải đứa trẻ ngoan "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/399354245636628.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-22 13:00:01 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Em chẳng phải đứa trẻ ngoan
+
+Em chẳng phải đứa trẻ ngoan. Em cũng ghét làm đứa trẻ ngoan. Em ghét ai đó gọi em là đứa trẻ ngoan. Vì em có ngoan đâu. Em hư lắm, em ích kỷ lắm, em chỉ nghĩ cho mình thôi.
+
+Em chẳng phải đứa trẻ ngoan như ba mẹ vẫn nghĩ. Em có những buổi đi chơi thoải mái với bạn bè đêm khuya. Em cũng có lúc bỏ bê việc học vì những thứ linh tinh bên ngoài. Em yêu sớm. Em từng nói dối ba mẹ, rõ ràng là đi chơi, nhưng lại nói là đi làm bài. Em chẳng ngoan. Em biết rõ ba mẹ ghét những điều ấy, ba mẹ không thích, ba mẹ muốn em tập trung vào học hành. Nhưng em chẳng làm được. Em chẳng phải là đứa ham học như ba mẹ vẫn nghĩ. Em không giỏi giang như ba mẹ vẫn tự hào. Em hư lắm.
+
+Em chẳng phải là một người yêu ngoan, hiểu chuyện. Em hư lắm. Đôi lúc em chẳng để ý đến cảm xúc của anh đâu. Những lúc bất ổn, khó chịu, bực bội, em chỉ quan tâm đến mình thôi. Em sẽ kiếm chuyện gây sự với anh. Sẽ làm mình làm mẩy với anh. Sẽ muốn anh kiên nhẫn mà dỗ dành. Lúc ấy, em chẳng thèm nghe cái gọi là lý lẽ đâu. Anh không dỗ, em sẽ trách anh vô tâm. Anh dỗ thì em sẽ có lần hai, lần ba và nhiều lần như thế. Em nói rồi, em chẳng phải đứa trẻ ngoan, cũng chẳng phải cô nàng hiểu chuyện. Em không thích như thế. Thế giới ngoài kia, em gồng mình đủ rồi. Em chẳng muốn mình trở nên mạnh mẽ trước mặt anh đâu. Dù rằng em biết, thế giới ngoài kia cũng chẳng dịu dàng với anh. Em biết, nếu như em cứ mãi vô lý, một ngày nào đó, anh sẽ rời đi. Nhưng biết sao được, em là đứa trẻ hư, em cũng muốn giữ lại cho mình chút hiểu chuyện lắm. Vậy nên, chắc em sẽ chọn cô đơn, để chẳng làm tổn thương đến ai.
+
+Em chẳng phải là người bạn tốt. Em hay cọc cằn với bạn. Hay than phiền về mọi thứ nhỏ to trong cuộc sống. Hay kiếm chuyện để chửi nhau với bạn. Em chỉ toàn chia sẻ với đám bạn về sự tiêu cực, về sự khùng điên của bản thân mà thôi. Dẫu biết cuộc sống của chúng nó cũng không ổn hơn em là bao. Vậy mà em vẫn cứ cố gắng kiếm tìm chút an ủi từ bạn. Chúng em, những con người tổn thương ôm lấy nhau, liếm hết những vết thương chằng chịt trong tâm hồn nhau, chỉ mong xoa dịu đi chút nào đó. Em là đứa trẻ hư, bạn em cũng vậy, chúng nó đều là những đứa trẻ hư, không muốn hiểu chuyện, dịu dàng với cuộc đời vốn chẳng dịu dàng với chúng em.
+
+Nghe bảo “một đứa trẻ quá hiểu chuyện sẽ chẳng có kẹo mà ăn đâu”, vậy sao em không hiểu chuyện, mà cũng chẳng có kẹo để ăn.
+
+_Xíu_
+
+#ChuyencuaXiu
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/399354245636628.jpg">

@@ -1,0 +1,47 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Tháng năm ấy, ta khổ đau hay hạnh phúc, ta may mắn hay bất hạnh "
+title: " Tháng năm ấy, ta khổ đau hay hạnh phúc, ta may mắn hay bất hạnh "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/405514005053257.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-13 14:30:50 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Tháng năm ấy, ta khổ đau hay hạnh phúc, ta may mắn hay bất hạnh.
+Tháng năm ấy, là do ta chọn lựa hay do duyên trời sắp đặt.
+Tháng năm ấy, hãy trân trọng mọi cảm xúc nơi bạn, dù là vui, buồn, tích cực hay tiêu cực, hãy trân trọng, bạn nhé...
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/405514005053257.jpg">

@@ -1,0 +1,67 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm nay mình đã khóc, khóc ngay ở phòng mà không bận tâm bạn bè có đang nhìn hay không "
+title: " Hôm nay mình đã khóc, khóc ngay ở phòng mà không bận tâm bạn bè có đang nhìn hay không "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/383833537188699.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-07-29 13:00:05 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Hôm nay mình đã khóc, khóc ngay ở phòng mà không bận tâm bạn bè có đang nhìn hay không.
+
+Lý do mình khóc ư?
+
+Vì mình chẳng tải được video lên facebook.
+
+Vì mình muốn được nghỉ ngơi nhưng công việc không cho phép.
+
+Vì nhìn thấy bạn bè xung quanh đi thực tập đều ổn, chỉ mình là không.
+
+Vì nhân vật trả lời phỏng vấn rất xúc tích khiến mình không biết phải làm sao.
+
+Vì ai đó bảo mình phải tự lập.
+
+Ngồi giữa phòng, tay gõ máy tính, công việc không dừng lại nhưng nước mắt lại không ngừng rơi. Mình, con người luôn đề cao sự vui vẻ, thoải mái của bản thân giờ đang làm gì thế này. Ép bản thân phải trưởng thành, phải tự lập, niềm vui cũng theo đó dần vơi. Vậy những việc mình đang làm còn có ý nghĩa gì không? Mình làm những công việc này để làm gì khi bản thân chẳng còn tìm được niềm vui. Hóa ra khi trưởng thành, niềm vui của bản thân không còn là sự ưu tiên hàng đầu, ta còn nhiều điều phải lo nghĩ và ta buộc phải học cách chấp nhận.
+
+Tự nhiên nay thấy bản thân thật yếu đuối. Chuyện nhỏ như thế cũng làm mình bật khóc.
+
+Hôm nay mình lại muốn yêu rồi. Muốn có ai đó cạnh bên, để mỗi khi nước mắt rơi, sẽ có ai đó lại ôm mình, vỗ về và lau đi những giọt nước nơi khóe mắt.
+
+#Xíu
+#ChuyencuaXiu
+#tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/383833537188699.jpg">

@@ -1,0 +1,60 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Niềm vui bé nhỏ #1 "
+title: " Niềm vui bé nhỏ #1 "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/224830089755712.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-11-19 12:30:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Niềm vui bé nhỏ #1
+
+Dạo gần đây mình rất thích coi thể loại hài độc thoại (Rock & Roast). Họ giỏi vô cùng, đầy sáng tạo. Những câu chuyện xảy ra bình thường trong cuộc sống nhưng qua lời kể của họ lại cực kỳ thú vị và vui nhộn. Cách họ nói, hay cách họ biểu cảm đều khiến mình cảm thấy buồn cười. Có một điều khiến mình cười nữa là khán giả. Nghe tiếng họ cười thôi mình cũng đủ thấy vui, không kiềm được mà cười theo. Mỗi khi bực bội chuyện gì đó, hoặc có điều gì đó không vừa ý, mình thường sẽ mở hài độc thoại ra xem và nó khiến tâm trạng của mình tốt hơn rất nhiều.
+
+Mình có nói với bạn mình:
+- Ê mày, dạo này tao vui lắm
+- Dụ gì?
+- Coi hài độc thoại, mắc cười lắm.
+- Niềm vui của mày nhỏ bé vậy thôi á hả?
+
+Ừ, niềm vui của tôi bé nhỏ lắm. Đôi khi chỉ cần được xem một chương trình mình yêu thích cũng đủ rồi.
+
+Ảnh: Pinterset
+
+#Xíu
+#niềmvuibénhỏ
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/224830089755712.jpg">

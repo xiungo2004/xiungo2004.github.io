@@ -1,0 +1,66 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bạn cũng nên bận đi thôi! "
+title: " Bạn cũng nên bận đi thôi! "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/295013666070687.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-03-14 13:00:04 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bạn cũng nên bận đi thôi!
+
+Tôi có một người bạn thân thiết thời còn học sinh. Chơi với nhau được khoảng 5 năm, 7 năm, cũng có thể lâu hơn thế. Dù không ở cạnh nhau, không học cùng nhau, sống ở hai nơi khác nhau nhưng chúng tôi vẫn rất thân thiết. Chúng tôi kể cho nhau nghe mọi điều trong cuộc sống, bất kể là buồn hay vui, bất kể là chuyện xàm xí đến cỡ nào. Sau này lên đại học, bận rộn với việc học, có thêm nhiều bạn bè mới, chúng tôi ít liên lạc với nhau hơn hẳn. Thế nhưng khi một trong hai có chuyện gì đều sẽ tìm đến đối phương tâm sự, kể lể đủ điều. Tôi đã từng nghĩ chỉ thế thôi là đủ. Không cần ngày ngày hỏi thăm nhau. Chỉ cần khi nào đối phương cần, mình xuất hiện và ngược lại là đủ rồi.
+
+Nhưng có lẽ vô hình chung điều đó khiến chúng tôi càng xa cách nhau hơn. Tôi và có lẽ bạn cũng vậy, dần khép bản thân mình lại với đối phương. Chẳng còn những cuộc gọi tỉ tê vào nửa đêm. Chẳng còn những dòng tin nhắn tranh thủ đọc dù đang dở việc gì đó. Chúng tôi ít liên lạc với nhau hơn hẳn. Có khi 1 tháng chẳng nhắn nổi 1 tin cho nhau. Không phải vì quá bận, mà vì nhắn rồi cũng chẳng biết nói gì, chẳng biết kể gì cho nhau nghe và cũng chẳng biết đối phương có bằng lòng muốn nghe nữa không.
+
+Chúng tôi từng có lời hứa hẹn: “Kỷ niệm 10 năm tình bạn mình đi Đà Nẵng một chuyến đi”. Nhưng thực sự tôi không biết, tới lúc đó, lời hứa hẹn này có thể được thực hiện hay không.
+
+-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
+
+Tôi có một nhóm bạn thời đại học. Chúng tôi chơi với nhau vui lắm, lúc nào cũng dính lấy nhau. Hay rủ nhau đi ăn, đi la cà quán xá, cùng nhau chạy deadline. Và nếu không có mùa dịch, chắc giờ chúng tôi vẫn bám lấy nhau mỗi ngày ấy nhỉ.
+
+Nghỉ dịch, chúng tôi vẫn có những cuộc trò chuyện online tới 1 - 2 giờ sáng (có khi bị ba ra mắng mà vẫn nói). Chúng tôi vẫn kể nhau ti tỉ chuyện, từ bạn này bị bồ giận vì một lý do nào đó, tới bạn kia thích anh này, được anh kia theo đuổi, đến những chuyện nhảm nhí ở nhà như con em khóc, con cháu phá,.... rất nhiều, rất nhiều chuyện. Tôi đã từng nghĩ, chắc hết dịch gặp nhau sẽ vui lắm đây, chẳng ngồi tám chuyện bất kể thời gian luôn quá. Nhưng hình như không phải. Quay lại với cuộc sống bình thường mới, các bạn đều bận rộn với những dự định riêng và cuộc sống cá nhân. Đi học, chúng tôi chẳng còn ngồi cạnh nhau như trước. Rủ đi cafe thì người này bận chuyện này, người kia bận chuyện kia. Có khi kèo đã được set, tới phút cuối vẫn hủy về một lý do nào đó.
+
+Tôi chợt nhận ra chúng tôi đều đã lớn rồi, đều có cuộc sống cá nhân, những dự định, những công việc riêng. Chẳng còn những ngày tháng chỉ đi học xong về nhà nữa rồi. Vậy nên, bận cũng là điều dễ hiểu. Chỉ là tôi vẫn chưa quen với cuộc sống bận rộn như thế.
+
+Ai rồi cũng bận cả thôi. Bạn cũng nên bận đi thôi.
+
+Ảnh: Tách
+
+#Xíu
+#Chuyenlinhtinh
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/295013666070687.jpg">

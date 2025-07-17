@@ -1,0 +1,84 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " THÁNG 10, LỠ HẸN… "
+title: " THÁNG 10, LỠ HẸN… "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/195672092671512.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-10-05 12:30:49 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+THÁNG 10, LỠ HẸN…
+
+Tháng 10, năm 2019
+
+Không biết anh còn nhớ không, ngày này 2 năm trước là ngày a lên máy bay đi du học. Lúc đấy e vẫn còn là cô sinh viên năm nhất mới lên Thành phố chưa được bao lâu. Em nhớ ngày ấy anh đã hứa sẽ vào ký túc xá thăm em, cùng em đi ăn rồi mới ra sân bay. Nhưng do chuyến bay thay đổi giờ đột ngột, sớm hơn 4 tiếng so với dự kiến, nên anh đã không vào thăm em. Lúc hay tin ấy ( hơn 16h), em ngỡ ngác không biết phải làm sao, em cứ đi đi lại lại trong phòng mất một lúc lâu. Nhờ tụi bạn trong phòng nhắc, em mới sức nhớ bản thân có thể chạy ra sân bay để gặp anh, tiễn anh.
+
+Nhưng mà hình như ông trời không cho mình gặp nhau hay sao í. Em mới lên Sài Gòn, không rành đường xá, em đã bị lạc. Em đứng mãi trạm xe buýt trên đường Phạm Văn Đồng đợi để đợi grab, nhưng grab cũng đi lạc. Thời gian cứ trôi, từng phút, từng giây, nước mắt e cũng theo đó mà tuôn rơi. Thậm chí em không thể ngồi yên một chỗ mà cứ đi tới đi lui, rồi nhìn điện thoại để đợi xe. Lúc ấy có vài người tưởng em bị gì nên khóc nữa đấy. Nhưng em chẳng nói được câu nào với họ, chỉ biết lắc đầu và rơi nước mắt. Em cảm nhận rõ sự bất lực và vô dụng của bản thân. Khoảnh khắc ấy, em chỉ ước gì thời gian trôi thật chậm, thật chậm để e có thể kịp gặp anh.
+
+17h50, trời đã bắt đầu tối. Xe tới. Nhưng khi e vừa lên xe thì nhận được tin nhắn của anh. Anh bảo “Anh vào đây, trễ rồi, anh là người cuối cùng rồi”. Em không rep tin nhắn. Mọi thứ trước mắt cứ nhòe đi. Em chưa bao giờ thấy mắt mình có nhiều nước đến vậy, nó cứ chảy không sao ngừng lại được. Chú lái xe hỏi em:
+“Chuyến bay mấy giờ cháu?”
+“Dạ 6h”.
+“Giờ 6h rồi, đâu ra kịp nữa đâu”
+“Kệ, chú cứ chạy đi chú”
+
+Lúc đó em thật cố chấp phải không? Biết là chẳng thể gặp anh, chẳng kịp tiễn anh đi,nhưng e vẫn cố chấp. Đó là lần đầu tiên e đặt chân đến sân bay Tân Sơn Nhất. Sân bay rộng thật, người cũng đông nữa. Em cứ đứng ở đấy mà nhìn, để trông chờ vào hình bóng chẳng thể nào xuất hiện.
+
+Em đứng đấy thật lâu, thật lâu. Đứng tới khi nước mắt không còn rơi, em mới bắt xe trở về. Ngồi trên xe buýt, nhìn sự nhộn nhịp của thành phố nơi đây, em lại thấy oán giận. Em giận thành phố này khiến em không kịp gặp được anh.
+
+Đây là lần đầu tiên mình lỡ hẹn với nhau.
+
+Tháng 10, năm 2020
+
+Sau khi đi du học một năm thì anh về. Em đã hứa sẽ đến sân bay đón anh. Nhưng em lại lỡ hẹn. Ngày anh về cũng là ngày em đi tình nguyện Chiến dịch Trung thu Yêu thương. Tối hôm trước, em đã lên chuyến xe cùng đồng đội về Đồng Tháp để bắt đầu cho cuộc hành trình. Tối đó em lại khóc vì chẳng giữ được lời hứa với anh. Áy náy, day dứt vì lỡ hẹn. Ngày anh đi, em không kịp tiễn, ngày anh về em cũng không đi đón. Nhưng em lại không đủ can đảm để bỏ chiến dịch, bỏ lại mọi người. Đó là chiến dịch chúng em đã chuẩn bị suốt 2 tháng.
+
+Xuống địa phương, tham gia các hoạt động, em cố để bản thân bận rộn để không nghĩ đến anh. Nhưng em vẫn không kìm được mà để ý chiếc điện thoại, để đợi tin nhắn từ anh. Ngày hôm đó, người cũng rất đông, ai nấy đều bận rộn, vui vẻ, cười đùa, một lần nữa e thấy bản thân thật trống trải và cô độc.
+
+Sau khi anh về thì bị đưa đi cách ly 2 tuần. Sau đó anh lại về quê. Phải gần một tháng sau ngày anh về mình mới có thể gặp nhau.
+
+Lần này, em lỡ hẹn với anh
+
+Tháng 10, năm 2020...
+
+Lần này thì mình không hứa hẹn gì với nhau cả. Chỉ mong dịch bệnh sớm ổn để có thể gặp thôi.
+
+Tháng 10, năm n…
+
+Em mong tháng 10 của những năm tiếp theo, chúng ta sẽ không vì bất kỳ chuyện gì mà lỡ hẹn.
+
+#NguyetHa
+#tinhyeu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/195672092671512.jpg">

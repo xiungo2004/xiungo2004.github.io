@@ -1,0 +1,50 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Điểm 8 của em tui  "
+title: " Điểm 8 của em tui  "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/493072966297360.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-01-10 19:30:04 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-01-10 19:30:04 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Điểm 8 của em tui 
+
+Em tui học lớp 5, vừa phát bài thi cuối học kỳ I. Môn Toán chỉ được 8 điểm thôi. Thế là về bị mẹ la quá trời, nó khóc luôn.
+
+Tui thì thấy 8 cũng được rồi mà, có gì đâu, nó giỏi hơn tui hồi xưa nhiều. Thế là tui đi nói mẹ. Cái mẹ bảo: “Con hồi xưa không giỏi, còn em nó bây giờ, bình thường giỏi nhất lớp, nay thi Toán có 8 điểm, được cái gì mà được”.
+
+Nghe xong, tui không biết có nên cảm thấy may mắn vì ngày xưa mình học dốt không nữa. Thiệt, xưa tui học không giỏi, học sinh khá là mừng gần chớt, thi 8 điểm vui cả ngày chớ đừng nói chi em tui bây giờ, 9, 10 mẹ mới chịu.
+
+Chỉ là hồi tui, ngay từ lúc bắt đầu đã học kém, nên mẹ chẳng hi vọng gì. Điểm khá thì mẹ mừng, điểm trung bình thì cũng bình thường.
+
+Còn em tui, nó giỏi từ nhỏ, lanh lợi, bao giờ thi cũng nhất lớp, nên thấp xíu thôi là mẹ la. Mẹ đặt kỳ vọng vào em tui nhiều, nên dễ thất vọng.
+
+Xíu
+
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/493072966297360.jpg">

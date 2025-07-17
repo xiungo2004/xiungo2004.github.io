@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Những bài viết của mình không nhằm tìm kiếm sự đồng cảm của bất kỳ ai cả "
+title: " Những bài viết của mình không nhằm tìm kiếm sự đồng cảm của bất kỳ ai cả "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/387617100143676.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-08-04 13:00:03 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Những bài viết của mình không nhằm tìm kiếm sự đồng cảm của bất kỳ ai cả. Mình viết bởi con tim mình bảo thế. Nó bảo mình chia sẻ câu chuyện, cảm nhận của bản thân cho mọi người. Và điều mình mong qua các bài viết là có ai đó thấy được bản thân mình trong đó. Câu chữ đã có thể xoa dịu tâm hồn mình thì cũng mong nó có thể xoa dịu tâm hồn đâu đó trên thế giới này đang bị tổn thương.
+
+Nỗi buồn sẽ vơi dần đi, niềm vui sẽ được nhân đôi. Đó là điều mình muốn qua con chữ của bản thân. Còn sự đồng cảm, khó lắm ạ. Đồng cảm là “khả năng hiểu hoặc cảm nhận những gì người khác đang trải qua trong khung tham chiếu của họ, nghĩa là khả năng đặt bản thân vào vị trí của người khác”. Nhưng mấy ai làm được điều đó. Viết câu chuyện của mình, con chữ theo lối tư duy của bản thân mình. Nhưng người đọc, họ sẽ đọc và cảm nhận dựa trên kinh nghiệm sống của họ, qua cách hiểu và lối tư duy của riêng họ. Từ ngữ vốn nhiều lớp nghĩa mà. Đâu đó ta vẫn sẽ tìm được một ai đó đồng điệu với ta, họ hiểu cho những gì ta đang trải qua nhưng nó chỉ dừng lại ở hiểu. Sao họ cảm nhận được những cảm nhận ta đã từng, sao đau trên câu chuyện ta từng đau, và sao họ tận hưởng được niềm vui tột cùng của ta.
+
+Bài viết này, Xíu cũng cảm ơn những độc giả đã đến với Xíu, bên cạnh Xíu suốt thời gian qua. Sẽ có những sai sót, có những lúc Xíu bốc đồng hoặc câu văn của Xíu không hay, mọi người hãy góp ý nha. Xíu không chắc mình có thể thay đổi được tất cả, nhưng Xíu sẽ cố gắng hoàn thiện bản thân mình tốt nhất có thể.
+
+Xíu sẽ không vì lời nói của bất kỳ ai mà ngừng viết, ngừng cảm nhận, ngừng kể. Xíu cũng sẽ không vì lời nói của bất kỳ ai mà thay đổi bản thân để làm vừa lòng họ. Vậy nên cũng mong, nếu ai đó không thích cách Xíu viết, không thích những câu chuyện, những cảm nhận của Xíu, hãy rời đi, đừng chỉ trích hay lên án những điều đó.
+
+Có lẽ sau bài này, lượt theo dõi và thích trên page của Xíu vốn đã xíu xiu sẽ càng ít đi. Nhưng những bạn còn theo dõi, còn yêu mến Xíu cứ yên tâm nha. Chỉ cần có người đọc, Xíu vẫn sẽ viết. Chỉ cần trái tim Xíu còn bảo viết, Xíu nào dám cãi lời.
+
+#Xíu
+#ChuyencuaXiu
+#Tamsu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/387617100143676.jpg">

@@ -1,0 +1,49 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình vừa chuyển chỗ ở. "
+title: " Mình vừa chuyển chỗ ở. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/544171444520845.jpg"
+# disable comments on this page
+#comments_disable: false
+# publish date
+date: 2023-04-04 21:12:24 +0900
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2023-04-04 21:12:24 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình vừa chuyển chỗ ở.
+
+Nói sao ta, vừa mong chờ, lại vừa thấy khó chịu trong lòng. Nơi đây xa lạ quá, bạn cùng phòng cũng không thân quen mấy.
+
+Ở ktx, đứng ban công nhìn ra chỉ là những khung cửa sổ sáng đèn của các tòa nhà. Còn nơi đây, nhìn ra là những ánh đèn chi chít, xe cộ chạy liên tục cho thấy sự ồn ào và náo nhiệt của nó.
+
+Ở nơi này, mình chẳng còn là sinh viên, mình phải lo cơm áo gạo tiền và tỉ tỉ các chi phí khác. Thật ra trước sau gì cũng phải đối mặt, cũng phải ở một nơi khác trong thành phố vừa quen vừa lạ này. Nhưng lòng không tránh khỏi bồn chồn, lắng lo. 
+
+Bạn bảo: Từ bao giờ m nhùn như thế?
+
+Chẳng biết nữa, chắc do lớn rồi, biết sợ rồi.
+
+#Xíu
+<!-- outline-end -->
+<img src= "https://xiungo2004.github.io/img/544171444520845.jpg">

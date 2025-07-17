@@ -1,0 +1,73 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Đã hơn nửa tháng kể từ khi mình rời thành phố náo nhiệt về quê "
+title: " Đã hơn nửa tháng kể từ khi mình rời thành phố náo nhiệt về quê "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/121419496763439.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-05-31 14:15:43 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Đã hơn nửa tháng kể từ khi mình rời thành phố náo nhiệt về quê....
+
+Không còn mỗi sáng cáu gắt vì không lấy được xe ở ktx, hay những buổi chiều bon chen lấy xe ở trường.
+
+Không còn buổi sáng đến trường rồi lặp lại câu hỏi quen thuộc "nay học phòng nào m", hay ăn ké đồ ăn sáng của nhau rồi bắt đầu những chuỗi cà khịa hết đứa này đến đứa khác
+
+Không còn những buổi trưa nắng gắt, lội bộ chưa tới 500m ra cổng và suy nghĩ trưa nay ăn gì, hay nằm trải dài chiếm hết các hành lang của trường chỉ để chợp mắt nhiều xíu.
+
+Không còn những buổi tối lôi nhau xuống ktx ăn vặt, ngồi tám tới mức bảo vệ đuổi mấy lần vẫn không chịu về.
+
+Không còn những lần nổi hứng lôi nhau ra chụp hình, Không còn những ngày mở mắt nghĩ xem nay mặc gì đi học, trưa nay ăn gì, tối nay ăn gì, Không còn những ngày lười biếng, ăn mặc hơi xuề xòa rồi bị bạn bè chê
+
+Thay vào đó...
+
+Là những ngày ngủ nướng ba mẹ kêu hoài không chịu dậy
+
+Là chuỗi ngày không phải suy nghĩ nay ăn gì, mặc gì
+
+Là những chuỗi ngày bình yên, không cáu gắt vì thời tiết nóng bức của Sài Gòn
+Là những chuỗi ngày không deadline, không đi học
+
+Bình yên là thế, nhưng sao trống vắng quá.
+
+Sài Gòn đôi lúc làm ta bực bội, khó chịu vì những chuyện không đâu, nhưng xa rồi thì nhớ lắm, nhớ những con người nơi ấy.
+
+Những đứa trẻ mới lớn lạ lắm, đi học xa nhà thì chủ mong thời gian thư thả để được về nhà chui vào lòng cha mẹ, nhưng đến khi được ở nhà vài ngày thì lại nhớ lắm nơi đó, cái nơi mình gắn bó, nhớ cái nơi cứ ngỡ xa lạ mà lại thân quen lúc từ lúc nào mà không hề hay biết
+
+#NguyetHa
+Ảnh: Hữu Hướng
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/121419496763439.jpg">

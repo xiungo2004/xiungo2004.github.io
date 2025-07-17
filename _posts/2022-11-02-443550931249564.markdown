@@ -1,0 +1,66 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Kết thúc kỳ thực tập rồi"
+title: " Kết thúc kỳ thực tập rồi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/443550931249564.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-11-02 12:35:35 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+# image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+# image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Kết thúc kỳ thực tập rồi
+
+Vui không? Vui.
+
+Buồn không? Buồn.
+
+Có làm báo nữa không? Không.
+
+Có hối hận vì chọn ngành này không? Không
+
+Nhớ lại ngày còn năm nhất đại học, mỗi lần lên cơ sở trên quận, đi qua Đài X, tớ đều quay lại nói với bạn “T nhất định sẽ vào chỗ này làm, nhất định là như vậy”. Vậy đó, học xong 3 năm đại học, tháng 7 năm ấy, tớ vào Đài rồi, trở thành thực tập sinh.
+
+Và tớ vỡ mộng. 
+
+Mà có thật là tớ vỡ mộng không nhỉ, hay bản thân chẳng đủ năng lực để ở chốn đấy. Tớ bơi trong nghề và tớ bị ngợp, bì bõm cố gắng qua 3 tháng đầy gian nan. Suốt thời gian ấy, tinh thần tớ chưa bao giờ ổn, thêm những vấn đề từ cuộc sống cá nhân, tớ từng nghĩ đến việc từ bỏ, kỳ sau thực tập lại, chọn nơi chốn nào đó hợp với mình hơn. Nhưng chẳng hiểu vì lẽ nào, cứ tự nhủ thôi cố tý nữa, tý nữa thôi, tớ qua được kỳ thực tập. Điểm không cao, tớ biết, nhưng tớ hài lòng.
+
+Không phải khen, chớ đôi lúc tớ thấy mình thật giỏi vì đã vượt qua 3 tháng ấy. Tuần đầu tiên đi tác nghiệp thì bị tai nạn. Rồi những tuần sau đó, nào là hư file ảnh, làm mất file ghi âm, nào là lạc đường, rồi thì không có đề tài, rồi thì những ngày đi làm nhưng chẳng được đăng bài, có hôm tớ phải từ quận này qua quận khác liên tục. Tới hôm làm việc cuối cùng, tớ vẫn hư file ghi âm, chắc do tớ hậu đậu quá nên thế. Thật ra những vấn đề tớ đã gặp, các bạn làm báo khác cũng gặp, thậm chí còn nhiều hơn thế ấy chứ. Nhưng tớ vẫn tự thấy mình giỏi.
+
+Kỳ thực tập qua rồi, tớ cũng trải nghiệm cảm giác làm báo rồi, tớ không theo kịp bước chân nó. Tớ vốn ít đọc tin tức lắm, đặc biệt là những tin tức tiêu cực, tớ sợ cực kỳ. Mỗi lần bạn bè nói đến một vấn đề thời sự nào đấy, tớ chỉ ngồi nghe thôi, chẳng nói chẳng rằng, bạn bè chê tớ cập nhật tin tức kém, học báo mà thế. Tớ kệ, tớ bảo vệ bản thân trước đã. Vì tâm lý tớ yếu, đọc tin tức tiêu cực sẽ khiến tinh thần tớ không thoải mái, nên tớ chấp nhận làm kẻ lạc hậu. Mà làm báo không nắm tin nhanh, sao làm được, không sức khỏe, sao làm được, nên tớ bỏ nghề, nghề cũng bỏ tớ rồi.
+
+Giờ tớ làm công việc văn phòng, ngồi máy lạnh ngày 8 tiếng, nhưng cũng chẳng khiến tớ vui. Tớ nhớ những ngày làm báo, cực nhưng được bay nhảy, tớ thích cảm giác đó.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/443550931249564.jpg">

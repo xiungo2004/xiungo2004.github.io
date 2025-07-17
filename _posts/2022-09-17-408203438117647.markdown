@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " - Sài Gòn không thương mi đâu, về đây đi "
+title: " - Sài Gòn không thương mi đâu, về đây đi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/408203438117647.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-09-17 13:00:10 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+- Sài Gòn không thương mi đâu, về đây đi.
+- Ừ, Sài Gòn không thương t, nhưng t thương nó.
+- Thương nó làm chi, mi không thấy nó tệ à.
+- Ừ thì nó tệ, nhưng lỡ thương rồi. Sẽ có ngày, Sài Gòn thương t.
+
+Ừ thì có đôi ba ngày, Sài Gòn tệ với bạn, tệ với tôi, tệ với chúng ta. Nhưng đã lỡ thương rồi, sao bỏ được đây. Ngộ ha. Nhưng trách sao được, Sài Gòn ôm trọn bao nhiêu con người nơi đây, chở che, bảo vệ, chỉ là lâu lâu, Sài Gòn quên mất mình, để mình đơn côi, chơi vơi nơi nhộn nhịp, đông đúc này.
+
+Rồi sẽ có ngày, Sài Gòn nhớ ra mình, nhớ rằng mình luôn ở đây, luôn yêu thương, trân quý nơi này. Rồi sẽ có ngày, Sài Gòn thương ta mà thôi.
+
+Ảnh: Tách
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/408203438117647.jpg">

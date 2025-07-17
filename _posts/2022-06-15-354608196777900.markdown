@@ -1,0 +1,64 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Vẫn biết là sau chia tay, người ấy đi để lại cho em một khoảng trống rất lớn "
+title: " Vẫn biết là sau chia tay, người ấy đi để lại cho em một khoảng trống rất lớn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/354608196777900.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2022-06-15 12:30:14 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Vẫn biết là sau chia tay, người ấy đi để lại cho em một khoảng trống rất lớn. Em bắt đầu đi tìm những thú vui riêng, đi chơi với bạn bè nhiều hơn chỉ mong khoảng trống ấy không làm e đau, không làm e day dứt.
+
+Hôm coi bài tarot, thông điệp vũ trụ bảo em nên ở một mình nhiều hơn để hiểu rõ bản thân mình. Em biết điều đó, nhưng lại chẳng cách nào làm được. Mỗi khi ở một mình, tâm trạng em như con xe xuống dốc không phanh, nó cứ trôi tụt, trôi tụt. Thế là em lại nhấc điện thoại lên, rủ bạn này bạn kia đi chơi, đi nói chuyện. Vốn đã ghét một mình, nay e càng căm thù điều đó hơn.
+
+Nhưng đâu thể cứ mãi như thế. Ai rồi cũng bận. Sẽ chẳng ai theo mãi cuộc chơi không hồi kết của em. Đã hơn 1 tháng trôi qua rồi. Em học cách đi một mình. Em dằn xuống sự khó chịu và những suy nghĩ không hay trong đầu mình.
+
+Hôm ấy chụp hình cùng đám bạn xong, ai cũng có công việc và về trước. E cố chấp lắm, không chịu về. E ngồi đấy, một mình. Lặng nhìn những người bước vào quán, họ tỉ tê cười đùa với nhau đủ thứ chuyện. Gần 3 tiếng đồng hồ ngồi ở quán, em không hiểu sao mình có thể vượt qua được. Em ngồi quan sát mọi thứ với một cái đầu rỗng tuếch. Lần đầu tiên, những suy nghĩ tiêu cực thôi bám víu lấy em.
+
+Hôm nay, e lại quyết định đi cà phê một mình. Lần này e có sự chuẩn bị, có máy tính, có sách nữa. Em hết gõ máy tính lại lôi sách ra đọc. Có lúc em lại ngồi nhìn mọi người trong quán, người làm việc, người học bài, có cả những người ngồi chơi game nữa. Cũng thú vị lắm. Nỗi cô đơn và trống rỗng thôi không còn xâm chiếm tâm hồn em.
+
+Hóa ra e chỉ là không thích cô đơn chứ không phải không sống được với nó.
+Hóa ra e vẫn có thể làm tốt mọi thứ khi ở một mình.
+Hóa ra e vẫn có thể vui vẻ, thoải mái tinh thần khi không ai ở bên
+
+Một ngày nào đó, khoảng trống trong em sẽ được lấp đầy, em sẽ thôi không còn day dứt vì những điều đã qua, em sẽ thử làm tất cả những việc mà trước đây mình không dám thử.
+
+Một ngày nào đó, em sẽ tốt hơn em của hiện tại, sẽ vui vẻ hơn em của hiện tại, sẽ hạnh phúc hơn e của hiện tại. Và em sẽ lại yêu, yêu một người nào đó khiến e thấy bình yên.
+
+#Xíu
+#ChuyencuaXiu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/354608196777900.jpg">

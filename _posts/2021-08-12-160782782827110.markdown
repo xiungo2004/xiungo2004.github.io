@@ -1,0 +1,71 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Bình yên là gì? "
+title: " Bình yên là gì? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/160782782827110.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2021-08-12 13:44:12 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2022-02-10 08:11:06 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+
+<!-- outline-start -->
+
+Bình yên là gì?
+
+Có phải là những ngày không cần lo lắng về cơm ăn áo mặc, tránh xa những lo toan, tính toán ngoài kia. Có phải là những ngày lặp đi lặp lại những điều xưa cũ, ngày hôm nay giống ngày hôm qua, ngày mai lại giống ngày hôm nay. Và chúng ta sẽ ở mãi trong cái vòng an toàn, không có điều gì mới mẻ.
+
+Bình yên liệu có phải là đích đến, là thứ mà con người cố gắng chạy theo, cố gắng cả một đời để có được hay không?
+
+Hay
+
+Bình yên là những ngày dịch bệnh, ta có một nơi để trở về, để an yên
+
+Bình yên là có một ai đó bên cạnh ta, chia sẻ mọi buồn vui trong cuộc sống.
+
+Bình yên là giữa bộn bề, lo toan ngoài xã hội, khi về nhà có cha mẹ đang chờ
+
+Bình yên là có một ai đó vì bạn mà nỗ lực còn bạn sẽ vì người đó mà cố gắng
+
+Bình yên là khi ta đã quên đi những kí ức đau buồn để đón chờ một ngày mới
+
+Bình yên là được làm công việc mình thích, sống theo cách mình mong
+
+Bình yên chấp nhận mình khiếm khuyết rồi tìm cách bù đắp lại lỗ hổng.
+
+Bình yên là khi nhìn lại những ngày tháng chông gai, ta nở một nụ cười thật tươi và cảm ơn những điều đã qua.
+
+Và bình yên là dùng trái tim để cảm nhận.
+
+#NguyetHa
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/160782782827110.jpg">
