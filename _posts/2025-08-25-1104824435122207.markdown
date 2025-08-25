@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mỗi độ tuổi sẽ có một cách thể hiện tình yêu khác nhau nhỉ? "
+title: " Mỗi độ tuổi sẽ có một cách thể hiện tình yêu khác nhau nhỉ? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1104824435122207.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-08-25 19:49:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-08-25 19:49:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mỗi độ tuổi sẽ có một cách thể hiện tình yêu khác nhau nhỉ?
+
+Cái thời còn cắp sách tới trường, yêu kiểu hơi ngây ngô, gặp nhau thì cũng ngại ngùng chẳng dám trò chuyện, chỉ về nhà nhắn tin thôi. Khúc đó đôi khi bạn chọn ở bên một người nào đó cũng chỉ cần thích thích, và mọi người xung quanh có nên mình cũng có cho bằng bạn bằng bè. Thích thích, thế là ở bên nhau.
+
+Thời sinh viên bắt đầu khác đi, tình yêu chắc lớn hơn nhỉ, đi đâu cũng kè kè bên nhau, ngay cả khi đi học ấy chứ. Dường như cả ngày dành trọn thời gian cho nhau, không cạnh bên thì cũng tin nhắn liên tục chẳng dứt, chẳng hiểu có chuyện gì mà nói nhiều thế không biết.
+
+Nhưng đến lúc đi làm rồi, thời gian nhắn ít dần đi, thay vào đó là những cuộc gọi về đêm, khi đã trở về với tổ ấm, đắp chăn, kể nhau nghe chuyện về ngày hôm nay, về định hướng, về mong muốn. Không còn nhất thiết phải trả lời tin nhắn ngay lập tức hay gặp nhau mỗi ngày, chỉ cần biết, người ấy vẫn luôn cạnh bạn, chỉ cần mở lời, người sẽ đến trong khoảnh khắc.
+
+Tình yêu mỗi thời mỗi khác, mỗi cách thể hiện khác nhau, nhưng dù ở lứa tuổi nào, tình yêu vẫn luôn đẹp theo cách riêng của nó.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1104824435122207.jpg">
