@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: " "Phải đi ra ngoài mới thấy cái cây nó xanh, chứ cứ đứng dưới tán cây thì chỉ thấy một màu đen thôi" "
-title: " "Phải đi ra ngoài mới thấy cái cây nó xanh, chứ cứ đứng dưới tán cây thì chỉ thấy một màu đen thôi" "
+lng_pair: " Phải đi ra ngoài mới thấy cái cây nó xanh "
+title: " Phải đi ra ngoài mới thấy cái cây nó xanh "
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: Xíu
