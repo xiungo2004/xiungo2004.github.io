@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
-title: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+lng_pair: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
+title: " Dường như mình đã hiểu được cảm giác của mẹ ngày ấy "
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: Xíu
@@ -15,11 +15,11 @@ img: "https://xiungo2004.github.io/img/1038302438441074.jpg"
 #comments_disable: false
 
 # publish date
-date: 2025-06-03 10:50:00 +0900
+date: 2025-06-03 19:50:00 +0900
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2025-06-03 10:50:00 +0900
+#meta_modify_date: 2025-06-03 19:50:00 +0900
 # check the meta_common_description in _data/owner/[language].yml
 #meta_description: ""
 

@@ -55,7 +55,7 @@ Bắt đầu cho một hành trình mới, hành trình của ước mơ, của 
 
 Chỉ mong bạn, ở tuổi 18, có một kết thúc đẹp và một khởi đầu mới suôn sẻ, thuận buồm xuôi gió.
 
-Xíu
+#Xíu
 
 <!-- outline-end -->
 

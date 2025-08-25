@@ -1,0 +1,48 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Ngày nhỏ tranh cãi với bạn bè, lớn lên lại tranh cãi với đồng nghiệp. "
+title: " Ngày nhỏ tranh cãi với bạn bè, lớn lên lại tranh cãi với đồng nghiệp. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1101496668788317.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-08-21 19:12:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-08-21 19:12:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Ngày nhỏ tranh cãi với bạn bè, lớn lên lại tranh cãi với đồng nghiệp.
+Ngày nhỏ sợ điểm kém, lớn lên sợ đồng lương chẳng đủ sống.
+Ngày nhỏ bị cô la, nước mắt ngắn nước mắt dài tìm đường về với mẹ, lớn lên bị sếp mắng, chỉ cúi mặt lặng thinh, chẳng dám mở lời cùng ai.
+Ngày nhỏ nỗi buồn thường chóng vánh. Khóc một chút, mẹ xoa đầu một cái, mua cho một viên kẹo là lại vui lên ngay. Còn khi lớn lên rồi, nỗi buồn bỗng trở nên nặng nề hơn. Không còn khóc nhưng lại chẳng viên kẹo nào có thể xoa dịu, luôn phải tự nhủ “mình ổn” giữa những ngổn ngang trong lòng.
+Mỗi lứa tuổi đều có những nỗi lo riêng. Với trẻ nhỏ, chỉ một cây kẹo cũng đủ vui cả ngày. Nhưng khi lớn lên, đôi khi ta lại quên cách hạnh phúc từ những điều bé nhỏ, để mặc cho bản thân bị cuốn theo những âu lo không dứt.
+Rõ ràng ta từng là một đứa trẻ, giờ đây lại chẳng thể nào sống như một đứa trẻ.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1101496668788317.jpg">

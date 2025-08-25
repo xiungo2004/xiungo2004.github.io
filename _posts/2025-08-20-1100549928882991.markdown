@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Chiếc bánh kem của mẹ "
+title: " Chiếc bánh kem của mẹ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1100549928882991.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-08-20 16:32:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-08-20 16:32:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Chiếc bánh kem của mẹ
+Ngày trước, sinh nhật ở nhà mình cũng chẳng khác gì ngày bình thường. Vẫn là vội vã ăn miếng cơm, tất bật đi làm. Với ba mẹ, cái thời mà cơm không đủ no ấy, sinh nhật cũng chỉ là một ngày bình thường như bao ngày bình thường khác, không một chút khác biệt.
+Ngày nhỏ, mình còn chẳng nhớ đến sinh nhật của ba mẹ. Chỉ biết sinh nhật mình và cũng chỉ ước một cái bánh kem nhỏ. Nhìn người ta thổi bánh kem, cũng thích lắm chứ, như một nghi lễ báo rằng bạn đã lớn thêm 1 chút, thêm 1 tuổi.
+Năm lên đại học, mình trở về thăm nhà đúng dịp sinh nhật mẹ. Thế là bàn với bé 4, đặt cho mẹ một cái bánh kem. Mua về xong giấu diếm trong phòng sợ mẹ thấy, rồi bảo mẹ “nay con thèm bánh xèo, làm ăn đi mẹ, gọi thêm mấy dì nữa”. Đó là năm đầu tiên mình tổ chức sinh nhật cho mẹ, vì năm đó mình đã bắt đầu có những công việc part-time, mua được vài món bằng tiền do chính mình làm ra mà chẳng phải xin mẹ.
+Hôm ấy, mình thấy mắt mẹ đỏ hoe. 
+- Mẹ ước gì á?
+- Ước mấy đứa con của mẹ học hành giỏi, ngoan.
+- Mẹ phải ước cái gì cho mẹ chứ
+- Thì mong ước của mẹ đó
+Có phải sau khi đã trở thành mẹ rồi, thì cuộc sống của mình chẳng còn là của mình nữa? Cho dù là ngày đặc biệt dành riêng cho mẹ, điều ước của mẹ vẫn luôn là những đứa con. 
+Từ chiếc bánh kem đầu tiên ấy đến nay cũng 5 năm rồi. Năm nào mình cũng đặt bánh kem về cho mẹ, dù có ở nhà hay không. Khác là những năm sau này, khi đã đi làm, mình sẽ tặng thêm vài món quà nhỏ khác nữa. 
+Chỉ mong những năm về sau, nếu có thể, mình muốn cạnh mẹ trong ngày đặc biệt này hơn là gửi tình cảm qua chiếc bánh kem, qua những món quà, qua lời chúc vội vã trên màn hình điện thoại.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1100549928882991.jpg">
