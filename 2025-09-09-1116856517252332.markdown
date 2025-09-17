@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Để ý đi, ba thương bạn hơn những gì bạn nghĩ đó "
+title: " Để ý đi, ba thương bạn hơn những gì bạn nghĩ đó "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1116856517252332.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-09 20:49:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-09 20:49:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Để ý đi, ba thương bạn hơn những gì bạn nghĩ đó
+
+Hôm trước về nghỉ lễ, sắp rời nhà, ba mẹ đóng 1 thùng đồ ăn cho mình mang xuống Sài Gòn. Nhà có nuôi vài con gà, trứng gà đẻ hầu như ba mẹ sẽ để phần cho mình mang xuống ăn. Lần này về ít hơn, có được vài quả thôi, mưa gió làm dơ nên ba mang vào cặm cụi lau từng quả cho sạch.
+
+Bỗng chốc mình nhớ lại thời còn nhỏ đã không ít lần hỏi mẹ “Ba có thương con không?”. Vì hiếm khi nhận được cái ôm, lời ngọt ngào khen con hay nụ cười trên môi từ ba. Hồi đó luôn cảm thấy ba khó tính, có chăng chỉ có việc học của mình là ba quan tâm thôi.
+
+Nhưng càng lớn mới càng nhận ra, ba cũng thương như mẹ thương vậy. Nhưng chắc do bản tính mạnh mẽ của một người trụ cột trong gia đình, ba ít thể hiện tình thương và đâu đó ta không chú ý và nghĩ rằng, ba chẳng thương.
+
+Thật ra hồi nhỏ ba cũng thể hiện tình thương đó chớ. Bởi mình lớn lên qua những lần ngồi trên vai ba ngao du tứ phía. Đó là chỗ ngồi vững chắc nhất, nơi mọi thứ xung quanh trở nên nhỏ bé, nơi bầu trời không còn quá xa, và là nơi mình không bao giờ ngã.
+
+Và mình cũng lớn lên qua những lần ba gọi “con gái rượu của ba”.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1116856517252332.jpg">

@@ -1,0 +1,46 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình không phải là đứa xem nhiều phim hay đọc nhiều sách về thời chiến.  "
+title: " Mình không phải là đứa xem nhiều phim hay đọc nhiều sách về thời chiến.  "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1111260777811906.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-02 18:53:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-02 18:53:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình không phải là đứa xem nhiều phim hay đọc nhiều sách về thời chiến. Đó luôn là thể loại mình né, chỉ vì sợ. Mỗi lần đọc hay xem phim đều cảm thấy nghẹt thở. Hôm bữa, mọi người rủ, mình đã lấy hết can đảm để đi xem Mưa đỏ và cái kết khóc hết nước mắt.
+
+Chiến tranh sao mà qua bao nhiêu năm vẫn thấy sự khốc liệt, nghiệt ngã mà nó mang lại. Với mình, hình ảnh trên phim hay câu chữ trong văn chương chỉ có thể lột tả được phần nào sự tàn khốc của chiến tranh. Sự đau thương, mất mát ấy, người sinh ra và sống trong thời bình như mình không cách nào hiểu hết được. Không hiểu hết mà tim đã quặn thắt, vậy thì thời ấy, làm sao cha ông ta có thể vượt qua được nhỉ?
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1111260777811906.jpg">

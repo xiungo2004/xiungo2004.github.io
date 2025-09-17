@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Năm học mới đang tới rồi, "
+title: " Năm học mới đang tới rồi, "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1112706784333972.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-04 15:25:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-04 15:25:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Năm học mới đang tới rồi, mấy nay thấy các bạn tân sinh viên háo hức lên trường làm thủ tục nhập học, tự dưng nhớ lại bản thân của vài năm trước.
+
+Hồi đó mẹ đưa mình lên Sài Gòn, đồ đạc lỉnh kỉnh. Vì trước đó cấp 3 mình cũng ở ký túc, nên cơ bản đồ đạc cũng có kha khá, mang theo từ quê lên để đỡ chi phí mua sắm lại từ đầu. Lúc đó toàn mẹ cầm đồ, mình chỉ mang mỗi cái balo, tay cầm thêm vài món nhẹ nhàng. Mẹ sợ mình nhỏ bé, mang vác không nổi mà có hay dáng người mẹ cũng nhỏ nhắn, vai lại gánh quá nhiều thứ.
+
+Sài Gòn nóng lắm, mình ở khí lạnh quen rồi, nên khó chịu, lúc nào cũng cảm thấy mệt mỏi. Rõ ràng mẹ cũng vậy, nhưng chẳng thấy mẹ than vãn gì, tất bật lo mọi thứ, hỏi người này, hỏi người kia để dẫn mình làm thủ tục nhập học, ở ký túc xá, lúc nào cũng thấy mẹ cười. Phải chăng niềm vui khi con mình đậu đại học đã lấn át đi mọi khó nhọc của mẹ. Nhận phòng được rồi thì mẹ là người bắt chuyện với mấy bạn trong phòng, hỏi han, nhờ chăm sóc, bảo ban nhau, rồi lau dọn giường, trải nệm, xong xuôi hết mọi thứ mới đi về.
+
+Mình cứ nghĩ đã quen với việc ở ký túc, dù sao cũng có kinh nghiệm mà, nên mẹ về cũng chẳng sao. Nhưng mẹ đi rồi, mình lại bật khóc, chợt thấy tủi thân và bơ vơ kinh khủng. Thành phố này sao xa lạ quá, xa nhà quá.
+
+Đâu đó mình luôn cảm thấy may mắn, vì ở mỗi chặng đường mình đi luôn có bóng dáng mẹ xuất hiện, đồng hành, dẫn dắt những bước chân đầu tiên.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1112706784333972.jpg">

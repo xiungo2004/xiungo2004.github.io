@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Càng thân thiết thì càng nên có giới hạn "
+title: " Càng thân thiết thì càng nên có giới hạn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1113697990901518.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-05 20:27:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-05 20:27:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Càng thân thiết thì càng nên có giới hạn
+
+Lúc trước mình cứ nghĩ, thôi, thân với nhau mà, cái nào cho qua được thì cứ cho qua. Luôn nghĩ rằng vì vấn đề đó nhỏ, vì là thân thiết, nói ra sợ mất lòng, sợ kỳ với nhau nên thôi, kệ. Và bản thân mình cũng vậy, dựa vào sự thân thiết mà đôi khi để người kia chịu thiệt.
+
+Nhưng những vấn đề tưởng chừng như nhỏ nhặt ấy cứ tích lũy theo từng ngày vì chưa từng được giải bày. Rồi dần thành cái gai trong lòng, hạt cát trong mắt, luôn thấy cộm, thấy cấn, đâm ra lại khó chịu, cau có với nhau.
+
+Mình cũng từng rạn nứt tình bạn chỉ vì không chịu nói thẳng ngay từ đầu, chỉ vì luôn có một bên nhường nhịn, không còn biết đâu là giới hạn có đến ngày đổ vỡ. Khi nói ra rồi, những nỗi uất ức hay những điều bất mãn không còn khiến mình khó chịu, người kia cũng hiểu được mình đang nghĩ gì mà làm khác đi.
+
+Giới hạn là điều buộc phải có trong mọi mối quan hệ, dù thân hay sơ. Với người xa lạ, giới hạn để họ không lấn tới. Với người thân thiết, giới hạn để giữ cho tình cảm không bị hao mòn. Với từng người có thể mình sẽ có những giới hạn riêng, nhưng tuyệt nhiên phải có. Và càng thân thì càng nên có giới hạn, thế mới bền.
+
+#Xíu 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1113697990901518.jpg">

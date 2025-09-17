@@ -1,0 +1,59 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Yêu lâu liệu có chán không? "
+title: " Yêu lâu liệu có chán không? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1117694783835172.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-10 21:36:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-10 21:36:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Yêu lâu liệu có chán không?
+
+Bạn kể chuyện tình 4 năm đã tới lúc cảm thấy chán, lúc nào gặp cũng đi cafe, xem phim. Bạn cũng có gợi ý những điều mới mẻ nhưng bên kia không thích, thế là cái cũ cứ lặp đi lặp lại.
+
+- M với bồ thường làm gì, đi chơi đâu?
+- Chả đi đâu cả, ở nhà nấu ăn, xem phim, nói chuyện
+- Không chán hả
+- Không, quen rồi, rất tận hưởng
+- Thế rồi bay nói gì với nhau
+- Không biết, nói nhiều lắm. Nhưng mà chẳng chuyện nào ra chuyện nào. Nói về quá khứ, nói về hiện tại, nói về tương lai, cũng nói về những chuyện không đâu, xàm xàm không đầu không đuôi.
+
+Thật ra nói chưa bao giờ chán thì không đúng, hồi trước cũng có đôi lần mình thấy chán kinh khủng. Quán cafe luôn là quán quen thuộc, đến cả món nước cũng chẳng thay đổi, đi ăn cũng là những quán từng ghé, xem phim ở rạp quen. Cũng có đôi lần mình than vãn, không thích cuộc sống cứ lặp đi lặp lại một cách tẻ nhạt như vậy. Nhưng khi anh dẫn mình đến những nơi khác, hay đưa ra nhiều sự lựa chọn thì lòng mình cũng chẳng hào hứng là mấy, vẫn là đi những chỗ quen thuộc thích hơn.
+
+Sau này, mình học cách tận hưởng những điều đang diễn ra hơn là cứ nhìn trước, nhìn sau. Cũng là nấu ăn những mỗi lần nấu là một món khác nhau mà, có lúc ngon, cũng sẽ có lúc dở. Mình cũng đâu xem đi xem lại một bộ phim hay nói những câu chuyện lặp đi lặp lại.
+
+Ừ thì yêu lâu mình nghĩ vẫn sẽ chán đó, làm sao mà không chán khi cứ lặp đi lặp lại những điều quen thuộc khi ở cạnh nhau. Nhưng mà, khi tất cả đã trở thành thói quen, khi trái tim thôi để ý những điều vụn vặt, khi hai trái tim mỗi lần cạnh nhau là lại một lần rung động. Cái "chán" lúc ấy hóa ra lại là một dạng bình yên
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1117694783835172.jpg">

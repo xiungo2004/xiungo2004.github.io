@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Có những mối tình, cứ ngỡ sẽ có một kết đẹp, ai ngờ chỉ là cuốn sách dang dở. "
+title: " Có những mối tình, cứ ngỡ sẽ có một kết đẹp, ai ngờ chỉ là cuốn sách dang dở. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1119289803675670.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-12 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-12 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Có những mối tình, cứ ngỡ sẽ có một kết đẹp, ai ngờ chỉ là cuốn sách dang dở.
+
+Gặp nhau nơi phố thị đông đúc, 2 con người xa lạ bỗng chốc quen nhau, trở thành điểm tựa cho nhau.
+
+Khi ấy, anh là sinh viên năm 2, cô chỉ mới chập chững bước lên đại học, đến với một vùng đất hoàn toàn xa lạ, gặp nhau trong buổi tụ họp đồng hương, tình cờ nhận ra nhà cũng gần nhau. Hai con người xa lạ bỗng chốc trở nên quen thuộc. Thế rồi 4 mùa trôi qua từ năm nay đến năm khác, thời gian chỉ khiến cho 2 bàn tay vẫn nắm chặt. Họ cùng nhau đi qua những năm tháng sinh viên, cùng nhau trở về quê mỗi dịp lễ Tết.
+
+Ai cũng nghĩ, rồi họ sẽ kết thúc mối tình bằng một đám cưới thật đẹp, chỉ đợi công việc ổn định hơn chút nữa sẽ về chung một nhà. Nhưng rồi, chính cái yên bình ấy lại khiến ta không nhận ra những vết nứt nhỏ đang âm thầm len vào. Không tranh cãi, không oán trách, chỉ là đến một ngày, cô không còn muốn tâm sự, không còn muốn những cái ôm sau giờ làm mệt mỏi, chỉ muốn lặng lẽ trở về căn phòng của chính mình, tự hồi phục sau một ngày dài.
+
+Và rồi, họ buông tay nhau. Không níu kéo. Không trách móc.
+
+Mình đã từng nghĩ, nếu một mối tình tan vỡ, chắc hẳn phải có lý do. Yêu có thể không, nhưng chia tay thì có. Vì người thứ 3, vì những bất đồng trong cách sống, vì vô tâm, vì gia đình cấm cản… chỉ là chưa từng nghĩ, đến một ngày sẽ hết yêu.
+
+Tình yêu kết thúc, khi người ta không còn thấy lý do để tiếp tục. Giống như một cuốn sách, ban đầu chọn vì yêu, vì thích, nhưng sau một thời gian nhận ra sách không hợp với mình. Thế là lặng lẽ, xếp sách vào một góc tủ như để lưu giữ một kỷ niệm đẹp. Còn ta vẫn sẽ kiếm tìm một cuốn sách khác, phù hợp hơn.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1119289803675670.jpg">

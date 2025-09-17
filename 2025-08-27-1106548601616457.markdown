@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Ngày nhỏ, bạn tả mẹ như thế nào? "
+title: " Ngày nhỏ, bạn tả mẹ như thế nào? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1106548601616457.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-08-27 20:05:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-08-27 20:05:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Ngày nhỏ, bạn tả mẹ như thế nào?
+
+Có phải bắt đầu bằng câu “Nhà em có … người. Người em yêu thích nhất là mẹ”. Sau đó thì mẹ em có gương mặt trái xoan, mái tóc dài đen nhánh, suôn mượt rồi đến đôi mắt bồ câu, đôi bàn tay chai sần vì tần tảo sớm hôm.
+
+Tả mẹ nhưng dường như chẳng phải mẹ. Mẹ làm gì có gương mặt trái xoan, đôi mắt bồ câu và mái tóc dài đen nhánh. Chỉ biết gương mặt mẹ in hằn dấu ấn của một người đàn bà miền núi, vất vả lo toan từng rặng nương rẫy. Gương mặt mẹ đầy những vết nhăn, đồi mồi, làn da thì cháy sạm sau những ngày bán mặt cho đất bán lưng cho trời, nó khiến mặt mẹ già đi trước tuổi.
+
+Mái tóc mẹ cũng chẳng suôn mượt, thẳng thớm gì. Tóc mẹ xoăn tít thò lò, mẹ hay bảo, tóc xoăn là khổ. Như cuộc đời mẹ vậy, từ nhỏ đến lớn dường như chưa từng có phút giây sống cho riêng mình. Ngày nhỏ, vì là con cả, mẹ vừa học vừa lo cho mấy đứa em, đến lớp 5 thì nghỉ bắt đầu lao động chân tay từ dạo đó. Lấy chồng rồi thì lo cho chồng, cho con chưa từng có giấc ngủ ngon. Tết những năm gần đây, mẹ bắt đầu đi duỗi tóc, phải chăng mẹ cũng muốn có một mái tóc dài, đen nhánh, suôn mượt như trong lời văn của con ngày còn bé.
+
+Mình cũng chẳng biết đôi mắt mẹ có phải mắt bồ câu không. Chỉ biết, người ta bảo mắt bồ câu là đẹp. Thế là gán ghép cho mẹ.
+
+Chắc chỉ có đôi bàn tay chai sần là mình tả đúng về mẹ. Đôi bàn tay cầm cuốc, cầm xẻng che chở tuổi thơ con trọn vẹn, dịu êm và có những ngón tay mềm mại cầm bút, gõ phím chứ chẳng phải lam lũ như tuổi thơ mẹ đã từng.
+
+Ngày bé tả mẹ bằng những điều đẹp đẽ nhất mà sách vở đã dạy. Nhưng nào hay, dù không có gương mặt trái xoan, không có đôi mắt bồ câu, không có mái tóc dài suôn mượt thì mẹ cũng có tất cả những gì đẹp nhất trên đời này.
+
+Giờ đây mình sẽ tả mẹ: “Mẹ tôi có đôi bàn tay chai sần, và đôi bàn tay ấy đã ôm trọn cả cuộc đời tôi.”
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1106548601616457.jpg">

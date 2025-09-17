@@ -1,0 +1,47 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Những con diều ở xóm nhỏ "
+title: " Những con diều ở xóm nhỏ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1121780430093274.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-15 20:08:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-15 20:08:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Những con diều ở xóm nhỏ
+Hôm bữa nhỏ em mình đăng xì to ry, bảo nguyên cả dịp hè chỉ xem phim, xem phim, xem phim. Đâu đó làm mình nhớ đến hè của mình vài năm về trước. 
+Xóm mình ngày ấy cứ tới hè là biết bao nhiêu trò chơi đang đợi. Hè mà, ba mẹ cũng cho chơi xả láng, ngày nào cũng chơi tới giờ cơm ba mẹ mới í ới gọi về. 
+Bầu trời mùa hè khi ấy không rực rỡ bởi những cánh diều nhiều màu như bây giờ, mà sáng rực bởi nụ cười trẻ thơ. Hồi đó ai mà được ba mẹ mua cho một con diều là “xịn” lắm, còn tụi mình chủ yếu tự chế từ giấy vở cũ. Khung thì bẻ từ những nan tre của cây chổi quét nhà. 
+Để gắn các cánh cung, tụi mình lấy cơm nguội ra dán, chẳng hiểu sao mà dính chắc lắm. Diều có 4 đuôi, 2 ngắn 2 dài, dây thả thì cứ vào tủ chôm ít chỉ may đồ của mẹ. 
+Diều của tụi mình hồi đó không bay được quá cao, bằng giấy mà, dây cũng có giới hạn nữa nhưng được cái ngày nào cũng thả, ngày nào cũng tụ tập làm diều. Có khi tụi mình sẽ vẽ vời thêm lên cánh diều vốn đã loang lổ chữ nghĩa, đôi khi còn gấp thêm 1 lá thư gắn vào diều, thả lên bầu trời và cắt dây. Dẫu biết diều sẽ rơi ở cánh vườn nào đó nhưng vẫn mong diều mang theo những tâm tư bé nhỏ, những ước mơ khi trở thành người lớn theo gió đến những miền xa thẳm. 
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1121780430093274.jpg">

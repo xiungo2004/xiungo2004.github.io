@@ -1,0 +1,57 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Những đứa trẻ ở xóm nhỏ "
+title: " Những đứa trẻ ở xóm nhỏ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1114430320828285.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-06 18:55:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-06 18:55:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Những đứa trẻ ở xóm nhỏ
+
+Năm lớp 3, nhà mình chuyển đến chỗ ở mới. Xóm này không giống xóm cũ. Xóm cũ toàn đồng hương của ba, ai ai cũng nói tiếng Quảng, và tuổi mình thì là nhỏ nhất ở đấy. Xóm mới nhiều vùng miền hơn, Bắc có, Trung có, Nam cũng có nốt, đủ bộ.
+
+Ở xóm mới, mình cũng gần như là lớn nhất trong dàn con nít rồi. Ở đó, mấy đứa nhỏ đều có tên ở nhà, nào là Cún, Bo, Đẹt (mình thì không có). Thế là quen gọi tên ở nhà của chúng, tới mãi sau này khi nhắc lại, vẫn là những tên gọi ấy, chớ đâu biết tên thật của tụi nó đâu.
+
+Lúc chuyển tới vừa đúng là kỳ hè, nên có vẻ làm quen nhanh hơn, chỉ vài ba ngày là mình đã quen hết được mọi người, cùng nhau chơi đùa nghịch phá. Lúc thì bắt ve, lúc thì chơi đồ hàng, bắn bi, u, keo… Những trò chơi ấy chắc giờ ít thấy nhỉ. Có đợt tụi mình còn rủ rê nhau đốt lửa, lấy bánh tráng ra nướng. Lửa chưa kịp cháy, khói mới bốc lên ba mẹ đã vội mang nước ra dập vì đốt ngay trong vườn cà phê, đứa nào cũng bị xách tai về nhà.
+
+Chơi với nhau cũng được vài năm ấy chứ. Nhiều khi mấy đứa nhỏ còn mang sách vở qua nhà để cùng học, xong chơi luôn cho dễ. Cứ chiều đi học về, vừa bỏ cặp là lại gặp nhau, hết trò này đến trò kia.
+Mình nhớ trong đám con nít thời ấy có bé Thảo. Nhỏ lắm, hồi mình gặp chắc mới mẫu giáo. Hồi đó mình chưa có em, nên thích chơi với bé lắm. Bé cũng cứ lẽo đẽo sau lưng mình hoài à, vì có mỗi mình với bé là con gái chớ mấy. Sau này mẹ sinh thêm đứa em gái, mình cũng không còn nhiều thời gian đi chơi, chủ yếu ở nhà chăm nó, mấy đứa kia lâu lâu mới qua mình chơi chớ bé Thảo ngày nào cũng qua. Mãi sau này ba mình vẫn hay nhắc lại “bé Thảo hồi đó ngày nào cũng đi theo con".
+
+Hôm bữa hỏi ra mới biết, bé năm nay cũng 12 rồi, sắp thi đại học rồi. chắc có lẽ trong những chuyến về thăm nhà mình có gặp bé, nhưng không nhận ra. Trong trí nhớ của mình vẫn là đứa bé nhỏ xíu đi sau lưng mình chớ chẳng phải nàng thiếu nữ trong bộ áo dài thướt tha.
+
+Sao mà thời gian trôi nhanh quá. Những đứa trẻ trong xóm nhỏ ngày ấy đều đã lớn hết rồi, mới ngày nào còn kề kề bên nhau nay đã chẳng còn nhận ra, có gặp cũng chỉ lướt qua như xa lạ.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1114430320828285.jpg">

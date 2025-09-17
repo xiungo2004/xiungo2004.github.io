@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Dù bạn bao nhiêu tuổi, đi xa vẫn là nỗi lo của ba mẹ "
+title: " Dù bạn bao nhiêu tuổi, đi xa vẫn là nỗi lo của ba mẹ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1112099071061410.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-03 20:02:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-03 20:02:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Dù bạn bao nhiêu tuổi, đi xa vẫn là nỗi lo của ba mẹ
+
+Xa nhà cũng ngót nghét được 10 năm rồi đấy. Ấy vậy mà mỗi khi mình đi xa, ba mẹ vẫn lo lắng không nguôi.
+
+Như chuyến đi Đắk Lắk vừa rồi, đi một mình, dự lễ tốt nghiệp của bạn. Hôm biết mình đi, mẹ liền gọi hỏi: “Đi chuyến mấy giờ? Tới đó mấy giờ? Giờ đó bạn ra đón được không?”. Mẹ sợ mình đến nơi lúc nửa đêm, sáng sớm, lạ nước lạ cái. Trước khi lên xe mình có nhắn mẹ, và báo sẽ tới khoảng 4-5 giờ sáng. Vừa xuống xe mình đã thấy tin nhắn của mẹ, hỏi tới chưa.
+
+Hay những lần từ Sài Gòn về, dù mình lên xe lúc 8-9 giờ tối hay 11-12 giờ đêm, mẹ đều canh giờ nhắn hỏi con lên xe chưa. Lần nào mình cũng bảo mẹ cứ ngủ đi, nào gần tới con gọi mà. Nhưng mẹ chẳng bao giờ chịu nghe, mẹ canh giờ còn đúng hơn cả báo thức, nhẩm nhẩm giờ con xuống xe, chỉ cần gọi, ba mẹ sẽ bắt máy ngay rồi tất bật ra đón.
+
+Thấy mẹ lo quá, hôm bữa mình mới bảo:
+- Con lớn rồi mà, mẹ lo cái gì chời. Có phải con chưa bao giờ đi xa đâu mà.
+- hay nhỉ, lớn thì lớn chứ
+
+Ừa thì lớn thì lớn, lớn với ai ngoài kia chớ trong mắt ba mẹ mình vẫn nhỏ bé như ngày nào, vẫn lo lắng mỗi khi con rời nhà. Vậy đó, mỗi lần mình có chuyến đi, giấc ngủ của ba mẹ chẳng còn ngon, luôn lo lắng, xem giờ, chỉ khi con nhắn đã tới ba mẹ mới an tâm chìm vào giấc ngủ.
+
+Chỉ mong mai này, dù con có lớn bao nhiêu thì mỗi chuyến đi của con đều có ba mẹ chờ đợi, lo lắng và thở phào nhẹ nhõm khi con bảo “Con tới nơi rồi” hoặc “Con tới rồi, ba mẹ ra đón con với”.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1112099071061410.jpg">

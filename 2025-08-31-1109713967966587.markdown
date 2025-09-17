@@ -1,0 +1,51 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hôm rồi mình có chuyến đi Buôn Ma Thuột để tốt nghiệp bạn. "
+title: " Hôm rồi mình có chuyến đi Buôn Ma Thuột để tốt nghiệp bạn. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1109713967966587.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-08-31 19:59:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-08-31 19:59:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Hôm rồi mình có chuyến đi Buôn Ma Thuột để tốt nghiệp bạn. Lần đầu mình lên vùng đất ấy, khí hậu thì cũng cũng hơi giống ở quê mình, vẫn là mảnh đất Tây Nguyên mát mẻ, trong lành.
+
+Hồi thi đại học, nhỏ đó đăng ký học Đắk Lắk, mình chỉ nghĩ, tại sao lại rời khỏi vùng núi này, để tới một vùng núi khác chắc khác là bao. Phải đến với thành phố rộng lớn như Sài Gòn mới có nhiều trải nghiệm và nhiều điểm lý thú. Sài Gòn dường như là giấc mơ và là điểm đến của rất nhiều đứa trẻ như mình thời ấy.
+
+Rồi mình gặp một người bạn mới, chỉ mới trò chuyện đâu độ 30p thôi. Bạn kể về những ngày bỏ phố về quê, cũng lắm hụt hẫng, trống vắng. Ở quê mà, lương chẳng cao nhưng được cái gần gia đình, chẳng phải lo lắng nhiều chi phí. Chỉ là bạn phải học cách thích nghi với chính nơi mình đã sinh ra và lớn lên, với nhịp sống chậm rãi, với đồng nghiệp khác về tư duy, suy nghĩ.
+Bạn bảo: hồi mới về quê, cũng nhớ Sài Gòn lắm.
+
+Cũng may là học xong bạn về luôn, chớ ở Sài Gòn đi làm vài năm, chắc sẽ khó về hơn. Đôi lúc mình cũng mong mỏi được trở về để gần gia đình, nhưng lại chẳng biết về như thế nào, thích nghi như thế nào, thế là lại thôi.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1109713967966587.jpg">
