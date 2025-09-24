@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn Tập Tin Học</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <h1><i class="fas fa-laptop-code"></i> Ôn Tập Tin Học</h1>
+            <div class="header-stats">
+                <span id="progress-display">0/0</span>
+                <span id="score-display">0đ</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Settings Panel -->
+        <div id="settings-panel" class="panel">
+            <div class="settings-header">
+                <h2><i class="fas fa-cog"></i> Cài Đặt Quiz</h2>
+                <p>Tùy chỉnh quiz theo nhu cầu của bạn</p>
+            </div>
+            
+            <!-- Simple Module Selection -->
+            <div class="setting-section">
+                <h3><i class="fas fa-book"></i> Chọn Chủ Đề</h3>
+                <div class="button-group">
+                    <button class="setting-btn active" data-type="module" data-value="all">
+                        <i class="fas fa-th-large"></i>
+                        <span>Tất Cả</span>
+                        <small>445 câu</small>
+                    </button>
+                    <button class="setting-btn" data-type="module" data-value="IU07">
+                        <i class="fab fa-microsoft"></i>
+                        <span>Word</span>
+                        <small>150 câu</small>
+                    </button>
+                    <button class="setting-btn" data-type="module" data-value="IU08">
+                        <i class="fas fa-table"></i>
+                        <span>Excel</span>
+                        <small>148 câu</small>
+                    </button>
+                    <button class="setting-btn" data-type="module" data-value="IU09">
+                        <i class="fas fa-presentation"></i>
+                        <span>PowerPoint</span>
+                        <small>147 câu</small>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Quiz Mode -->
+            <div class="setting-section">
+                <h3><i class="fas fa-play"></i> Chế Độ Quiz</h3>
+                <div class="button-group">
+                    <button class="setting-btn active" data-type="mode" data-value="practice">
+                        <i class="fas fa-graduation-cap"></i>
+                        <span>Ôn Tập</span>
+                        <small>Hiện đáp án ngay</small>
+                    </button>
+                    <button class="setting-btn" data-type="mode" data-value="test">
+                        <i class="fas fa-clock"></i>
+                        <span>Kiểm Tra</span>
+                        <small>Chỉ xem cuối quiz</small>
+                    </button>
+                    <button class="setting-btn" data-type="mode" data-value="review">
+                        <i class="fas fa-redo"></i>
+                        <span>Ôn Lại</span>
+                        <small>Câu sai & đánh dấu</small>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Simple Options -->
+            <div class="setting-section">
+                <h3><i class="fas fa-sliders-h"></i> Tùy Chọn</h3>
+                <div class="option-list">
+                    <label class="option-item">
+                        <input type="checkbox" id="shuffle-questions" checked>
+                        <span class="checkmark"></span>
+                        <div>
+                            <strong>Trộn câu hỏi</strong>
+                            <small>Hiển thị ngẫu nhiên</small>
+                        </div>
+                    </label>
+                    <label class="option-item">
+                        <input type="checkbox" id="show-images" checked>
+                        <span class="checkmark"></span>
+                        <div>
+                            <strong>Hiển thị hình ảnh</strong>
+                            <small>Bật/tắt hình ảnh</small>
+                        </div>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Start Button -->
+            <div class="start-section">
+                <button id="start-quiz" class="start-btn">
+                    <i class="fas fa-rocket"></i>
+                    <span>Bắt Đầu Quiz</span>
+                </button>
+                <button id="quick-start" class="quick-btn">
+                    <i class="fas fa-bolt"></i>
+                    Bắt đầu nhanh
+                </button>
+            </div>
+        </div>
+
+        <!-- Quiz Panel -->
+        <div id="quiz-panel" class="panel hidden">
+            <!-- Quiz Controls -->
+            <div class="quiz-controls">
+                <div class="quiz-info">
+                    <span id="question-counter">1/100</span>
+                    <div class="progress-bar">
+                        <div id="progress-fill" class="progress-fill"></div>
+                    </div>
+                </div>
+                
+                <div class="quiz-actions">
+                    <button id="flag-btn" class="control-btn flag-btn">
+                        <i class="fas fa-flag"></i>
+                    </button>
+                    
+                    <button id="settings-btn" class="control-btn">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                    
+                    <button id="reset-btn" class="control-btn reset-btn" title="Làm lại từ đầu (giữ thống kê)">
+                        <i class="fas fa-redo"></i>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Question Content -->
+            <div id="question-content" class="question-content">
+                <!-- Single Question View -->
+                <div id="single-view" class="question-view">
+                    <div id="question-text" class="question-text"></div>
+                    <div id="question-image" class="question-image"></div>
+                    <div id="options-container" class="options-container"></div>
+                    <div id="answer-section" class="answer-section hidden">
+                        <div class="correct-answer">
+                            <i class="fas fa-check-circle"></i>
+                            Đáp án: <span id="correct-answer"></span>
+                        </div>
+                    </div>
+                    
+                    <!-- Navigation Controls (Bottom) -->
+                    <div class="quiz-navigation">
+                        <button id="prev-btn-bottom" class="nav-control-btn" disabled>
+                            <i class="fas fa-chevron-left"></i>
+                            <span>Câu trước</span>
+                        </button>
+                        
+                        <button id="next-btn-bottom" class="nav-control-btn">
+                            <span>Câu tiếp</span>
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Continuous View -->
+                <div id="continuous-view" class="question-view hidden">
+                    <div id="continuous-content" class="continuous-content"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Statistics Panel -->
+        <div id="stats-panel" class="panel hidden">
+            <h2><i class="fas fa-chart-bar"></i> Thống Kê</h2>
+            
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-questions">0</div>
+                    <div class="stat-label">Tổng Câu</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="answered-questions">0</div>
+                    <div class="stat-label">Đã Làm</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="correct-answers">0</div>
+                    <div class="stat-label">Đúng</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="accuracy-rate">0%</div>
+                    <div class="stat-label">Độ Chính Xác</div>
+                </div>
+            </div>
+
+            <div class="progress-overview">
+                <h3>Tiến Độ Theo Module</h3>
+                <div id="module-stats" class="module-stats"></div>
+            </div>
+
+            <div class="question-status">
+                <h3>Trạng Thái Câu Hỏi</h3>
+                <div id="question-grid" class="question-grid"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <nav class="bottom-nav">
+        <button class="nav-btn active" data-panel="settings">
+            <i class="fas fa-cog"></i>
+            <span>Cài Đặt</span>
+        </button>
+        <button class="nav-btn" data-panel="quiz">
+            <i class="fas fa-question-circle"></i>
+            <span>Luyện Tập</span>
+        </button>
+        <button class="nav-btn" data-panel="stats">
+            <i class="fas fa-chart-bar"></i>
+            <span>Thống Kê</span>
+        </button>
+    </nav>
+
+    <script src="app.js"></script>
+</body>
+</html>
