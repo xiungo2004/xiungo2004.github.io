@@ -1,0 +1,46 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " không biết sao bữa giờ luôn cảm thấy thời gian trôi đi rất nhanh "
+title: " không biết sao bữa giờ luôn cảm thấy thời gian trôi đi rất nhanh "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1133917622212888.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-09-29 18:34:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-09-29 18:34:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+không biết sao bữa giờ luôn cảm thấy thời gian trôi đi rất nhanh. rõ ràng vẫn là 24 tiếng mỗi ngày, nhưng hồi nhỏ thấy rất chậm, rất chậm, lớn lên chưa kịp định hình thì một ngày đã cứ thế mà trôi qua.
+liệu có phải vì hồi nhỏ, luôn mong chờ thời gian trôi, mong chờ từng ngày để được lớn lên, nên cảm thấy chậm
+lớn lên lại muốn níu giữ thời gian, nên luôn vô hình chung thấy thời gian trôi đi thật nhanh
+càng muốn níu giữ lại càng tuột khỏi tầm tay
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1133917622212888.jpg">

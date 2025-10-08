@@ -1,0 +1,51 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " có những đêm giấc ngủ không ngon "
+title: " có những đêm giấc ngủ không ngon "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1136312898640027.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-02 08:11:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-02 08:11:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+có những đêm giấc ngủ không ngon, cứ trằn trọc thao thức, chốc chốc lại giật mình tỉnh dậy. bỗng chốc lại không biết mình đang ở đâu, đã làm gì vào ngày hôm qua, hôm sau khi tỉnh dậy sẽ làm gì. cứ vậy mà mơ mơ hồ hồ thiếp đi như một kẻ đang trôi vào khoảng không vô tận.
+trời hừng sáng, báo thức vẫn chưa reo, nằm ráng thêm xíu nữa. trong đầu không có bất cứ một suy nghĩ nào cả, chỉ nằm đó và đợi, đợi báo thức reo như báo hiệu một ngày mới sẽ bắt đầu.
+lộm cộm bò dậy, gọi về cho mẹ:
+- sao gọi mẹ giờ này, không lo chuẩn bị đi làm đi à
+- thì tối con đi học mà, nên giờ con gọi
+- thì chiều ăn cơm rồi gọi
+ba vội chen lời: - chắc nhớ mẹ chứ gì
+có lẽ như vậy thật, vội lật lịch ra đếm xem còn bao nhiêu ngày nữa sẽ được về.
+nhớ đến bản thân của vài năm trước, tiếng trước vừa kêu muốn về nhà, tiếng sau đã ngồi ngoài bến xe háo hức được trở về.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1136312898640027.jpg">

@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Nếu cuộc đời không rực rỡ sắc màu? "
+title: " Nếu cuộc đời không rực rỡ sắc màu? "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1142288528042464.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-08 18:32:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-08 18:32:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Nếu cuộc đời không rực rỡ sắc màu?
+Mình từng thích được đứng trên sân khấu với bộ trang phục lộng lẫy, ánh đèn sáng chói, cất tiếng nói dẫn dắt một chương trình. Mình đã từng rất thích hình ảnh đó - thu hút, nổi bật, và đầy tự tin.
+Nhưng rồi khi bước ra ánh sáng ấy, mình lại thấy không thoải mái, lúng túng, áp lực đè nặng, mình hiểu được rằng, bản thân không dành cho nơi chốn ấy. Hiện giờ mình trở thành người đứng phía sau, góp phần nhỏ để một chương trình trở nên hoàn thiện hơn. 
+Mình từng nghĩ, sẽ sống một cuộc đời sôi động, chu du khắp chốn, đến những vùng đất lạ và thử sức với những điều mới mẻ. Mình nghĩ, nếu có một cuộc đời trải nghiệm nhiều, thì khi về già, mình sẽ có cái để kể con cháu nghe. 
+Nhưng, cuộc sống của mình hiện tại lại trái ngược hoàn toàn. 
+Sáng 6h dậy cơm nước đi làm
+Chiều 5h về, có những hôm đi học sẽ về nhà lúc 9h tối
+10h, 11h đã leo lên giường đi ngủ 
+Những chuỗi ngày lặp lại. Nhưng lại không chán ghét điều đó.
+Có người từng hỏi mình, sao có thể thay đổi nhiều đến vậy. 
+Mình chỉ cười 
+Tuổi trẻ sao thiếu được những mơ mộng, mong sao sống một cuộc đời thật huy hoàng, rực rỡ, ai nhìn vào cũng phải ngưỡng mộ. Nhưng lớn một chút, hiểu hơn về bản thân, về giới hạn, về mong muốn, mình nhận ra, không phải ai cũng có thể sống một cuộc đời chói lọi.
+Và điều đó… cũng không sao cả.
+Không phải ai sinh ra cũng để rực rỡ. Nhưng ai cũng có thể sống một cuộc đời mang sắc màu riêng, góp phần tô vẽ lên bức tranh rực rỡ của thế gian
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1142288528042464.jpg">

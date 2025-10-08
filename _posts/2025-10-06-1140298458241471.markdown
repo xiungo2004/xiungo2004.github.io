@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Trung thu mỗi lớn lại một thêm xa vời "
+title: " Trung thu mỗi lớn lại một thêm xa vời "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1140298458241471.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-06 16:10:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-06 16:10:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Trung thu mỗi lớn lại một thêm xa vời
+
+Ngày nhỏ, mong đợi Trung thu như đợi Tết về vậy. Dù chẳng được nghỉ học dài ngày nhưng lại nhộn nhịp tiếng trống đánh, múa lân. Chiều nào cũng vậy, nhiều đoàn lân đi từ nhà này đến nhà khác. Có khi lân được vô trường, múa cho đám nhóc coi, nhộn nhịp hơn bao giờ hết.
+
+Ngày đó, đôi lần mình cũng muốn được đi theo đoàn lân. Con nít mà, chỗ nào náo nhiệt thì mình theo thôi. Nhưng ba mẹ sợ xe cộ, không cho mình đi. Ngồi trong nhà thôi mà lòng cứ háo hức, mắt dán ngoài đường đón chờ đoàn lân đi qua.
+
+Cứ gần tới Tết Trung thu, đám trẻ con đều nô nức rủ nhau ra Hội trường để nhận quà. Mỗi đứa được một túi quà nho nhỏ với đủ thứ bánh kẹo, một bịch osi nhỏ, cây kẹo mút, bánh trung thu, thêm vài món linh tinh… Đám trẻ hí hửng mang về, có những món không thích thì sẽ đổi cho nhau, rồi để dành ăn từ từ.
+
+Từ nhỏ đến lớn mình chưa từng được đi rước đèn, vì trời tối, ba mẹ không có thì giờ, lại không an tâm để mình đi một mình. Nhưng vẫn được mua cho lồng đèn cho chơi, chỉ có thể tự rước một mình. Cứ tắt hết điện từ nhà trên xuống nhà dưới, bật đèn rồi đi. Lười nữa thì chui vào chăn, trùm mền lại rồi bật cho đến khi hết pin. Trung thu cũng chẳng cần có bánh, chỉ cần coi lân, có được lồng đèn, vậy thôi là thỏa mãn, ngóng từng ngày từng ngày.
+
+Giờ thì Trung thu bỗng trở nên xa vời. Đường phố không rộn ràng, đoàn lân cũng trở nên thưa thớt, hoặc mình đang ở phố nên không thấy. Bánh trung thu thì vẫn có đó, chiếc bánh to hơn món quà nho nhỏ khi đó, nhưng lại không có vị của niềm vui thuở bé. Bánh thuở bé có vị gì nhỉ, mình cũng chẳng biết, mà giờ có khi ăn lại cũng chẳng còn cảm nhận được vị như ngày đó.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1140298458241471.jpg">

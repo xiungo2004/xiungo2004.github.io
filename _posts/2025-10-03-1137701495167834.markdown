@@ -1,0 +1,48 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " hồi mới đi học xa nhà, mình thường có những chuyến về nhà bất chợt "
+title: " hồi mới đi học xa nhà, mình thường có những chuyến về nhà bất chợt "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1137701495167834.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-03 20:02:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-03 20:02:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+hồi mới đi học xa nhà, mình thường có những chuyến về nhà bất chợt. về tới nhà nhiều khi còn chẳng có chìa khóa, phải leo rào vào, cốt để ba mẹ được 1 phen bất ngờ.
+nhưng giờ thì khác, nếu có dự định về, có khi mình sẽ báo mẹ trước cả 1 tháng. bởi mình hiểu, ba mẹ luôn ở nhà ngóng trông mình về. mình cũng thấm thía được một điều, đợi chờ không đáng sợ, sợ là không biết đợi tới khi nào. 
+mấy hồi gọi mẹ, mẹ kể ở nhà có món gì ngon, nay mẹ được cho cá, sẽ phơi 1 nắng bỏ tủ lạnh, đợi con về mang đi. mẹ mới trồng luống rau, đợi con về ăn. gà mẹ mới bắt nuôi, chắc tới hồi con về là mần thịt được rồi.
+giống như câu nói trong Hoàng tử bé “Nếu cậu đến, chẳng hạn như vào lúc bốn giờ chiều, thì từ ba giờ, tớ đã bắt đầu vui sướng rồi.”
+mình cũng muốn, từ khi bắt đầu biết mình về, ba mẹ đã mang niềm vui, niềm vui của sự chờ đợi. cái niềm vui ấy không chỉ hiện diện ở bữa cơm có đông đủ thành viên, mà cảm giác đứa con của mình vẫn nhớ đường về nhà.
+niềm vui của ba mẹ là những ngày con trở về, còn niềm vui của con là có một nơi để trở về.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1137701495167834.jpg">
