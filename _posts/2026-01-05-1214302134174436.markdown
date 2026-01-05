@@ -1,0 +1,61 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Góc bóc phốt người yêu mê ngủ "
+title: " Góc bóc phốt người yêu mê ngủ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1214302134174436.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2026-01-05 21:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2026-01-05 21:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Góc bóc phốt người yêu mê ngủ
+
+Đợt vừa rồi nghỉ lễ, anh về nhà mình chơi. Chơi đâu không thấy, toàn thấy ngủ.
+
+Về tới nhà 4h sáng, ba ra đón anh vào.
+
+- Vào ngủ thêm xíu nữa đi
+
+- Ủa ngủ nữa hả
+
+- Còn sớm mà, ngủ đi
+
+Cứ tưởng anh tỉnh giấc sẽ khó ngủ lại. Ai dè đến khi mình dậy, mẹ đã nấu sẵn đồ ăn sáng, lên gọi anh vẫn còn đang ngáy ngon lành.
+Ăn sáng xong đi qua dì chơi, trước khi đi anh đã làm một ly cà phê. Qua tới nhà dì, mắt vẫn chưa mở ra, gật gà gật gù. Lên xe đi về thì ngủ luôn trên xe, mẹ mình nhìn mà cười bất lực.
+
+Trước đó anh cũng về nhà mình một lần, dịp 2/9. Lần đó vừa về thì mình lên đà lạt khám bệnh luôn. Mình và mẹ vào khám, anh ngoài này nằm ngủ trên xe ngon lành. Ba phải đứng ngoài canh chứ không thể khóa cửa xe, cũng không thể cứ để xe như vậy mà đi được. Anh ngủ từ lúc đi, đến lúc về vẫn còn ngủ.
+
+Đó, nhà mình vô cùng đánh giá cái kiểu mê ngủ của người yêu mình.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1214302134174436.jpg">
