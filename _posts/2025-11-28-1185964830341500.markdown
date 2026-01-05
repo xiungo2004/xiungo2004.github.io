@@ -1,7 +1,9 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: " Hình như tụi mình không có tế bào lãng mạn "
-title: " Hình như tụi mình không có tế bào lãng mạn "
+lng_pair: " Hình như tụi mình không có tế bào lãng mạn
+ "
+title: " Hình như tụi mình không có tế bào lãng mạn
+ "
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: Xíu
@@ -15,7 +17,7 @@ img: "https://xiungo2004.github.io/img/1185964830341500.jpg"
 #comments_disable: false
 
 # publish date
-date: 2025-28-11 20:00:00 +0900
+date: 2025-11-28 20:00:00 +0900
 
 # seo
 # if not specified, date will be used.
@@ -51,6 +53,7 @@ Dẫu sinh nhật anh, nhưng mình thì thư giãn ở ngoài, anh thì ngồi 
 Quà sinh nhật thì chẳng bao giờ mình và anh tặng đúng ngày đâu, toàn trước. Hàng vừa về đã không kìm được lòng mang đi khoe, rồi tặng luôn. Hôm bữa, mình tính mua mấy con gấu trúc xinh xinh tặng hôm sinh nhật cho bất ngờ, ai dè lúc nhận hàng, thích quá đi khoe anh rồi sẵn tiện chôm luôn một con.
 Vậy đó, nhiều khi thấy tụi mình chẳng lãng mạn tí nào, sao sao á. Nhưng mà thôi, cứ đại đại dị đi, cũng vui.
 #Xíu
+
 Nhẽ ra nó có 6 con cơ, mà mình chôm mất 1 con mang lên chỗ làm rồi
 
 <!-- outline-end -->
