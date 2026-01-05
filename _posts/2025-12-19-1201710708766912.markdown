@@ -1,0 +1,56 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Ba mẹ chẳng bao giờ chịu nghỉ ngơi "
+title: " Ba mẹ chẳng bao giờ chịu nghỉ ngơi "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1201710708766912.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-12-19 21:32:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-12-19 21:32:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Ba mẹ chẳng bao giờ chịu nghỉ ngơi
+
+Mấy hôm rày mẹ mình cứ đòi đi làm thuê cho người ta. Chả là đã vào vụ cà phê rồi, vài năm trước thì mùa này ba mẹ đã bận tối mặt tối mày. Nhưng năm nay, cà phê mới trồng lại, chẳng có bao nhiêu trái hết, thành ra lại rảnh rỗi. Thế là mẹ đòi đi hái thuê cho người ta, kiếm đồng ra đồng vào. Lúc đầu thì mẹ đi thôi, sau ba cũng đi nốt.
+
+Mình chẳng còn nhớ lần gần nhất ba mẹ mình đi làm thuê như vậy là lúc nào nữa, chắc phải cả hơn chục năm về trước rồi. Thế mà giờ đây, ở cái tuổi xế chiều, ba mẹ lại chẳng ngồi yên được. Mình bảo:
+
+- Thôi, ở nhà nghỉ ngơi cho khỏe, đi làm chi cho cực.
+
+- Kệ, khỏe re á mà. Được đồng nào được chứ.
+
+Thế là mẹ đi. Cuối ngày về mệt rã rời nhưng tính lại coi hái được bao nhiêu, được bao nhiêu tiền, thế là lại cười hì hì vui vẻ.
+
+Cả một đời quen tay quen chân, liên lục làm lụm lo toan, nên nhiều khi ba mẹ rảnh rỗi xí lại thấy chả yên lòng. Ngó cũng ngộ thiệt.
+
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1201710708766912.jpg">

@@ -1,0 +1,46 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Từ khi nào thuốc không còn quá đáng sợ "
+title: " Từ khi nào thuốc không còn quá đáng sợ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1191121303159186.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-12-05 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-12-05 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Từ khi nào thuốc không còn quá đáng sợ
+Ngày nhỏ mình sợ thuốc lắm, nhưng xui cái là hay bệnh. Và mình chỉ uống khi mẹ nhìn chằm chằm, mẹ lơ một cái mình giấu và vứt đi. Thuốc đáng sợ hơn bệnh, bệnh vặt thì từ từ rồi hết, nằm vài ngày là khỏi. 
+Còn giờ, vừa nhá nhêm bệnh, hơi mệt mệt mình đã vội mua thuốc. Mỗi lần uống vẫn khó khăn lắm, nhăn mặt nhăn mày, sợ đắng, nhưng sợ mệt hơn. Bệnh chút thôi, bao nhiêu việc tồn đọng, nhiều khi vẫn phải gắng mà hoàn thành.
+Cũng có thể do mình uống thuốc quen rồi, nên những lần uống dễ hơn ngày còn bé. Cũng có thể vì mẹ chẳng ở cạnh, bệnh cũng chẳng làm nũng được với ai nên đành vậy.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1191121303159186.jpg">

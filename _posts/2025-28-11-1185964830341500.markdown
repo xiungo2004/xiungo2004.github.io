@@ -1,0 +1,58 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Hình như tụi mình không có tế bào lãng mạn "
+title: " Hình như tụi mình không có tế bào lãng mạn "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1185964830341500.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-28-11 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-28-11 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Hình như tụi mình không có tế bào lãng mạn
+Chuyện là nay sinh nhật anh, thế là tối qua mình dự định sẽ thức khuya, đợi đồng hồ điểm ngày mới sẽ nhắn tin chúc mừng sinh nhật.
+Mà khổ nổi, dạo này cứ buồn ngủ sớm, mới hơn 9h đã ngáp ngắn ngáp dài. Đến 10h thì gọi anh, bảo:
+- Em tính đợi 12h chúc mừng sinh nhật anh á, mà nãy giờ ngáp tám chục lần
+- Ý là em có chúc giờ đó thì cũng sáng mai anh mới đọc á.
+- Ủa anh không thức làm bài nữa à?
+- Có, nhưng anh cũng là con người mà em, đi ngủ mai còn dậy sớm nấu ăn đi làm
+- Dị hẻ, dị nghen, chúng ta cứ dị hỉ
+- Ok
+- Ok, ngủ đây, sáng mai dậy bé chúc anh.
+Thế là mình lên giường đi ngủ, sáng mở mắt ra mới nhắn anh câu chúc mừng sinh nhật.
+Lúc đầu thì anh có lịch học vào tối nay sau đó mới xuống gặp mình. Thế là sau giờ làm, mình tòn ten đi gội đầu, làm móng. Ai dè thầy đổi ngày báo cáo, anh xuống sớm hơn dự tính, mà lúc đó mình đã bắt đầu làm nail rồi.
+Dẫu sinh nhật anh, nhưng mình thì thư giãn ở ngoài, anh thì ngồi dưới nhà đợi gần 2 tiếng (khúc này thấy mình tệ nè, mà thôi cũng kệ). Gần 9h, mình và anh mới cùng thổi bánh kem, hát chúc mừng sinh nhật, thế là hết một ngày.
+Quà sinh nhật thì chẳng bao giờ mình và anh tặng đúng ngày đâu, toàn trước. Hàng vừa về đã không kìm được lòng mang đi khoe, rồi tặng luôn. Hôm bữa, mình tính mua mấy con gấu trúc xinh xinh tặng hôm sinh nhật cho bất ngờ, ai dè lúc nhận hàng, thích quá đi khoe anh rồi sẵn tiện chôm luôn một con.
+Vậy đó, nhiều khi thấy tụi mình chẳng lãng mạn tí nào, sao sao á. Nhưng mà thôi, cứ đại đại dị đi, cũng vui.
+#Xíu
+Nhẽ ra nó có 6 con cơ, mà mình chôm mất 1 con mang lên chỗ làm rồi
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1185964830341500.jpg">

@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Cô bé bị từ chối tình cảm trong mắt người khác "
+title: " Cô bé bị từ chối tình cảm trong mắt người khác "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1145473881057262.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-11 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-11 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Cô bé bị từ chối tình cảm trong mắt người khác
+Ừa, đó là kiểu mọi người hay gọi mình bữa giờ á. 
+Chuyện là hôm bữa đi đến doanh nghiệp chụp sự kiện, mình không mang theo máy tính cũng như đầu lọc thẻ nhớ, mà sếp cần hình liền. Thế là mình mới nhờ một anh lấy ảnh ra giúp, nhờ luôn anh tải ảnh lên drive luôn, thẻ nhớ đưa anh cầm. 
+Hôm sau, với sự biết ơn vô bờ bến thì mình đã mua cho anh 1 ly nước, sẵn tiện lên lấy thẻ nhớ luôn. Nhưng anh không nhận. Thì thôi, chuyện mình nghĩ như vậy là kết thúc.
+Cho đến cả tuần sau, sếp mình hỏi:
+- Đứa nào bữa mua nước mang lên khoa cho X
+Mình vẫn ngây ngô: - Dạ em á anh, bữa ảnh hỗ trợ vụ lấy ảnh nên em mua cảm ơn. Sao á anh.
+- Đồn ầm trên đó kìa, kêu là có con bé phòng truyền thông, nó thích, xong nó mang nước lên tặng mà anh này không lấy.
+Chị đồng nghiệp: - Ủa dị là đối tượng bữa giờ bị nói tới là em á hả. Mấy bữa chị đi xe đưa rước cũng nghe mọi người nói quá trời, kêu là có con bé nào đó đến tỏ tình mà bị từ chối. 
+Vài bữa sau, tin đồn lại thêm chút biến tướng, “con bé nó lên tặng nước, thằng này không thích nó quăng ly nước xuống đất”.
+Hôm qua anh chơi cùng cũng chạy lại hỏi: - Anh mới nghe dụ ở trên khoa nha, sao mày không mua cho anh, cho anh là anh đâu có từ chối.
+Thế đó, vào lúc mình chẳng hay biết gì, tin đồn cứ thế mà lan truyền với tam sao thất bản. Lời đồn quả thật là thứ không đáng tin.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1145473881057262.jpg">

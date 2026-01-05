@@ -1,0 +1,45 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Không kiểm soát, không trốn chạy, để mặc cho dòng đời xuôi dòng chảy "
+title: " Không kiểm soát, không trốn chạy, để mặc cho dòng đời xuôi dòng chảy "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1161196156151701.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-10-29 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-10-29 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình đọc được câu nói thế này “khi nước đục, người ta không khuấy lên để nó trong lại. Người ta chỉ để yên. Rồi bùn sẽ tự lắng xuống, nước sẽ tự trong veo như vốn dĩ nó từng là’.
+Vậy nên, mình cũng đang học, học để những cặn trong lòng tự lắng xuống trước bão giông. Càng khuấy càng đục, càng cố tìm cách gỡ lại càng rối. Không biết sẽ phải mất bao nhiêu thời gian, nhưng ngoài việc để yên, ta chẳng thể làm gì khác. Chuyện xảy ra thì vẫn sẽ xảy ra như sự sắp đặt từ trước.
+Không kiểm soát, không trốn chạy, để mặc cho dòng đời xuôi dòng chảy, rồi ta sẽ đến được nơi mình cần đến, lòng sẽ lại bình yên như vốn dĩ nó đã từng.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1161196156151701.jpg">

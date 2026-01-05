@@ -1,0 +1,49 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Ôi chuyện bé tí ấy mà "
+title: " Ôi chuyện bé tí ấy mà "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1198628102408506.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-12-15 19:55:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-12-15 19:55:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Ôi chuyện bé tí ấy mà
+Mấy hôm rày, bé Tư gọi kể mình vài chuyện trên lớp và mối quan hệ bạn bè. Nhỏ không hiểu sao một người vừa mới cười nói với mình đây thôi, qua giây sau là lơ đẹp đi như chưa từng quen biết. Chuyện này đã xảy ra vài lần trước đó, nhưng vì nghĩ dù sao cũng bạn bè nên lần nào bên kia nói chuyện lại, nó cũng ậm ừ bỏ qua chuyện cũ.
+Mình nghe thì thấy chuyện ấy bé tí tẹo, không đáng để nhỏ buồn và suy nghĩ nhiều đến thế. Không chơi với người này thì chơi với người khác thôi. Mình cũng bảo nhỏ vậy. 
+Bởi trong thế giới của mình hiện tại, chuyện nhỏ vừa kể không phải là vấn đề. Vấn đề mình gặp phải là sao để tốt nghiệp đúng hạn, có thể làm thêm gì để kiếm tiền rồi mua gì cho ba mẹ, cả chuyện yêu đương nữa. 
+Mấy lần đầu nghe nhỏ kể, mình có đôi chút mất kiên nhẫn, vì nghĩ là chuyện vặt. Nhưng khi nhớ lại bản thân ngày bằng tuổi nó thì đó là chuyện tày trời. Mình cũng từng trải qua những ngày tháng u buồn vì bị bạn bè cô lập mà chẳng hiểu vì sao và cũng chẳng biết nói cùng ai.
+Nên những lần về sau, mình lắng nghe nhiều hơn dẫu chẳng đưa ra được lời khuyên nào có ích. Đó là vấn đề của nhỏ, nhỏ phải tự mình trải qua và sau này khi nhìn lại sẽ thấy mình thật nhảm nhí.
+Tuổi nào mà chẳng có lo toan. Nhỏ thì lo chuyện nhỏ. Lớn lo chuyện lớn. Và khi đã đi qua hết mọi thứ, nhìn lại sẽ thấy, ôi chuyện bé tí ấy mà. 
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1198628102408506.jpg">

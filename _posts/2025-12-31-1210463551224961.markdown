@@ -1,0 +1,54 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Trong năm hông thấy yêu đương gì, còn mấy ngày cuối năm cái rủ nhao có bồ. "
+title: " Trong năm hông thấy yêu đương gì, còn mấy ngày cuối năm cái rủ nhao có bồ. "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1210463551224961.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-12-31 18:55:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-12-31 18:55:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+- Ê, qua Tết Tây chị mời cả phòng đi ăn
+- Dụ gì chị.... Ể đừng nói thành rồi nghen
+Chị ấy bẻn lẽn gật đầu.
+-----------
+- Ý Bùi, tôi có này muốn trình bày. Tôi qua bển làm dâu đây
+- Hả, tôi cần một câu xác nhận rằng cô đã có bồ
+- Gật gật
+Trong năm hông thấy yêu đương gì, còn mấy ngày cuối năm cái rủ nhao có bồ. Bộ mùa đông lạnh lắm hay gì mà đua nhau nắm lấy một bàn tay sưởi ấm vậy.
+À mà cũng lạnh thiệt, mùa này có bồ là hợp lý gòi. 
+Tui cũng dị. Chỉ là tui thấy lạnh quanh năm, nên phải nắm tay quanh năm.
+Chúc những ai còn lưu luyến độc thân năm tới sẽ có bồ nha, yêu đương đi, dui lắm.
+Cũng chúc ai đó sẽ có một tình yêu tính bằng năm ạ
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1210463551224961.jpg">

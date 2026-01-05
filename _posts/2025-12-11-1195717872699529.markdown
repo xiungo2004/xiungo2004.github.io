@@ -1,0 +1,52 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Im lặng trong một mối quan hệ "
+title: " Im lặng trong một mối quan hệ "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1195717872699529.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-12-11 21:46:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-12-11 21:46:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Im lặng trong một mối quan hệ
+Mình quen biết một đôi bạn, chơi với nhau đâu đó được 10 năm rồi, từ hồi còn học chung cao đẳng, lên đại học, rồi đi làm.  
+Mình khá ngưỡng mộ tình bạn như thế, bởi để giữ mối quan hệ 10 năm vẫn đồng hành cùng nhau ở mỗi chặng đường chẳng phải là điều dễ dàng. Nhưng rồi một ngày mình thấy hai chị không còn trò chuyện cùng nhau. Vẫn chung nhóm nhưng không còn tươi cười hay đối đáp qua lại. 
+Ban đầu mình chỉ nghĩ chắc giận dỗi xí thôi, con người mà, dù ở tuổi nào cũng có đôi lúc giận cả thế giới như thế. Đến khi hỏi mới biết, người kia bảo người này đã thôi nhắc đến tên chị trong các nhóm, thôi không còn giỡn hớt như ngày nào, cũng không còn rủ đi chơi. Người này thì bảo người kia nghĩ không hay về mình, chơi với nhau 10 năm mà chẳng hiểu nhau.
+Nhưng chẳng ai nói ra cho đối phương hiểu cả. Cứ im lặng và nghĩ rằng tình bạn 10 năm cũng chỉ đến thế mà thôi. Tự nghĩ rồi tự mình tổn thương.
+—----------------------
+Thật ra ngày trước mình cũng như thế. Cứ bắt người ta phải hiểu mình, hiểu sự nhạy cảm của mình mà quên mất rằng, họ có phải là mình đâu mà hiểu được.
+Ngày đó, không ít lần mình giận dỗi với anh. Chỉ vì mình không thích những điều anh làm, anh nói. Nhưng thay vì trình bày, mình chọn cách im lặng với niềm hy vọng anh sẽ hiểu ra và thay đổi. Càng hy vọng lại càng thất vọng rồi dẫn đến những tan vỡ.
+Sau này khi đã học cách chấp nhận rằng mình và anh chẳng có thần giao cách cảm, tâm linh tương thông gì cả. Chỉ có lời nói giao tiếp để hiểu nhau mà thôi. Mình thôi không còn im lặng mỗi khi khó chịu, mình chọn nói ra để anh biết mình muốn gì và cần gì. Chuyện yêu đương bỗng dễ dàng hơn nhiều.
+Mình nghĩ dù là mối quan hệ nào cũng thế thôi, gia đình, bạn bè, tình yêu. Chỉ cần nói ra, mọi thứ có lẽ sẽ dễ dàng hơn rất nhiều. Im lặng chỉ là vàng khi đang nóng máu thôi, chớ khi đã bình tĩnh thì hãy chọn cách nói ra. Vấn đề sẽ chẳng vì bạn im lặng mà biến mất đâu.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1195717872699529.jpg">

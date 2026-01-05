@@ -1,0 +1,48 @@
+---
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: " Mình không giỏi trong việc giữ mối quan hệ trên mạng xã hội "
+title: " Mình không giỏi trong việc giữ mối quan hệ trên mạng xã hội "
+# post specific
+# if not specified, .name will be used from _data/owner/[language].yml
+#author: Xíu
+# multiple category is not supported
+category: Facebook
+# multiple tag entries are possible
+tags: [Facebook]
+# thumbnail image for post
+img: "https://xiungo2004.github.io/img/1180449200893063.jpg"
+# disable comments on this page
+#comments_disable: false
+
+# publish date
+date: 2025-11-21 20:00:00 +0900
+
+# seo
+# if not specified, date will be used.
+#meta_modify_date: 2025-11-21 20:00:00 +0900
+# check the meta_common_description in _data/owner/[language].yml
+#meta_description: ""
+
+# optional
+# if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
+#image_viewer_on: true
+# if you enabled image_lazy_loader_posts you don't need to enable this. This is only if image_lazy_loader_posts = false
+#image_lazy_loader_on: true
+# exclude from on site search
+#on_site_search_exclude: true
+# exclude from search engines
+#search_engine_exclude: true
+# to disable this page, simply set published: false or delete this file
+#published: false
+---
+Mình không giỏi trong việc giữ mối quan hệ trên mạng xã hội
+Mình có vài người bạn, không nhiều, ít nhắn tin, chỉ là dăm bữa nửa tháng mới gặp được một lần. Cũng có vài người, cả năm chỉ gặp đâu đó độ 2 3 lần.
+Bạn bè trên mạng xã hội thì hầu như là không có. Trước kia còn có vài người nhắn tin qua lại, nhưng thời gian dần trôi, mình cũng dần ít nhắn hơn. Có lẽ vì giờ đây ai cũng bận bịu với công việc riêng, với cuộc sống cá nhân nên tụi mình ít nhắn. Thế là những dòng tin nhắn thưa dần, khung chat chỉ hiện lên khi có việc cần.  
+Mình thích những cuộc hẹn, được đối mặt trò chuyện, nghe giọng nói của nhau hơn là những dòng tin nhắn không cảm xúc. Tụi mình sẽ bất chợt gọi nhau vào một ngày cuối tuần, cùng nhau ngồi trà chanh nói chuyện vu vơ về một điều gì đó, có thể là hoài niệm quá khứ, cũng có thể là dự định tương lai. Vẫn là những câu nói chọc ghẹo nhau như năm nào, không có khoảng cách, không có sự gượng gạo mà thời gian mang lại.
+Nhưng cũng có những mối quan hệ cứ thế mà nhạt dần: không gặp, không nhắn, rồi trôi tuột khỏi cuộc đời mình lúc nào không hay. Đôi khi mình vẫn tiếc, nhưng có lẽ đó là quy luật của cuộc sống. Mình chọn cách theo dõi nhau trên mạng xã hội, giữ một chút kết nối mỏng manh và mong rằng trong tương lai, nếu có gặp lại vẫn có thể mỉm cười thật tâm, trò chuyện chân thành như ngày nào.
+Càng lớn, vòng tròn bạn bè dường như càng thu hẹp lại. Mình phải mất rất lâu để chấp nhận được rằng, có những người, dẫu từng thân nhưng đã định sẵn phải rời khỏi chuyến tàu bạn đang đi.
+#Xíu
+
+<!-- outline-end -->
+
+<img src= "https://xiungo2004.github.io/img/1180449200893063.jpg">
