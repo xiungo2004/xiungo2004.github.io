@@ -1,7 +1,9 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
-lng_pair: " Đây là lý do vì sao chúng tôi hay nhắc "hồi đó". "
-title: " Đây là lý do vì sao chúng tôi hay nhắc "hồi đó". "
+lng_pair: " Đây là lý do vì sao chúng tôi hay nhắc hồi đó.
+ "
+title: " Đây là lý do vì sao chúng tôi hay nhắc hồi đó.
+ "
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
 #author: Xíu
@@ -36,6 +38,7 @@ date: 2025-12-24 20:41:00 +0900
 #published: false
 ---
 Đây là lý do vì sao chúng tôi hay nhắc "hồi đó".
+
 Không phải vì tiếc nuối quá khứ hay người đã từng, mà là nhớ nhung chính chúng tôi của những ngày ấy
 
 <!-- outline-end -->
